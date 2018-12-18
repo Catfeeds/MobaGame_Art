@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="522her13" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="d3x60" name="Main.xml" path="/组件/" exported="true"/>
+    <component id="d3x62" name="章节信息.xml" path="/组件/"/>
+    <component id="d3x64" name="礼包.xml" path="/组件/"/>
+    <component id="d3x65" name="普通章节按钮.xml" path="/组件/章节/"/>
+    <image id="lnrz7" name="精英背景.jpg" path="/资源/精英/"/>
+    <image id="lnrz8" name="普通背景.jpg" path="/资源/普通/"/>
+    <image id="lnrz9" name="普通.jpg" path="/资源/"/>
+    <image id="lnrza" name="精英BOSS关卡按钮.png" path="/资源/精英/"/>
+    <image id="lnrzb" name="精英关卡按钮.png" path="/资源/精英/"/>
+    <image id="lnrzc" name="普通BOSS关卡按钮.png" path="/资源/普通/"/>
+    <image id="lnrzd" name="普通关卡按钮.png" path="/资源/普通/"/>
+    <image id="qip3e" name="礼包 64.png" path="/资源/"/>
+    <image id="qip3g" name="难度按钮1.png" path="/资源/"/>
+    <image id="qip3h" name="难度按钮 蒙版.png" path="/资源/"/>
+    <component id="qip3j" name="普通BOSS章节按钮.xml" path="/组件/章节/"/>
+    <image id="qip3k" name="1001.png" path="/资源/"/>
+    <component id="qip3l" name="章节头像.xml" path="/组件/章节/"/>
+    <image id="kyggm" name="关卡按钮底部.png" path="/资源/普通/"/>
+    <image id="ll03n" name="头像蒙版.png" path="/资源/普通/"/>
+    <image id="ll03o" name="Bitmap.png" path="/资源/"/>
+    <image id="ll03p" name="礼包 关卡 弹窗.jpg" path="/资源/"/>
+    <component id="ll03q" name="精英章节按钮.xml" path="/组件/章节/"/>
+    <component id="ll03r" name="精英BOSS章节按钮.xml" path="/组件/章节/"/>
+    <image id="ll03s" name="精英BOSS关卡按钮2.png" path="/资源/精英/"/>
+    <image id="ll03t" name="精英关卡按钮2.png" path="/资源/精英/"/>
+    <image id="hngsu" name="普通BOSS关卡按钮 2 描边.png" path="/资源/普通/"/>
+    <image id="hngsw" name="普通关卡按钮 2 描边.png" path="/资源/普通/"/>
+  </resources>
+  <publish name="Chapter" path="E:\X1Client\Assets\StreamingFairyAssets\Chapter">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

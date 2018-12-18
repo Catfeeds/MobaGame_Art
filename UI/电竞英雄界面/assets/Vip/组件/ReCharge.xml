@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="238,332" bgColor="#102744">
+  <displayList>
+    <loader id="n21_knat" name="n0" xy="0,0" size="239,287" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n18_knat" name="n1" xy="0,0" size="237,50" font="微软雅黑" fontSize="30" color="#6f572e" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <graph id="n24_knat" name="n2" xy="0,237" size="237,45" type="rect" fillColor="#ff102744"/>
+    <text id="n26_knat" name="n3" xy="0,237" size="237,45" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <loader id="n25_knat" name="n4" xy="0,52" size="237,186" align="center" vAlign="middle"/>
+    <component id="n19_knat" name="n5" src="d3x61" pkg="sgwvgm5z" xy="-1,284" size="239,51">
+      <Button title="购买" icon="ui://sgwvgm5zjzbo4m" selectedIcon="ui://sgwvgm5zjzbo4n"/>
+    </component>
+  </displayList>
+</component>

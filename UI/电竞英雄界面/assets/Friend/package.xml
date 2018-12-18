@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5rkpn5t2" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="oof60" name="Main.xml" path="/组件/" exported="true"/>
+    <component id="oof61" name="好友信息.xml" path="/组件/"/>
+    <component id="oof62" name="申请信息.xml" path="/组件/"/>
+    <component id="oof63" name="黑名单信息.xml" path="/组件/"/>
+    <component id="oof64" name="添加好友弹框.xml" path="/组件/"/>
+    <component id="oof65" name="添加好友信息.xml" path="/组件/"/>
+    <image id="lnrz7" name="750p 通用界面.jpg" path="/资源/"/>
+    <image id="qip3a" name="删除(1).png" path="/资源/"/>
+    <image id="qip3b" name="拉黑(1).png" path="/资源/"/>
+  </resources>
+  <publish name="Friend" path="E:\client\trunk\Assets\StreamingFairyAssets\Friend"/>
+</packageDescription>

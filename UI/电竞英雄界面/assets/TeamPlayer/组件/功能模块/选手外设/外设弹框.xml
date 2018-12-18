@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://41vqeinnh6yh3r">
+  <displayList>
+    <graph id="n0_h6yh" name="n0" xy="0,0" size="1334,750" group="n44_h6yh" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n1_h6yh" name="n1" src="jzbo4s" pkg="sgwvgm5z" xy="135,85" size="1066,627" group="n44_h6yh"/>
+    <image id="n15_h6yh" name="n15" src="h6yh3p" xy="653,528" group="n44_h6yh"/>
+    <image id="n36_h6yh" name="n36" src="qip323" pkg="sgwvgm5z" xy="615,159" size="5,551" group="n44_h6yh"/>
+    <component id="n2_h6yh" name="n2" src="d3x61" pkg="sgwvgm5z" xy="1144,83" size="59,58" group="n44_h6yh">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+    <text id="n3_h6yh" name="n3" xy="635,91" size="65,44" group="n44_h6yh" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" bold="true" text="外设"/>
+    <group id="n44_h6yh" name="n44" xy="0,0" size="1334,750"/>
+    <image id="n21_h6yh" name="n21" src="vy9j14" xy="1135,345" size="2,427" group="n46_h6yh" rotation="90"/>
+    <image id="n38_h6yh" name="n38" src="vy9j14" xy="1135,514" size="2,427" group="n46_h6yh" rotation="90"/>
+    <group id="n46_h6yh" name="n46" xy="1135,345" size="2,596"/>
+    <text id="n31_h6yh" name="n31" xy="700,610" size="89,31" group="n47_h6yh" font="微软雅黑" fontSize="20" color="#ffffff" leading="0" letterSpacing="1" strokeColor="#000000" text="升级消耗"/>
+    <image id="n32_h6yh" name="n32" src="ppxq2q" pkg="sgwvgm5z" xy="790,604" size="30,28" group="n47_h6yh" aspect="true"/>
+    <text id="n33_h6yh" name="n33" xy="825,610" size="91,28" group="n47_h6yh" font="微软雅黑" fontSize="20" color="#f7c833" leading="0" letterSpacing="1" autoSize="none" strokeColor="#000000" text=""/>
+    <group id="n47_h6yh" name="n47" xy="700,604" size="216,37" collapsed="true"/>
+    <image id="n56_g9no" name="n56" src="h6yh1b" xy="655,159" size="513,39" group="n48_h6yh"/>
+    <text id="n57_g9no" name="n57" xy="856,158" size="125,44" group="n48_h6yh" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="外设信息"/>
+    <component id="n39_h6yh" name="n39" src="h6yh30" xy="708,211" size="126,126" group="n48_h6yh"/>
+    <text id="n40_h6yh" name="n40" xy="850,206" size="266,50" group="n48_h6yh" font="微软雅黑" fontSize="35" color="#ffffff" ubb="true" autoSize="none" bold="true" text=""/>
+    <text id="n41_h6yh" name="n41" xy="853,247" size="104,44" group="n48_h6yh" font="微软雅黑" fontSize="30" color="#ffffff" autoSize="none" bold="true" text=""/>
+    <text id="n42_h6yh" name="n42" xy="955,253" size="117,34" group="n48_h6yh" font="微软雅黑" fontSize="22" color="#87ffa0" autoSize="none" text="可升级"/>
+    <list id="n53_diw7" name="starList" xy="850,287" size="190,32" group="n48_h6yh" layout="row" overflow="scroll" colGap="5" defaultItem="ui://sgwvgm5zd3x6e">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n48_h6yh" name="n48" xy="655,158" size="513,179"/>
+    <component id="n34_h6yh" name="n34" src="d3x61" pkg="sgwvgm5z" xy="722,639" size="148,47" grayed="true">
+      <Button title="升级" icon="ui://sgwvgm5zoof6i"/>
+    </component>
+    <component id="n35_h6yh" name="n35" src="d3x61" pkg="sgwvgm5z" xy="964,639" size="148,47" grayed="true">
+      <Button title="装备" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <text id="n30_h6yh" name="n30" xy="700,524" size="448,83" font="微软雅黑" fontSize="20" color="#3497f3" leading="0" autoSize="none" bold="true" text=""/>
+    <list id="n54_diw7" name="n51" xy="711,351" size="427,165" overflow="scroll" defaultItem="ui://41vqeinnh6yh3s"/>
+    <component id="n55_g9no" name="n55" src="6z194n" xy="140,141" size="470,550"/>
+  </displayList>
+</component>

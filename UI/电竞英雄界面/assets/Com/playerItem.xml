@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,125">
+  <displayList>
+    <loader id="n22_nvfz" name="quality" xy="4,6" size="110,110" group="n44_vhel" url="ui://sgwvgm5zkztg50" fill="scaleFree"/>
+    <loader id="n23_nvfz" name="playerImg" xy="16,9" size="87,104" group="n44_vhel" url="ui://sgwvgm5zkztg51" fill="scaleFree"/>
+    <image id="n24_nvfz" name="on" src="kztg52" fileName="已上阵.png" xy="1,2" group="n44_vhel" hideByEditor="true"/>
+    <image id="n29_nvfz" name="selected" src="kztg53" fileName="选中.png" xy="0,0" group="n44_vhel" hideByEditor="true"/>
+    <group id="n44_vhel" name="n44" xy="0,0" size="120,125"/>
+  </displayList>
+</component>

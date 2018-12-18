@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://tienhxpuxbdx1a">
+  <controller name="c1" pages="0,钻石,1,金币" selected="0"/>
+  <displayList>
+    <graph id="n0_xbdx" name="n0" xy="0,0" size="1334,750" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n1_xbdx" name="n1" src="jzbo4s" pkg="sgwvgm5z" xy="252,123" size="830,513" group="n42_xbdx"/>
+    <image id="n7_xbdx" name="n7" src="xbdx8" xy="546,181" size="3,451" group="n42_xbdx"/>
+    <text id="n3_xbdx" name="n3" xy="588,131" size="154,44" group="n42_xbdx" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="出售信息"/>
+    <text id="n8_xbdx" name="n8" xy="570,220" size="130,43" group="n42_xbdx" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" leading="0" letterSpacing="-2" autoSize="none" text="出售货币:"/>
+    <text id="n9_xbdx" name="n9" xy="570,298" size="130,43" group="n42_xbdx" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" leading="0" letterSpacing="-2" autoSize="none" text="出售价格:"/>
+    <text id="n10_xbdx" name="n10" xy="570,374" size="130,43" group="n42_xbdx" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" leading="0" letterSpacing="-2" autoSize="none" text="售卖时长:"/>
+    <text id="n11_xbdx" name="n11" xy="583,462" size="106,43" group="n42_xbdx" font="微软雅黑" fontSize="30" color="#d9a406" vAlign="middle" leading="0" letterSpacing="-2" autoSize="none" text="手续费:"/>
+    <component id="n2_xbdx" name="n2" src="d3x61" pkg="sgwvgm5z" xy="1026,121" size="59,59" group="n42_xbdx">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+    <group id="n42_xbdx" name="n42" xy="252,121" size="833,515" collapsed="true"/>
+    <component id="n4_xbdx" name="n4" src="xtyk53" pkg="sgwvgm5z" xy="300,208" size="200,200" group="n43_xbdx" aspect="true"/>
+    <loader id="n5_xbdx" name="n5" xy="303,418" size="50,50" group="n43_xbdx" url="ui://sgwvgm5zqip321" fill="scaleFree"/>
+    <text id="n6_xbdx" name="n6" xy="358,423" size="182,43" group="n43_xbdx" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" text="选手名字"/>
+    <text id="n50_z25p" name="n50" xy="288,489" size="80,36" group="n43_xbdx" font="微软雅黑" fontSize="25" color="#ffffff" text="身价："/>
+    <text id="n51_z25p" name="n51" xy="288,540" size="80,36" group="n43_xbdx" font="微软雅黑" fontSize="25" color="#ffffff" text="工资："/>
+    <text id="n52_z25p" name="n52" xy="370,489" size="171,36" group="n43_xbdx" font="微软雅黑" fontSize="25" color="#ffffff" autoSize="none" text=""/>
+    <text id="n53_z25p" name="n53" xy="370,540" size="171,36" group="n43_xbdx" font="微软雅黑" fontSize="25" color="#ffffff" autoSize="none" text=""/>
+    <group id="n43_xbdx" name="n43" xy="288,208" size="253,368"/>
+    <text id="n17_xbdx" name="n17" xy="792,220" size="65,43" group="n44_xbdx" font="微软雅黑" fontSize="30" color="#4dfefa" vAlign="middle" leading="0" letterSpacing="-2" autoSize="none" text="钻石"/>
+    <image id="n15_xbdx" name="n15" src="ppxq2r" pkg="sgwvgm5z" xy="747,212" size="46,46" group="n44_xbdx" aspect="true"/>
+    <component id="n12_xbdx" name="n12" src="lmls3w" pkg="sgwvgm5z" xy="702,226" size="33,33" group="n44_xbdx">
+      <Button checked="true" controller="c1" page="0"/>
+    </component>
+    <group id="n44_xbdx" name="n44" xy="702,212" size="156,51" collapsed="true"/>
+    <text id="n18_xbdx" name="n18" xy="963,220" size="65,43" group="n45_xbdx" font="微软雅黑" fontSize="30" color="#f7d962" vAlign="middle" leading="0" letterSpacing="-2" autoSize="none" text="金币"/>
+    <image id="n14_xbdx" name="n14" src="ppxq2q" pkg="sgwvgm5z" xy="918,214" size="46,44" group="n45_xbdx" aspect="true"/>
+    <component id="n13_xbdx" name="n13" src="lmls3w" pkg="sgwvgm5z" xy="875,226" size="33,33" group="n45_xbdx">
+      <Button controller="c1" page="1"/>
+    </component>
+    <group id="n45_xbdx" name="n45" xy="875,214" size="153,49" collapsed="true"/>
+    <text id="n19_xbdx" name="n19" xy="746,461" size="85,43" group="n46_xbdx" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" leading="0" letterSpacing="-2" ubb="true" text="99999"/>
+    <image id="n20_xbdx" name="n20" src="ppxq2r" pkg="sgwvgm5z" xy="693,455" size="45,45" group="n46_xbdx" aspect="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n49_xbdx" name="n49" src="ppxq2q" pkg="sgwvgm5z" xy="693,455" size="45,45" group="n46_xbdx" aspect="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <group id="n46_xbdx" name="n46" xy="693,455" size="138,49" collapsed="true"/>
+    <graph id="n24_xbdx" name="n24" xy="702,296" size="341,49" group="n47_xbdx" type="rect" lineColor="#ff006da6" fillColor="#ff00345e"/>
+    <text id="n25_xbdx" name="n25" xy="704,299" size="337,43" group="n47_xbdx" input="true" prompt="请输入拍卖价格" keyboardType="4" font="微软雅黑" fontSize="30" color="#0062b7" align="center" vAlign="middle" leading="0" autoSize="none" text=""/>
+    <group id="n47_xbdx" name="n47" xy="702,296" size="341,50" collapsed="true"/>
+    <graph id="n26_xbdx" name="n26" xy="702,372" size="341,49" group="n48_xbdx" type="rect" lineColor="#ff005f93" fillColor="#ff00192e"/>
+    <text id="n28_xbdx" name="n28" xy="794,375" size="146,43" group="n48_xbdx" font="微软雅黑" fontSize="30" color="#66ff76" align="center" vAlign="middle" leading="0" autoSize="none" text="12小时"/>
+    <image id="n27_xbdx" name="n27" src="xbdxi" xy="1002,383" size="35,30" group="n48_xbdx" aspect="true" color="#8eeeff"/>
+    <group id="n48_xbdx" name="n48" xy="702,372" size="342,50" collapsed="true"/>
+    <component id="n21_xbdx" name="n21" src="d3x61" pkg="sgwvgm5z" xy="716,555" size="183,67">
+      <Button title="开始出售" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <graph id="n29_xbdx" name="n29" xy="703,420" size="340,210" group="n41_xbdx" type="rect" lineColor="#ff00689e" fillColor="#ff00192e"/>
+    <graph id="n32_xbdx" name="n32" xy="704,423" size="338,67" group="n38_xbdx" type="rect" lineColor="#ff002442" fillColor="#ff002442"/>
+    <text id="n33_xbdx" name="n33" xy="825,433" size="101,43" group="n38_xbdx" font="微软雅黑" fontSize="30" color="#66ff77" align="center" vAlign="middle" leading="0" text="12小时"/>
+    <group id="n38_xbdx" name="n38" xy="704,423" size="338,68" group="n41_xbdx" collapsed="true"/>
+    <graph id="n35_xbdx" name="n35" xy="704,491" size="338,70" group="n39_xbdx" type="rect" lineColor="#ff00192f" fillColor="#ff00192e"/>
+    <text id="n34_xbdx" name="n34" xy="825,506" size="101,43" group="n39_xbdx" font="微软雅黑" fontSize="30" color="#66ff77" align="center" vAlign="middle" leading="0" text="24小时"/>
+    <group id="n39_xbdx" name="n39" xy="704,491" size="338,70" group="n41_xbdx" collapsed="true"/>
+    <graph id="n36_xbdx" name="n36" xy="704,563" size="338,67" group="n40_xbdx" type="rect" lineColor="#ff002442" fillColor="#ff002442"/>
+    <text id="n37_xbdx" name="n37" xy="825,576" size="101,43" group="n40_xbdx" font="微软雅黑" fontSize="30" color="#66ff77" align="center" vAlign="middle" leading="0" text="48小时"/>
+    <group id="n40_xbdx" name="n40" xy="704,563" size="338,67" group="n41_xbdx" collapsed="true"/>
+    <group id="n41_xbdx" name="n41" xy="703,420" size="340,211" hideByEditor="true" visible="false" advanced="true" collapsed="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,118">
+  <displayList>
+    <image id="n6_iod4" name="n6" src="iod44j" fileName="资源/聊天窗口.png" xy="626,40" size="506,74" scale="-1,1"/>
+    <loader id="n0_d3x6" name="n0" xy="0,0" size="118,118" fill="scaleFree"/>
+    <text id="n1_d3x6" name="n1" xy="120,0" size="295,36" font="微软雅黑" fontSize="25" color="#ffffff" autoSize="none" text="角色六个名字"/>
+    <text id="n2_d3x6" name="n2" xy="144,45" size="470,58" font="微软雅黑" fontSize="18" color="#ffffff" autoSize="none" text="01上课就发了"/>
+  </displayList>
+</component>

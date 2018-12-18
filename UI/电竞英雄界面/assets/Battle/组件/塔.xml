@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="926,470">
+  <displayList>
+    <image id="n19_pirx" name="n19" src="pirx1g" xy="686,36" group="n21_pirx"/>
+    <image id="n20_pirx" name="tower_2_0_0" src="pirx1h" xy="674,0" group="n21_pirx"/>
+    <group id="n21_pirx" name="n21" xy="674,0" size="66,69" group="n27_pirx" collapsed="true"/>
+    <image id="n16_pirx" name="tower_2_1_1" src="pirx1d" xy="655,44" group="n22_pirx"/>
+    <image id="n17_pirx" name="tower_2_1_2" src="pirx1e" xy="584,74" group="n22_pirx"/>
+    <image id="n18_pirx" name="tower_2_1_3" src="pirx1f" xy="549,111" group="n22_pirx"/>
+    <group id="n22_pirx" name="n22" xy="549,44" size="125,109" group="n27_pirx" collapsed="true"/>
+    <image id="n13_pirx" name="tower_2_2_1" src="pirx1a" xy="758,56" group="n23_pirx"/>
+    <image id="n14_pirx" name="tower_2_2_2" src="pirx1b" xy="805,125" group="n23_pirx"/>
+    <image id="n15_pirx" name="tower_2_2_3" src="pirx1c" xy="895,248" group="n23_pirx"/>
+    <group id="n23_pirx" name="n23" xy="758,56" size="167,249" group="n27_pirx" collapsed="true"/>
+    <image id="n10_pirx" name="tower_2_0_1" src="pirx1t" xy="591,9" group="n24_pirx"/>
+    <image id="n11_pirx" name="tower_2_0_2" src="pirx18" xy="466,4" group="n24_pirx"/>
+    <image id="n12_pirx" name="tower_2_0_3" src="pirx19" xy="328,2" group="n24_pirx"/>
+    <group id="n24_pirx" name="n24" xy="328,2" size="282,42" group="n27_pirx" collapsed="true"/>
+    <group id="n27_pirx" name="n27" xy="328,0" size="597,305" collapsed="true"/>
+    <image id="n25_pirx" name="n25" src="pirx1i" xy="20,371" group="n28_pirx"/>
+    <image id="n26_pirx" name="tower_1_0_0" src="pirx1j" xy="0,328" group="n28_pirx"/>
+    <group id="n28_pirx" name="n28" xy="0,328" size="94,104" group="n32_pirx" collapsed="true"/>
+    <image id="n7_pirx" name="tower_1_1_1" src="pirx1q" xy="166,298" group="n29_pirx"/>
+    <image id="n8_pirx" name="tower_1_1_2" src="pirx1r" xy="326,227" group="n29_pirx"/>
+    <image id="n9_pirx" name="tower_1_1_3" src="pirx1s" xy="389,172" group="n29_pirx"/>
+    <group id="n29_pirx" name="n29" xy="166,172" size="243,168" group="n32_pirx" collapsed="true"/>
+    <image id="n4_pirx" name="tower_1_2_1" src="pirx1n" xy="208,412" group="n30_pirx"/>
+    <image id="n5_pirx" name="tower_1_2_2" src="pirx1o" xy="431,429" group="n30_pirx"/>
+    <image id="n6_pirx" name="tower_1_2_3" src="pirx1p" xy="719,436" group="n30_pirx"/>
+    <group id="n30_pirx" name="n30" xy="208,412" size="553,62" group="n32_pirx" collapsed="true"/>
+    <image id="n1_pirx" name="tower_1_0_1" src="pirx1k" xy="55,241" group="n31_pirx"/>
+    <image id="n2_pirx" name="tower_1_0_2" src="pirx1l" xy="122,126" group="n31_pirx"/>
+    <image id="n3_pirx" name="tower_1_0_3" src="pirx1m" xy="169,59" group="n31_pirx"/>
+    <group id="n31_pirx" name="n31" xy="55,59" size="133,229" group="n32_pirx" collapsed="true"/>
+    <group id="n32_pirx" name="n32" xy="0,59" size="761,415" collapsed="true"/>
+    <image id="n37_tzme" name="tower_3_4_1" src="tzme2f" xy="370,37" pivot="0.5,1" size="50,50" aspect="true"/>
+    <image id="n40_tzme" name="tower_3_4_3" src="tzme2d" xy="310,109"/>
+    <image id="n41_tzme" name="tower_3_4_4" src="tzme2c" xy="493,271"/>
+    <image id="n42_tzme" name="tower_3_4_2" src="tzme2b" xy="604,223"/>
+    <image id="n49_tzme" name="tower_3_4_6" src="tzme2c" xy="450,42" size="28,38" aspect="true"/>
+    <image id="n50_tzme" name="tower_3_4_5" src="tzme2d" xy="639,145" size="28,38" aspect="true"/>
+  </displayList>
+</component>

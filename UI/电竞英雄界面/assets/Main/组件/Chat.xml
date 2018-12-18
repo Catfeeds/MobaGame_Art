@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImageLayer="1" bgColor="#999999">
+  <displayList>
+    <graph id="n2_d3x6" name="n2" xy="0,0" size="701,750" type="rect" lineSize="0" lineColor="#ff00304c" fillColor="#e6002f4a"/>
+    <graph id="n12_qip3" name="n12" xy="59,0" size="643,750" type="rect" lineSize="0" lineColor="#ff00304c" fillColor="#ff011724"/>
+    <list id="n1_d3x6" name="n1" xy="1,113" size="58,446" overflow="scroll" defaultItem="ui://sgwvgm5zd3x68"/>
+    <list id="n6_d3x6" name="n6" xy="60,5" size="643,669" overflow="scroll" defaultItem="ui://y6zsaagqd3x639"/>
+    <component id="n7_d3x6" name="n7" src="lnrz4b" xy="1,0" size="57,112">
+      <Button checked="true"/>
+    </component>
+    <graph id="n17_qip3" name="n17" xy="59,673" size="643,78" type="rect" lineSize="0" lineColor="#ff00304c" fillColor="#ff011724"/>
+    <component id="n18_hngs" name="n18" src="hngs4l" xy="703,0"/>
+    <component id="n10_d3x6" name="n10" src="d3x61" pkg="sgwvgm5z" xy="558,690" size="132,43">
+      <Button title=" 发送" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <graph id="n8_d3x6" name="n8" xy="135,683" size="335,54" group="n11_d3x6" type="rect" lineSize="2" lineColor="#ff1fafd7" fillColor="#ff333333"/>
+    <text id="n9_d3x6" name="n9" xy="138,688" size="328,47" group="n11_d3x6" input="true" prompt="输入你想说的话" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" text=""/>
+    <group id="n11_d3x6" name="n11" xy="135,683" size="335,54"/>
+    <component id="n14_qip3" name="n14" src="d3x61" pkg="sgwvgm5z" xy="61,680" size="69,69">
+      <Button title=" " icon="ui://y6zsaagqqip34d"/>
+    </component>
+    <component id="n15_qip3" name="n15" src="d3x61" pkg="sgwvgm5z" xy="481,680" size="69,69">
+      <Button title=" " icon="ui://y6zsaagqqip34e"/>
+    </component>
+    <component id="n16_qip3" name="n16" src="d3x61" pkg="sgwvgm5z" xy="701,272" size="37,189">
+      <Button title=" " icon="ui://y6zsaagqqip34f"/>
+    </component>
+    <component id="n19_t4vp" name="n19" src="g9025r" xy="240,500" visible="false"/>
+  </displayList>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1006,590" opaque="false">
+  <displayList>
+    <image id="n14_jzbo" name="n14" src="jzbof" xy="0,0" size="1006,251"/>
+    <text id="n106_f6zi" name="n106" xy="133,86" size="42,37" font="微软雅黑" fontSize="25" color="#feea66" align="center" vAlign="middle" autoSize="none" bold="true" text="10"/>
+    <image id="n91_f6zi" name="n91" src="f6zi12" xy="-6,267" size="508,332" group="n95_f6zi"/>
+    <image id="n93_f6zi" name="n93" src="f6zi15" xy="-4,364" group="n95_f6zi"/>
+    <image id="n94_f6zi" name="n94" src="f6zi15" xy="485,364" group="n95_f6zi"/>
+    <image id="n5_jzbo" name="n5" src="jzbo6" xy="119,328" group="n95_f6zi"/>
+    <text id="n29_jzbo" name="n29" xy="138,280" size="210,41" group="n95_f6zi" font="微软雅黑" fontSize="30" color="#ffffff" align="center" autoSize="none" bold="true" text="招募一次"/>
+    <text id="n30_jzbo" name="n30" xy="305,299" size="210,41" group="n95_f6zi" font="微软雅黑" fontSize="20" color="#54d6ed" align="center" autoSize="none" bold="true" text="每日免费剩余:50"/>
+    <text id="n32_jzbo" name="n32" xy="146,484" size="210,41" group="n95_f6zi" font="微软雅黑" fontSize="20" color="#feea66" align="center" autoSize="none" bold="true" text="12:34:56后免费"/>
+    <component id="n103_f6zi" name="n103" src="f6zi17" xy="105,502" group="n95_f6zi">
+      <Button title="免费" icon="ui://sgwvgm5zppxq2q"/>
+    </component>
+    <group id="n95_f6zi" name="n95" xy="-6,267" size="521,333" collapsed="true"/>
+    <image id="n96_f6zi" name="n96" src="f6zi12" xy="505,266" size="508,332" group="n99_f6zi"/>
+    <image id="n97_f6zi" name="n97" src="f6zi15" xy="507,363" group="n99_f6zi"/>
+    <image id="n98_f6zi" name="n98" src="f6zi15" xy="997,363" group="n99_f6zi"/>
+    <image id="n6_jzbo" name="n6" src="jzbo7" xy="620,322" group="n99_f6zi"/>
+    <image id="n16_jzbo" name="n16" src="jzboh" xy="510,274" group="n99_f6zi"/>
+    <text id="n28_jzbo" name="n28" xy="512,311" size="61,41" group="n99_f6zi" rotation="-45" font="微软雅黑" fontSize="28" color="#ffffff" bold="true" text="九折"/>
+    <text id="n31_jzbo" name="n31" xy="653,280" size="210,41" group="n99_f6zi" font="微软雅黑" fontSize="30" color="#ffffff" align="center" autoSize="none" bold="true" text="招募十次"/>
+    <component id="n104_f6zi" name="n104" src="f6zi17" xy="622,502" group="n99_f6zi">
+      <Button icon="ui://sgwvgm5zppxq2q"/>
+    </component>
+    <group id="n99_f6zi" name="n99" xy="505,266" size="508,332" collapsed="true"/>
+  </displayList>
+</component>

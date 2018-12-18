@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="128,30">
+  <displayList>
+    <image id="n2_lnrz" name="n2" src="lnrz1p" xy="0,0" size="128,30"/>
+    <component id="n3_lnrz" name="n3" src="d3x61" xy="99,0" size="32,32">
+      <Button icon="ui://sgwvgm5zppxq3p"/>
+    </component>
+    <text id="n4_lnrz" name="n4" xy="0,6" size="128,21" font="微软雅黑" fontSize="12" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="999999999"/>
+  </displayList>
+</component>

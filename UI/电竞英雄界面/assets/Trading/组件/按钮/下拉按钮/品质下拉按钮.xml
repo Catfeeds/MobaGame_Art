@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,66" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <text id="n4" name="title" xy="64,22" size="44,36" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" text="级">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <loader id="n5" name="icon" xy="30,13" size="39,39" url="ui://sgwvgm5zqip31x" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="305,133">
+  <displayList>
+    <image id="n6_qyfw" name="n1" src="eej7l" xy="3,2" hideByEditor="true"/>
+    <image id="n1_qyfw" name="n2" src="qyfw75" pkg="sgwvgm5z" xy="193,16" size="110,110"/>
+    <loader id="n2_qyfw" name="n3" xy="196,21" size="100,100"/>
+    <text id="n3_qyfw" name="n4" xy="54,8" size="134,39" font="微软雅黑" fontSize="30" color="#d0deef" align="right" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n7_qvis" name="n5" xy="3,49" size="109,37" font="微软雅黑" fontSize="25" color="#7e96b8" align="right" autoSize="none" bold="true" text=""/>
+    <loader id="n9_qvis" name="n6" xy="5,5" size="41,41" vAlign="middle" fill="scale"/>
+    <loader id="n10_qvis" name="n7" xy="116,55" size="68,68"/>
+  </displayList>
+</component>

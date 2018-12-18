@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,225">
+  <displayList>
+    <image id="n10_qip3" name="n10" src="xtyk4y" pkg="sgwvgm5z" xy="0,-2" size="151,226" visible="false"/>
+    <loader id="n0_qip3" name="n0" xy="-2,0" size="153,224" group="n11_f6zi" url="ui://4arh5aieqip37" fill="scaleFree"/>
+    <loader id="n4_qip3" name="n4" xy="63,8" size="80,80" group="n11_f6zi" url="ui://4arh5aieqip3c" fill="scaleFree"/>
+    <component id="n3_qip3" name="n3" src="qip3b" xy="14,23" size="130,170" group="n11_f6zi"/>
+    <loader id="n1_qip3" name="n1" xy="14,9" size="30,30" group="n11_f6zi" url="ui://4arh5aieqip39" fill="scaleFree"/>
+    <text id="n7_qip3" name="n7" xy="32,193" size="110,24" group="n11_f6zi" font="微软雅黑" fontSize="15" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="威武大将军"/>
+    <loader id="n8_qip3" name="n8" xy="8,193" size="20,20" group="n11_f6zi" url="ui://sgwvgm5zlnrz1d" fill="scaleFree"/>
+    <group id="n11_f6zi" name="n11" xy="-2,0" size="153,224" collapsed="true"/>
+  </displayList>
+</component>

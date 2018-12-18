@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="158,221" mask="n1_ied4">
+  <displayList>
+    <component id="n0_ied4" name="n0" src="ied46x" pkg="sgwvgm5z" xy="0,0"/>
+    <graph id="n1_ied4" name="n1" xy="-10,169" size="209,248" skew="0,-27" type="rect"/>
+  </displayList>
+</component>

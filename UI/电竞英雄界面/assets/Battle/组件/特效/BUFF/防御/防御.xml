@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="125,117">
+  <displayList>
+    <image id="n0_t53i" name="n0" src="t53i3b" xy="0,0"/>
+    <component id="n7_t53i" name="n7" src="t53i3h" xy="4,51"/>
+    <component id="n8_t53i" name="n8" src="t53i3h" xy="72,51"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n7_t53i" tween="true" startValue="1" endValue="0" duration="19"/>
+    <item time="0" type="Alpha" target="n8_t53i" tween="true" startValue="1" endValue="0" duration="19"/>
+    <item time="0" type="Visible" target="n7_t53i" value="true"/>
+    <item time="0" type="Visible" target="n8_t53i" value="true"/>
+    <item time="0" type="XY" target="n8_t53i" tween="true" startValue="73,51.8" endValue="72,40" duration="19"/>
+    <item time="0" type="XY" target="n7_t53i" tween="true" startValue="4.95,51.66" endValue="4,40" duration="19"/>
+    <item time="20" type="Visible" target="n7_t53i" value="false"/>
+    <item time="20" type="Visible" target="n8_t53i" value="false"/>
+  </transition>
+</component>

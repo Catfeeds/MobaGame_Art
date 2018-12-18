@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://6mlabpfieej75">
+  <displayList>
+    <image id="n0_qyfw" name="n0" src="eej7d" xy="0,0" size="1334,750"/>
+    <loader id="n1_qyfw" name="n1" xy="15,5" size="75,75" group="n2_qyfw" align="center" vAlign="middle" fill="scaleFree"/>
+    <image id="n10_qyfw" name="n10" src="qip329" pkg="sgwvgm5z" xy="46,55" size="57,73" group="n2_qyfw" scale="0.3,0.3"/>
+    <loader id="n3_qyfw" name="n2" xy="90,5" size="75,75" group="n2_qyfw" align="center" vAlign="middle" fill="scaleFree"/>
+    <image id="n11_qyfw" name="n11" src="qip329" pkg="sgwvgm5z" xy="121,55" size="57,73" group="n2_qyfw" scale="0.3,0.3"/>
+    <loader id="n4_qyfw" name="n3" xy="165,5" size="75,75" group="n2_qyfw" align="center" vAlign="middle" fill="scaleFree"/>
+    <image id="n12_qyfw" name="n12" src="qip329" pkg="sgwvgm5z" xy="195,55" size="57,73" group="n2_qyfw" scale="0.3,0.3"/>
+    <group id="n2_qyfw" name="n4" xy="15,5" size="237,123" collapsed="true"/>
+    <loader id="n6_qyfw" name="n5" xy="1097,5" size="75,77" group="n9_qyfw" align="center" vAlign="middle" fill="scaleFree"/>
+    <image id="n13_qyfw" name="n13" src="qip329" pkg="sgwvgm5z" xy="1129,55" size="57,75" group="n9_qyfw" scale="0.3,0.3"/>
+    <loader id="n7_qyfw" name="n6" xy="1172,5" size="75,77" group="n9_qyfw" align="center" vAlign="middle" fill="scaleFree"/>
+    <image id="n21_qyfw" name="n14" src="qip329" pkg="sgwvgm5z" xy="1204,55" size="57,75" group="n9_qyfw" scale="0.3,0.3"/>
+    <loader id="n8_qyfw" name="n7" xy="1247,5" size="75,77" group="n9_qyfw" align="center" vAlign="middle" fill="scaleFree"/>
+    <image id="n22_qyfw" name="n15" src="qip329" pkg="sgwvgm5z" xy="1281,55" size="57,75" group="n9_qyfw" scale="0.3,0.3"/>
+    <group id="n9_qyfw" name="n8" xy="1097,5" size="241,125" collapsed="true"/>
+    <list id="n35_qyfw" name="n16" xy="2,84" size="305,666" defaultItem="ui://6mlabpfiqyfwz">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n37_qyfw" name="n17" xy="1029,84" size="308,666" defaultItem="ui://6mlabpfiqyfw10">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n39_qyfw" name="n18" xy="281,16" size="216,44" font="微软雅黑" fontSize="30" color="#59ade4" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n40_qyfw" name="n19" xy="837,17" size="216,44" font="微软雅黑" fontSize="30" color="#ffacba" align="right" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n41_qyfw" name="n20" xy="525,15" size="43,45" fontSize="35" color="#59ade4" align="right" vAlign="middle" bold="true" text="32"/>
+    <text id="n42_qyfw" name="n21" xy="596,15" size="165,45" font="微软雅黑" fontSize="26" color="#59ade4" align="center" vAlign="middle" autoSize="none" bold="true" text="请选择战术"/>
+    <component id="n48_qyfw" name="n26" src="d3x61" pkg="sgwvgm5z" xy="575,675" size="187,60" visible="false">
+      <Button title="确认" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <component id="n52_qvis" name="n27" src="qvis17" xy="0,0" hideByEditor="true" visible="false"/>
+    <component id="n53_t1d4" name="n28" src="t1d41f" xy="0,0" hideByEditor="true" visible="false"/>
+    <component id="n54_k77n" name="n29" src="t1d41i" xy="0,0" hideByEditor="true" visible="false"/>
+  </displayList>
+</component>

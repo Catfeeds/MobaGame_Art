@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://6mlabpfieej76">
+  <displayList>
+    <list id="n3_t1d4" name="n0" xy="453,74" size="460,440" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://6mlabpfit1d41h" align="center">
+      <item icon="ui://5qhzi7tyqyfwq"/>
+      <item icon="ui://5qhzi7tyqyfwl"/>
+      <item icon="ui://5qhzi7tyqyfwm"/>
+      <item icon="ui://5qhzi7tyqyfwn"/>
+      <item icon="ui://5qhzi7tyqyfwo"/>
+      <item icon="ui://5qhzi7tyqyfwp"/>
+    </list>
+    <image id="n1_t1d4" name="n1" src="t1d47b" pkg="sgwvgm5z" xy="320,260"/>
+    <image id="n2_t1d4" name="n2" src="t1d47b" pkg="sgwvgm5z" xy="907,260" flip="hz"/>
+    <image id="n4_t1d4" name="n4" src="lnrz9" pkg="5qhzi7ty" xy="423,535"/>
+    <loader id="n5_t1d4" name="n5" xy="506,558" size="220,52"/>
+    <text id="n6_t1d4" name="n6" xy="769,568" size="112,56" font="微软雅黑" fontSize="40" color="#57eaff" vAlign="middle" autoSize="none" bold="true" text=""/>
+  </displayList>
+</component>

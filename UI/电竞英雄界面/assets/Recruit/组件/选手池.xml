@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://x3t9ffgnf6ziw">
+  <controller name="c2" pages="0,默认,1,选手池" selected="0"/>
+  <displayList>
+    <graph id="n96_f6zi" name="n96" xy="0,0" size="1334,750" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n95_he4l" name="n95" src="jzbo4s" pkg="sgwvgm5z" xy="167,84" size="999,533"/>
+    <text id="n92_l6cp" name="n92" xy="600,94" size="128,38" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="卡池"/>
+    <list id="n89_l6cp" name="n101" xy="168,140" size="997,478" layout="flow_hz" overflow="scroll" margin="10,10,10,10" lineGap="13" colGap="13" defaultItem="ui://sgwvgm5zxtyk53">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n94_l6cp" name="n100" src="d3x61" pkg="sgwvgm5z" xy="1110,82" size="59,58">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+  </displayList>
+</component>

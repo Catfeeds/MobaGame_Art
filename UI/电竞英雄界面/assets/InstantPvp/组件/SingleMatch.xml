@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://6mlabpfieej7b" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n0_qyfw" name="n0" src="eej7w" xy="0,0" size="1334,750" hideByEditor="true" visible="false"/>
+    <graph id="n2_qyfw" name="n1" xy="-5,0" size="1334,750" type="rect" fillColor="#cc000000"/>
+    <image id="n4_qyfw" name="n2" src="eej7o" xy="115,44" group="n7_qyfw"/>
+    <loader id="n5_qyfw" name="n3" xy="214,68" size="149,166" group="n7_qyfw" align="center" vAlign="middle" fill="scaleFree"/>
+    <text id="n6_qyfw" name="n4" xy="195,292" size="187,43" group="n7_qyfw" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" letterSpacing="7" autoSize="none" text=""/>
+    <image id="n8_qyfw" name="n5" src="iq857g" pkg="sgwvgm5z" xy="172,350" size="92,36" group="n7_qyfw" hideByEditor="true" visible="false"/>
+    <text id="n9_qyfw" name="n6" xy="190,391" size="191,47" group="n7_qyfw" hideByEditor="true" visible="false" font="ui://sgwvgm5zenbg5j" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
+    <group id="n7_qyfw" name="n7" xy="115,44" size="352,661"/>
+    <image id="n16_qyfw" name="n8" src="eej7n" xy="879,44" group="n21_qyfw"/>
+    <loader id="n17_qyfw" name="n9" xy="982,75" size="149,166" group="n21_qyfw" url="ui://6mlabpfieej7p" align="center" vAlign="middle" fill="scale"/>
+    <text id="n18_qyfw" name="n10" xy="970,292" size="116,43" group="n21_qyfw" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" letterSpacing="7" autoSize="none" text="匹配中"/>
+    <text id="n40_diw7" name="n40" xy="961,293" size="204,43" group="n21_qyfw" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" letterSpacing="7" autoSize="none" text=""/>
+    <image id="n26_qyfw" name="n14" src="iq857g" pkg="sgwvgm5z" xy="961,350" size="92,36" group="n21_qyfw" hideByEditor="true" visible="false"/>
+    <text id="n27_qyfw" name="n15" xy="976,404" size="173,43" group="n21_qyfw" hideByEditor="true" font="ui://sgwvgm5zenbg5j" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
+    <image id="n32_iq85" name="n32" src="eej7v" xy="975,296" group="n21_qyfw" hideByEditor="true" visible="false"/>
+    <text id="n36_dkzc" name="n34" xy="1080,296" size="14,44" group="n39_dkzc" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="."/>
+    <text id="n37_dkzc" name="n35" xy="1100,296" size="14,44" group="n39_dkzc" alpha="0.2" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="."/>
+    <text id="n38_dkzc" name="n36" xy="1120,296" size="14,44" group="n39_dkzc" alpha="0.2" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" bold="true" text="."/>
+    <group id="n39_dkzc" name="n39" xy="1080,296" size="54,44" group="n21_qyfw" advanced="true"/>
+    <group id="n21_qyfw" name="n11" xy="879,44" size="352,661"/>
+    <image id="n22_qyfw" name="n12" src="eej7q" xy="464,-256"/>
+    <component id="n23_qyfw" name="n13" src="d3x61" pkg="sgwvgm5z" xy="556,503" size="224,69">
+      <Button title="取 消 匹 配" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <component id="n24_qyfw" name="n16" src="d3x61" pkg="sgwvgm5z" xy="1259,17" size="59,59" hideByEditor="true" visible="false">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+    <text id="n29_iq85" name="n18" xy="570,25" size="150,44" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" text="00:00"/>
+  </displayList>
+  <transition name="t0" options="4" autoPlay="true">
+    <item time="0" type="XY" target="n4_qyfw" tween="true" startValue="-388.7,45.16" endValue="112,45" duration="12"/>
+    <item time="0" type="XY" target="n17_qyfw" tween="true" startValue="1487,75" endValue="982,75" duration="12"/>
+    <item time="0" type="XY" target="n16_qyfw" tween="true" startValue="1380,45" endValue="880,45" duration="12"/>
+    <item time="0" type="XY" target="n6_qyfw" tween="true" startValue="-316.02,292.1" endValue="195,292" duration="12"/>
+    <item time="0" type="XY" target="n5_qyfw" tween="true" startValue="-290.88,65.07" endValue="215.07,65.95" duration="12"/>
+    <item time="0" type="XY" target="n39_dkzc" tween="true" startValue="1580,296" endValue="1080,296" duration="12"/>
+    <item time="0" type="XY" target="n18_qyfw" tween="true" startValue="1470,292" endValue="970,292" duration="12"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="XY" target="n22_qyfw" tween="true" startValue="480,-256" endValue="480,256" duration="12"/>
+    <item time="12" type="XY" target="n22_qyfw" tween="true" startValue="480,256"/>
+  </transition>
+  <transition name="t2" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n36_dkzc" tween="true" startValue="0.2" endValue="1" duration="12"/>
+    <item time="12" type="Alpha" target="n36_dkzc" tween="true" startValue="1" endValue="0.2" duration="12"/>
+    <item time="12" type="Alpha" target="n37_dkzc" tween="true" startValue="0.2" endValue="1" duration="12"/>
+    <item time="24" type="Alpha" target="n37_dkzc" tween="true" startValue="1" endValue="0.2" duration="12"/>
+    <item time="24" type="Alpha" target="n38_dkzc" tween="true" startValue="0.2" endValue="1" duration="12"/>
+    <item time="36" type="Alpha" target="n38_dkzc" tween="true" startValue="1" endValue="0.2" duration="12"/>
+  </transition>
+</component>

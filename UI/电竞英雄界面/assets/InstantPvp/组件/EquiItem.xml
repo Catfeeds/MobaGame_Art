@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,150">
+  <displayList>
+    <image id="n1_t1d4" name="n1" src="t1d47c" pkg="sgwvgm5z" xy="41,14" size="90,90"/>
+    <loader id="n2_t1d4" name="n2" xy="41,15" size="90,90"/>
+    <text id="n3_t1d4" name="n3" xy="6,109" size="156,37" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <list id="n4_t1d4" name="n4" xy="200,0" size="584,109" layout="row" defaultItem="ui://sgwvgm5zd3x66">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n5_t1d4" name="n5" xy="206,110" size="55,37" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="胜场"/>
+    <text id="n6_t1d4" name="n6" xy="264,110" size="101,37" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n7_t1d4" name="n7" xy="379,110" size="55,37" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" bold="true" text="胜率"/>
+    <text id="n8_t1d4" name="n8" xy="436,110" size="59,37" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <image id="n11_t1d4" name="n11" src="xtyk56" pkg="sgwvgm5z" xy="0,0" size="800,150" hideByEditor="true"/>
+    <image id="n10_t1d4" name="n10" src="h6yh6o" pkg="sgwvgm5z" xy="0,0" size="800,150" hideByEditor="true"/>
+    <image id="n12_t1d4" name="n12" src="xtyk57" pkg="sgwvgm5z" xy="0,0" size="800,150"/>
+  </displayList>
+</component>

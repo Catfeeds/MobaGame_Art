@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="665,99">
+  <displayList>
+    <image id="n28_rxus" name="n28" src="rxusd" xy="5,7"/>
+    <image id="n29_rxus" name="n29" src="rxuse" xy="99,39"/>
+    <image id="n30_rxus" name="n30" src="rxusf" xy="208,41"/>
+    <image id="n31_rxus" name="n31" src="rxusf" xy="262,41"/>
+    <image id="n33_rxus" name="n33" src="rxusf" xy="316,41"/>
+    <image id="n34_rxus" name="n34" src="rxusf" xy="370,41"/>
+    <image id="n35_rxus" name="n35" src="rxusf" xy="424,41"/>
+    <image id="n36_rxus" name="n36" src="rxusf" xy="479,41"/>
+    <component id="n26_rxus" name="n26" src="rxus8" xy="0,0"/>
+  </displayList>
+</component>

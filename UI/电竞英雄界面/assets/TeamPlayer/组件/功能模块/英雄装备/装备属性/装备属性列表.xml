@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="415,40">
+  <displayList>
+    <image id="n395_h6yh" name="n395" src="h6yh3t" xy="-1,1" size="39,38" aspect="true"/>
+    <loader id="n393_h6yh" name="n393" xy="8,8" size="23,23" aspect="true" url="ui://sgwvgm5zxbdx63" fill="scaleFree"/>
+    <loader id="n390_h6yh" name="n390" xy="37,9" size="25,25" aspect="true" url="ui://sgwvgm5zqip321" fill="scaleFree"/>
+    <text id="n391_h6yh" name="n391" xy="66,6" size="119,31" font="微软雅黑" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="对线技巧"/>
+    <text id="n392_h6yh" name="n392" xy="185,6" size="168,31" font="微软雅黑" fontSize="20" color="#ffffff" align="right" vAlign="middle" ubb="true" autoSize="none" bold="true" singleLine="true" text="999+999"/>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="101,101">
+  <displayList>
+    <loader id="n0_h6yh" name="n0" xy="0,0" size="101,101" url="ui://41vqeinnh6yh1x" fill="scaleFree"/>
+    <loader id="n4_ruoh" name="n4" xy="2,2" size="97,97" aspect="true" url="ui://41vqeinnh6yh2z" fill="scaleFree"/>
+    <loader id="n1_h6yh" name="n1" xy="-1,66" size="33,33" aspect="true" url="ui://41vqeinnvy9jt" fill="scaleFree"/>
+    <image id="n3_h6yh" name="n3" src="h6yh1g" xy="47,82" size="52,17" aspect="true"/>
+  </displayList>
+</component>

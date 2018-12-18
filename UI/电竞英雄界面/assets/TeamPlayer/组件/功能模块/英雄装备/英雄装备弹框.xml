@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://41vqeinnh6yh47" designImageAlpha="60">
+  <controller name="c1" pages="0,热门方案,1,职业选手,4,自定义" selected="0"/>
+  <displayList>
+    <graph id="n0_h6yh" name="n0" xy="0,0" size="1334,750" group="n44_h6yh" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n1_h6yh" name="n1" src="jzbo4s" pkg="sgwvgm5z" xy="100,63" size="1141,642" group="n44_h6yh"/>
+    <image id="n38_h6yh" name="n38" src="vy9j14" xy="1223,599" size="2,392" group="n44_h6yh" rotation="90"/>
+    <image id="n51_h6yh" name="n51" src="vy9j14" xy="826,201" size="3,502" group="n44_h6yh"/>
+    <image id="n54_h6yh" name="n54" src="jzbo4t" pkg="sgwvgm5z" xy="327,116" size="2,82" group="n44_h6yh"/>
+    <image id="n55_h6yh" name="n55" src="jzbo4t" pkg="sgwvgm5z" xy="555,117" size="2,82" group="n44_h6yh"/>
+    <image id="n56_h6yh" name="n56" src="jzbo4t" pkg="sgwvgm5z" xy="783,117" size="2,82" group="n44_h6yh"/>
+    <component id="n2_h6yh" name="n2" src="d3x61" pkg="sgwvgm5z" xy="1183,62" size="59,58" group="n44_h6yh">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+    <text id="n3_h6yh" name="n3" xy="578,67" size="182,44" group="n44_h6yh" font="微软雅黑" fontSize="35" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="推荐出装"/>
+    <group id="n44_h6yh" name="n44" xy="0,0" size="1334,991" collapsed="true"/>
+    <image id="n4_h6yh" name="n4" src="h6yh1b" xy="840,209" size="389,39" group="n50_h6yh"/>
+    <text id="n5_h6yh" name="n5" xy="937,208" size="211,44" group="n50_h6yh" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="装备加成"/>
+    <component id="n35_h6yh" name="n35" src="d3x61" pkg="sgwvgm5z" xy="960,633" size="150,54" group="n50_h6yh">
+      <Button title="确认" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <list id="n43_h6yh" name="n43" xy="836,264" size="396,330" group="n50_h6yh" overflow="scroll" lineGap="5" defaultItem="ui://41vqeinnruoh4b" align="center">
+      <item/>
+      <item/>
+    </list>
+    <group id="n50_h6yh" name="n50" xy="836,208" size="396,479" collapsed="true"/>
+    <component id="n53_h6yh" name="n53" src="ppxq3l" pkg="sgwvgm5z" xy="101,118" size="227,82" group="n63_h6yh">
+      <Button checked="true" title="热门方案" titleColor="#ffffff" controller="c1" page="0"/>
+    </component>
+    <component id="n58_h6yh" name="n58" src="ppxq3l" pkg="sgwvgm5z" xy="329,118" size="227,82" group="n63_h6yh">
+      <Button title="职业选手" titleColor="#ffffff" controller="c1" page="1"/>
+    </component>
+    <component id="n60_h6yh" name="n60" src="ppxq3l" pkg="sgwvgm5z" xy="557,118" size="227,82" group="n63_h6yh">
+      <Button title="自定义" titleColor="#ffffff" controller="c1" page="4"/>
+    </component>
+    <group id="n63_h6yh" name="n63" xy="101,118" size="683,82"/>
+    <component id="n76_h6yh" name="n76" src="xtyk53" pkg="sgwvgm5z" xy="109,605" size="93,93" group="n83_h6yh" aspect="true">
+      <Button icon="ui://41vqeinnh6yh2b"/>
+    </component>
+    <component id="n77_h6yh" name="n77" src="h6yh45" xy="224,608" group="n83_h6yh"/>
+    <component id="n78_h6yh" name="n78" src="h6yh45" xy="322,608" group="n83_h6yh"/>
+    <component id="n79_h6yh" name="n79" src="h6yh45" xy="420,608" group="n83_h6yh"/>
+    <component id="n80_h6yh" name="n80" src="h6yh45" xy="518,608" group="n83_h6yh"/>
+    <component id="n81_h6yh" name="n81" src="h6yh45" xy="616,608" group="n83_h6yh"/>
+    <component id="n82_h6yh" name="n82" src="h6yh45" xy="714,608" group="n83_h6yh"/>
+    <list id="n74_h6yh" name="n74" xy="160,201" size="635,398" group="n83_h6yh" layout="flow_hz" overflow="scroll" defaultItem="ui://41vqeinnh6yh43">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n83_h6yh" name="n83" xy="109,201" size="692,498" advanced="true">
+      <gearDisplay controller="c1" pages="4"/>
+    </group>
+    <component id="n84_h6yh" name="n84" src="h6yh49" xy="108,206">
+      <gearDisplay controller="c1" pages="0,1,2,3"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://41vqeinnh6yh3r" designImageAlpha="0">
+  <displayList>
+    <graph id="n0_h6yh" name="n0" xy="0,0" size="1334,750" group="n44_h6yh" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n1_h6yh" name="n1" src="jzbo4s" pkg="sgwvgm5z" xy="135,85" size="1066,627" group="n44_h6yh"/>
+    <image id="n36_h6yh" name="n36" src="qip323" pkg="sgwvgm5z" xy="615,159" size="5,551" group="n44_h6yh"/>
+    <component id="n2_h6yh" name="n2" src="d3x61" pkg="sgwvgm5z" xy="1144,83" size="59,58" group="n44_h6yh">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+    <text id="n3_h6yh" name="n3" xy="606,91" size="95,44" group="n44_h6yh" font="微软雅黑" fontSize="30" color="#ffffff" bold="true" text="英雄池"/>
+    <group id="n44_h6yh" name="n44" xy="0,0" size="1334,750"/>
+    <image id="n4_h6yh" name="n4" src="h6yh1b" xy="164,159" group="n45_h6yh"/>
+    <text id="n5_h6yh" name="n5" xy="276,158" size="211,44" group="n45_h6yh" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="拥有英雄"/>
+    <group id="n45_h6yh" name="n45" xy="164,158" size="433,44"/>
+    <image id="n21_h6yh" name="n21" src="vy9j14" xy="1135,345" size="2,427" group="n46_h6yh" rotation="90"/>
+    <image id="n38_h6yh" name="n38" src="vy9j14" xy="1135,598" size="2,427" group="n46_h6yh" rotation="90"/>
+    <group id="n46_h6yh" name="n46" xy="1135,345" size="2,680" collapsed="true"/>
+    <component id="n39_h6yh" name="n39" src="h6yh30" xy="708,212" size="126,126" group="n48_h6yh"/>
+    <text id="n40_h6yh" name="n40" xy="851,213" size="266,50" group="n48_h6yh" font="微软雅黑" fontSize="35" color="#ffffff" ubb="true" autoSize="none" bold="true" text="溟蓝战神Ti"/>
+    <group id="n48_h6yh" name="n48" xy="708,212" size="409,126" collapsed="true"/>
+    <component id="n35_h6yh" name="n35" src="d3x61" pkg="sgwvgm5z" xy="846,634" size="148,47">
+      <Button title="装备" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <list id="n37_h6yh" name="n37" xy="143,205" size="469,503" layout="flow_hz" overflow="scroll" lineGap="20" colGap="14" defaultItem="ui://41vqeinnh6yh30">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n43_h6yh" name="n43" xy="714,350" size="445,246" overflow="scroll" defaultItem="ui://41vqeinnruoh4m">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

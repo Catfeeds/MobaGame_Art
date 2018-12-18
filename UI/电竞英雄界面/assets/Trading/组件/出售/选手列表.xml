@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="858,107">
+  <displayList>
+    <image id="n94_xbdx" name="n94" src="xbdx7" xy="0,0" size="858,107"/>
+    <component id="n92_xbdx" name="n92" src="xtyk53" pkg="sgwvgm5z" xy="4,3" size="100,100"/>
+    <text id="n95_xbdx" name="n95" xy="105,33" size="125,40" font="微软雅黑" fontSize="28" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="六六六六"/>
+    <text id="n96_xbdx" name="n96" xy="214,33" size="125,40" font="微软雅黑" fontSize="25" color="#92cc8d" align="center" vAlign="middle" autoSize="none" bold="true" text="32小时"/>
+    <text id="n99_xbdx" name="n99" xy="421,33" size="100,41" font="微软雅黑" fontSize="28" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="99999"/>
+    <text id="n100_xbdx" name="n100" xy="539,36" size="125,41" font="微软雅黑" fontSize="28" color="#c7af55" align="center" vAlign="middle" autoSize="none" text="正在出售"/>
+    <component id="n101_xbdx" name="n101" src="d3x61" pkg="sgwvgm5z" xy="693,24" size="149,56">
+      <Button title="下架" icon="ui://sgwvgm5zxbdx6e"/>
+    </component>
+    <image id="n98_xbdx" name="n98" src="xbdx1e" xy="379,35"/>
+    <image id="n102_xbdx" name="n102" src="ppxq2q" pkg="sgwvgm5z" xy="379,35" size="35,35"/>
+  </displayList>
+</component>

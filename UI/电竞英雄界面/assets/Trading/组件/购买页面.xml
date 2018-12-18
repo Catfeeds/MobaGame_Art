@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,658" opaque="false">
+  <displayList>
+    <graph id="n2_xbdx" name="n2" xy="770,3" size="420,42" group="n4_xbdx" type="rect" lineColor="#ff3888d7" fillColor="#ff041f2b"/>
+    <component id="n1_xbdx" name="n1" src="d3x61" pkg="sgwvgm5z" xy="1127,4" size="62,40" group="n4_xbdx">
+      <Button title=" " icon="ui://tienhxpuxbdxh"/>
+    </component>
+    <text id="n3_xbdx" name="n3" xy="772,10" size="352,31" group="n4_xbdx" input="true" prompt="请输入查询的关键词" font="微软雅黑" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
+    <component id="n7_xbdx" name="n7" src="d3x61" pkg="sgwvgm5z" xy="1207,0" size="126,45" group="n4_xbdx">
+      <Button title="刷新" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <group id="n4_xbdx" name="n4" xy="770,0" size="564,46" collapsed="true"/>
+    <image id="n12_xbdx" name="n12" src="xbdx6" xy="0,50" size="1334,53" group="n27_xbdx"/>
+    <component id="n15_xbdx" name="n15" src="xbdxr" xy="855,53" size="145,46" group="n27_xbdx">
+      <Button title="全部品质"/>
+    </component>
+    <component id="n16_xbdx" name="n16" src="xbdxr" xy="1004,53" size="163,46" group="n27_xbdx">
+      <Button title="全部位置"/>
+    </component>
+    <component id="n17_xbdx" name="n17" src="xbdxr" xy="1173,53" size="151,46" group="n27_xbdx">
+      <Button title="全部"/>
+    </component>
+    <loader id="n39_xbdx" name="n39" xy="903,56" size="39,39" group="n27_xbdx" hideByEditor="true" aspect="true" visible="false" url="ui://sgwvgm5zqip31x" fill="scaleFree"/>
+    <group id="n27_xbdx" name="n27" xy="0,50" size="1334,53" collapsed="true"/>
+    <list id="n75_xbdx" name="n75" xy="23,113" size="1286,534" layout="flow_hz" overflow="scroll" lineGap="18" colGap="6" defaultItem="ui://tienhxpuxbdxx"/>
+    <image id="n20_xbdx" name="n20" src="xbdx2" xy="860,114" size="135,355" group="n38_xbdx"/>
+    <image id="n22_xbdx" name="n22" src="xbdx8" xy="978,254" size="2,103" group="n38_xbdx" rotation="90"/>
+    <image id="n23_xbdx" name="n23" src="xbdx8" xy="978,323" size="2,103" group="n38_xbdx" rotation="90"/>
+    <image id="n24_xbdx" name="n24" src="xbdx8" xy="978,392" size="2,103" group="n38_xbdx" rotation="90"/>
+    <image id="n25_xbdx" name="n25" src="xbdx8" xy="978,185" size="2,103" group="n38_xbdx" rotation="90"/>
+    <component id="n34_xbdx" name="n33" src="xbdxu" xy="863,189" group="n38_xbdx">
+      <Button titleColor="#facb57" icon="ui://sgwvgm5zqip321"/>
+    </component>
+    <component id="n33_xbdx" name="n34" src="xbdxu" xy="863,257" group="n38_xbdx">
+      <Button titleColor="#ff61de"/>
+    </component>
+    <component id="n35_xbdx" name="n35" src="xbdxu" xy="863,325" group="n38_xbdx">
+      <Button titleColor="#a7bdc6" icon="ui://sgwvgm5zqip31y"/>
+    </component>
+    <component id="n36_xbdx" name="n36" src="xbdxu" xy="862,397" group="n38_xbdx">
+      <Button titleColor="#ca733a" icon="ui://sgwvgm5zqip31z"/>
+    </component>
+    <component id="n37_xbdx" name="n37" src="xbdxv" xy="863,117" group="n38_xbdx"/>
+    <group id="n38_xbdx" name="n38" xy="860,114" size="135,381" visible="false" advanced="true" collapsed="true"/>
+    <image id="n51_xbdx" name="n51" src="xbdx2" xy="1007,114" size="160,419" group="n62_xbdx"/>
+    <image id="n52_xbdx" name="n52" src="xbdx8" xy="1140,254" size="2,103" group="n62_xbdx" rotation="90"/>
+    <image id="n53_xbdx" name="n53" src="xbdx8" xy="1140,323" size="2,103" group="n62_xbdx" rotation="90"/>
+    <image id="n54_xbdx" name="n54" src="xbdx8" xy="1140,392" size="2,103" group="n62_xbdx" rotation="90"/>
+    <image id="n55_xbdx" name="n55" src="xbdx8" xy="1140,460" size="2,103" group="n62_xbdx" rotation="90"/>
+    <image id="n66_xbdx" name="n66" src="xbdx8" xy="1140,185" size="2,103" group="n62_xbdx" rotation="90"/>
+    <component id="n56_xbdx" name="n56" src="xbdxv" xy="1009,116" size="156,67" group="n62_xbdx">
+      <Button title="全部位置"/>
+    </component>
+    <component id="n57_xbdx" name="n57" src="xbdxw" xy="1009,186" group="n62_xbdx">
+      <Button icon="ui://sgwvgm5zlnrz1h"/>
+    </component>
+    <component id="n58_xbdx" name="n58" src="xbdxw" xy="1009,256" group="n62_xbdx">
+      <Button title="上路" icon="ui://sgwvgm5zlnrz1f"/>
+    </component>
+    <component id="n59_xbdx" name="n59" src="xbdxw" xy="1009,326" group="n62_xbdx">
+      <Button title="打野" icon="ui://sgwvgm5zlnrz1d"/>
+    </component>
+    <component id="n60_xbdx" name="n60" src="xbdxw" xy="1009,394" group="n62_xbdx">
+      <Button title="射手" icon="ui://sgwvgm5zlnrz1g"/>
+    </component>
+    <component id="n61_xbdx" name="n61" src="xbdxw" xy="1009,463" group="n62_xbdx">
+      <Button title="辅助" icon="ui://sgwvgm5zlnrz1e"/>
+    </component>
+    <group id="n62_xbdx" name="n62" xy="1007,114" size="160,449" visible="false" advanced="true" collapsed="true"/>
+    <image id="n63_xbdx" name="n63" src="xbdx2" xy="1178,114" size="137,212" group="n73_xbdx"/>
+    <image id="n64_xbdx" name="n64" src="xbdx8" xy="1300,185" size="2,103" group="n73_xbdx" rotation="90"/>
+    <image id="n67_xbdx" name="n67" src="xbdx8" xy="1300,254" size="2,103" group="n73_xbdx" rotation="90"/>
+    <component id="n69_xbdx" name="n69" src="xbdxv" xy="1180,117" size="133,67" group="n73_xbdx">
+      <Button title="全部位置"/>
+    </component>
+    <component id="n70_xbdx" name="n70" src="xbdxv" xy="1180,187" size="133,67" group="n73_xbdx">
+      <Button title="低到高"/>
+    </component>
+    <component id="n71_xbdx" name="n71" src="xbdxv" xy="1180,256" size="133,67" group="n73_xbdx">
+      <Button title="高到低"/>
+    </component>
+    <group id="n73_xbdx" name="n73" xy="1178,114" size="137,243" visible="false" advanced="true"/>
+  </displayList>
+</component>

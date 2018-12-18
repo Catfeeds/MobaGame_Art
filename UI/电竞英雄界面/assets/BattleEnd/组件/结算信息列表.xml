@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="665,99">
+  <displayList>
+    <loader id="n7_rxus" name="n7" xy="6,6" size="88,88" url="ui://4azso0edrxus9" fill="scaleFree"/>
+    <loader id="n8_rxus" name="n8" xy="96,4" size="28,28" aspect="true" url="ui://sgwvgm5zlnrz1e" align="center" vAlign="middle" fill="scale"/>
+    <text id="n9_rxus" name="n9" xy="128,3" size="71,34" font="微软雅黑" fontSize="22" color="#5396d1" text="阿斯顿"/>
+    <text id="n10_rxus" name="n10" xy="251,9" size="40,28" font="微软雅黑" fontSize="18" color="#ffffff" autoSize="none" text="99"/>
+    <text id="n12_rxus" name="n12" xy="313,9" size="40,28" font="微软雅黑" fontSize="18" color="#ffffff" autoSize="none" text="99"/>
+    <text id="n13_rxus" name="n13" xy="374,9" size="40,28" font="微软雅黑" fontSize="18" color="#ffffff" autoSize="none" text="999"/>
+    <text id="n15_rxus" name="n15" xy="288,9" size="23,28" font="微软雅黑" fontSize="18" color="#ffffff" autoSize="none" text="/"/>
+    <text id="n16_rxus" name="n16" xy="350,9" size="23,28" font="微软雅黑" fontSize="18" color="#ffffff" autoSize="none" text="/"/>
+    <text id="n17_rxus" name="n17" xy="435,9" size="56,28" font="微软雅黑" fontSize="18" color="#ffffff" autoSize="none" text="9999"/>
+    <loader id="n18_rxus" name="n18" xy="100,40" size="54,54" url="ui://4azso0edrxusa" fill="scaleFree"/>
+    <component id="n19_rxus" name="n19" src="rxusb" xy="210,43"/>
+    <component id="n21_rxus" name="n21" src="rxusb" xy="264,43"/>
+    <component id="n22_rxus" name="n22" src="rxusb" xy="318,43"/>
+    <component id="n23_rxus" name="n23" src="rxusb" xy="372,43"/>
+    <component id="n24_rxus" name="n24" src="rxusb" xy="426,43"/>
+    <component id="n25_rxus" name="n25" src="rxusb" xy="481,43"/>
+  </displayList>
+</component>

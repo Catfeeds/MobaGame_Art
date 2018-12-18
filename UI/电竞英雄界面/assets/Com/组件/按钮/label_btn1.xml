@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,76" extention="Button" designImage="ui://4byggrcviex91" designImageOffsetX="-1" designImageOffsetY="-203">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="ppxq36" xy="0,0" size="200,76" group="n8_pyge">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n4_pyge" name="n4" src="iex949" xy="20,17" group="n8_pyge"/>
+    <image id="n11_rdab" name="n11" src="6z197j" xy="169,1" size="20,20" group="n8_pyge" visible="false"/>
+    <group id="n8_pyge" name="n0" xy="0,0" size="200,76" advanced="true">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+    <image id="n2" name="n2" src="ppxq35" xy="0,0" size="228,76" group="n9_pyge">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n10_pyge" name="n5" src="iex949" xy="32,20" size="32,34" group="n9_pyge"/>
+    <image id="n12_rdab" name="n12" src="6z197j" xy="177,2" size="20,20" group="n9_pyge" visible="false"/>
+    <group id="n9_pyge" name="n3" xy="0,0" size="228,76" advanced="true">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+    <text id="n3" name="title" xy="71,0" size="126,76" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="标题">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="527,679">
+  <displayList>
+    <image id="n434_h6yh" name="n434" src="h6yh2s" xy="91,69"/>
+    <image id="n431_h6yh" name="n431" src="h6yh2o" xy="11,403" size="505,31"/>
+    <image id="n435_h6yh" name="n435" src="h6yh34" xy="56,71" size="117,94" aspect="true"/>
+    <image id="n437_h6yh" name="n437" src="h6yh35" xy="8,184" size="117,94" aspect="true"/>
+    <image id="n438_h6yh" name="n438" src="h6yh36" xy="57,296" size="117,94" aspect="true"/>
+    <image id="n439_h6yh" name="n439" src="h6yh37" xy="353,71" size="117,94" aspect="true"/>
+    <image id="n440_h6yh" name="n440" src="h6yh38" xy="401,184" size="117,94" aspect="true"/>
+    <component id="n444_h6yh" name="n444" src="h6yh3c" xy="178,138"/>
+    <image id="n441_h6yh" name="n441" src="h6yh39" xy="353,296" size="117,94" aspect="true"/>
+    <image id="n443_h6yh" name="n443" src="h6yh3b" xy="147,110"/>
+    <text id="n432_h6yh" name="n432" xy="191,403" size="141,34" font="微软雅黑" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="属性加成"/>
+    <list id="n433_h6yh" name="n433" xy="48,447" size="438,226" overflow="scroll" lineGap="1" defaultItem="ui://41vqeinnruoh4b">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n446_h6yh" name="n446" src="xtyk53" pkg="sgwvgm5z" xy="79,81" size="71,71" aspect="true"/>
+    <component id="n447_h6yh" name="n447" src="xtyk53" pkg="sgwvgm5z" xy="31,194" size="71,71" aspect="true"/>
+    <component id="n448_h6yh" name="n448" src="xtyk53" pkg="sgwvgm5z" xy="80,306" size="71,71" aspect="true"/>
+    <component id="n449_h6yh" name="n449" src="xtyk53" pkg="sgwvgm5z" xy="376,81" size="71,71" aspect="true"/>
+    <component id="n450_h6yh" name="n450" src="xtyk53" pkg="sgwvgm5z" xy="424,194" size="71,71" aspect="true"/>
+    <component id="n451_h6yh" name="n451" src="xtyk53" pkg="sgwvgm5z" xy="376,306" size="71,71" aspect="true"/>
+  </displayList>
+</component>

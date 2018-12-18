@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="40,40" mask="n1_6z19">
+  <displayList>
+    <loader id="n0_6z19" name="n0" xy="0,0" size="40,40" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <graph id="n1_6z19" name="n1" xy="0,0" size="40,40" type="eclipse" lineColor="#ffffffff"/>
+  </displayList>
+</component>

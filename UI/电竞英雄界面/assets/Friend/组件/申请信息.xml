@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,120">
+  <displayList>
+    <image id="n7_oof6" name="n7" src="lnrz19" pkg="sgwvgm5z" xy="0,0" size="1000,120"/>
+    <loader id="n0_oof6" name="n0" xy="0,0" size="120,120"/>
+    <text id="n1_oof6" name="n1" xy="127,10" size="274,40" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" text="角色名称七个字"/>
+    <text id="n2_oof6" name="n2" xy="127,70" size="274,40" font="微软雅黑" fontSize="30" color="#cccccc" vAlign="middle" autoSize="none" text="Lv.999"/>
+    <component id="n5_oof6" name="n5" src="d3x61" pkg="sgwvgm5z" xy="823,35" size="140,50">
+      <Button title="同意" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <component id="n6_oof6" name="n6" src="d3x61" pkg="sgwvgm5z" xy="654,35" size="140,50">
+      <Button title="忽略" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+  </displayList>
+</component>

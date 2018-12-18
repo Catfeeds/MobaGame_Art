@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://5ewfozh6gwor1y">
+  <displayList>
+    <graph id="n7_gwor" name="n7" xy="0,0" size="1334,750" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n0_gwor" name="n0" src="gwor1z" xy="133,84"/>
+    <image id="n2_gwor" name="n2" src="gwor1z" xy="1204,84" scale="-1,1"/>
+    <image id="n3_gwor" name="n3" src="gwor20" xy="540,155"/>
+    <image id="n4_gwor" name="n4" src="gwor21" xy="648,348"/>
+    <image id="n5_gwor" name="n5" src="gwor22" xy="572,232"/>
+    <image id="n6_gwor" name="n6" src="gwor23" xy="676,232"/>
+  </displayList>
+</component>

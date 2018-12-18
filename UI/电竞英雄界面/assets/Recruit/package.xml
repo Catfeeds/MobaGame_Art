@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="x3t9ffgn" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="jzbo0" name="Main.xml" path="/组件/" exported="true"/>
+    <image id="jzbo6" name="普通签约 .png" path="/资源/"/>
+    <image id="jzbo7" name="普通签约2 .png" path="/资源/"/>
+    <image id="jzbo8" name="英雄补给A.png" path="/资源/"/>
+    <image id="jzbo9" name="英雄补给B.png" path="/资源/"/>
+    <image id="jzboa" name="按钮金 亮.png" path="/资源/"/>
+    <image id="jzbob" name="按钮金 灭.png" path="/资源/"/>
+    <image id="jzboc" name="按钮蓝 亮.png" path="/资源/"/>
+    <image id="jzbod" name="按钮蓝 灭.png" path="/资源/"/>
+    <image id="jzboe" name="标题 顶级签约.png" path="/资源/"/>
+    <image id="jzbof" name="标题 普通签约.png" path="/资源/"/>
+    <image id="jzbog" name="标题 英雄补给.png" path="/资源/"/>
+    <image id="jzboh" name="打折标签.png" path="/资源/"/>
+    <image id="jzboi" name="顶级签约 .png" path="/资源/"/>
+    <image id="jzboj" name="顶级签约2 .png" path="/资源/"/>
+    <component id="jzbom" name="页面切换按钮.xml" path="/组件/按钮/"/>
+    <image id="jzbon" name="金色.png" path="/资源/参考图不导出/"/>
+    <image id="jzboo" name="三星 .png" path="/资源/参考图不导出/"/>
+    <image id="jzbop" name="紫色.png" path="/资源/参考图不导出/"/>
+    <component id="f6ziv" name="选手池.xml" path="/组件/"/>
+    <image id="f6ziw" name="选手池.jpg" path="/资源/参考图不导出/"/>
+    <component id="f6zix" name="普通签约页面.xml" path="/组件/页面/"/>
+    <component id="f6ziy" name="顶级签约页面.xml" path="/组件/页面/"/>
+    <component id="f6ziz" name="英雄补给页面.xml" path="/组件/页面/"/>
+    <image id="f6zi10" name="小窗.png" path="/资源/参考图不导出/"/>
+    <image id="f6zi11" name="小窗2.png" path="/资源/参考图不导出/"/>
+    <image id="f6zi12" name="蓝窗 2.png" path="/资源/" scale="9grid" scale9grid="25,60,457,10"/>
+    <image id="f6zi13" name="金窗 1.png" path="/资源/"/>
+    <image id="f6zi14" name="金窗 2.png" path="/资源/" scale="9grid" scale9grid="25,65,457,11"/>
+    <image id="f6zi15" name="蓝窗 1.png" path="/资源/"/>
+    <component id="f6zi17" name="蓝色按钮.xml" path="/组件/按钮/"/>
+    <component id="f6zi18" name="金色按钮.xml" path="/组件/按钮/"/>
+    <image id="f6zi19" name="背景.jpg" path="/资源/"/>
+    <image id="f6zi1a" name="通用 框.png" path="/资源/" scale="9grid" scale9grid="0,160,1260,21"/>
+    <image id="f6zi1b" name="750p 抽卡123123213面.jpg" path="/资源/参考图不导出/"/>
+    <image id="f6zi1d" name="卡池.png" path="/资源/"/>
+  </resources>
+  <publish name="Recruit" path="E:\X1Client\Assets\StreamingFairyAssets\Recruit"/>
+</packageDescription>

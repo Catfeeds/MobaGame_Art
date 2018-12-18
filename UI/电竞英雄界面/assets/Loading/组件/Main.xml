@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <image id="n0_sx3r" name="n0" src="sx3r0" xy="0,0" size="1334,750" aspect="true"/>
+    <component id="n1_sx3r" name="n2" src="sx3r2" xy="181,572" size="1000,20">
+      <ProgressBar max="100"/>
+    </component>
+    <text id="n2_sx3r" name="n3" xy="181,615" size="996,50" font="微软雅黑" fontSize="35" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="0000000"/>
+  </displayList>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="94,94">
+  <displayList>
+    <image id="n0_qyfw" name="n0" src="eej7i" xy="0,0" size="94,94"/>
+    <loader id="n1_qyfw" name="n1" xy="0,0" size="94,94" url="ui://6mlabpfieej7e" fill="scale"/>
+    <image id="n3_qvis" name="n3" src="qvis76" pkg="sgwvgm5z" xy="-5,-6" size="106,106" hideByEditor="true"/>
+  </displayList>
+</component>

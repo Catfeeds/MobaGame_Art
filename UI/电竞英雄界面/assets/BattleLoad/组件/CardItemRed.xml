@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="208,322">
+  <displayList>
+    <image id="n0_dkzc" name="n0" src="ple52" xy="0,0"/>
+    <loader id="n1_dkzc" name="n1" xy="-47,0" size="322,322" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n2_dkzc" name="n2" xy="17,9" size="50,50" fill="scale"/>
+    <image id="n3_dkzc" name="n3" src="ple54" xy="0,283" size="208,39"/>
+    <loader id="n4_dkzc" name="n4" xy="0,258" size="63,63" fill="scale"/>
+    <text id="n5_dkzc" name="n5" xy="54,287" size="113,31" font="微软雅黑" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <component id="n6_dkzc" name="n6" src="6z19e" xy="168,282" size="40,40"/>
+  </displayList>
+</component>

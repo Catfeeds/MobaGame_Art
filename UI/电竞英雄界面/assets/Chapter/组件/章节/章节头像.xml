@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="125,140" mask="n4_ll03">
+  <displayList>
+    <loader id="n0_qip3" name="n0" xy="0,13" size="128,128" url="ui://522her13qip3k" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n4_ll03" name="n4" src="ll03n" fileName="资源/普通/头像蒙版.png" xy="1,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+</component>

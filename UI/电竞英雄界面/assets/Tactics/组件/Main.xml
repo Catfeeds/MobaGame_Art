@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false">
+  <displayList>
+    <image id="n83_f6zi" name="n83" src="iex94a" pkg="sgwvgm5z" xy="0,67" size="1334,681" group="n65_f6zi"/>
+    <graph id="n58_qip3" name="n58" xy="0,69" size="1334,681" group="n65_f6zi" alpha="0.5" type="rect" lineSize="0" lineColor="#ff21415f" fillColor="#ff21415f"/>
+    <image id="n59_qip3" name="n59" src="qip323" pkg="sgwvgm5z" xy="194,69" size="5,680" group="n65_f6zi"/>
+    <image id="n60_qip3" name="n60" src="qip323" pkg="sgwvgm5z" xy="826,69" size="5,680" group="n65_f6zi" scale="-1,1"/>
+    <image id="n41_lnrz" name="n41" src="lnrz9" xy="265,446" group="n65_f6zi"/>
+    <group id="n65_f6zi" name="n65" xy="0,67" size="1334,683"/>
+    <component id="n21_d3x6" name="mode_0" src="d3x63" xy="999,91" group="n25_d3x6"/>
+    <component id="n22_d3x6" name="mode_1" src="d3x63" xy="999,191" group="n25_d3x6"/>
+    <component id="n23_d3x6" name="mode_2" src="d3x63" xy="999,290" group="n25_d3x6"/>
+    <component id="n24_d3x6" name="mode_3" src="d3x63" xy="999,389" group="n25_d3x6"/>
+    <component id="n20_d3x6" name="mode_4" src="d3x63" xy="999,488" group="n25_d3x6"/>
+    <component id="n30_lnrz" name="n30" src="h0tr4h" pkg="sgwvgm5z" xy="833,91" group="n66_f6zi"/>
+    <text id="n36_lnrz" name="n36" xy="900,143" size="88,37" group="n66_f6zi" font="微软雅黑" fontSize="25" color="#749fcc" align="center" vAlign="middle" autoSize="none" bold="true" text="上路"/>
+    <group id="n66_f6zi" name="n66" xy="833,91" size="155,89" group="n71_f6zi" collapsed="true"/>
+    <component id="n31_lnrz" name="n31" src="h0tr4i" pkg="sgwvgm5z" xy="833,191" group="n67_f6zi"/>
+    <text id="n37_lnrz" name="n37" xy="900,243" size="88,37" group="n67_f6zi" font="微软雅黑" fontSize="25" color="#749fcc" align="center" vAlign="middle" autoSize="none" bold="true" text="中路"/>
+    <group id="n67_f6zi" name="n67" xy="833,191" size="155,89" group="n71_f6zi" collapsed="true"/>
+    <component id="n32_lnrz" name="n32" src="h0tr4j" pkg="sgwvgm5z" xy="833,290" group="n68_f6zi"/>
+    <text id="n38_lnrz" name="n38" xy="900,342" size="88,37" group="n68_f6zi" font="微软雅黑" fontSize="25" color="#749fcc" align="center" vAlign="middle" autoSize="none" bold="true" text="下路"/>
+    <group id="n68_f6zi" name="n68" xy="833,290" size="155,89" group="n71_f6zi" collapsed="true"/>
+    <component id="n33_lnrz" name="n33" src="h0tr4k" pkg="sgwvgm5z" xy="833,389" group="n69_f6zi"/>
+    <text id="n39_lnrz" name="n39" xy="900,441" size="88,37" group="n69_f6zi" font="微软雅黑" fontSize="25" color="#749fcc" align="center" vAlign="middle" autoSize="none" bold="true" text="辅助"/>
+    <group id="n69_f6zi" name="n69" xy="833,389" size="155,89" group="n71_f6zi" collapsed="true"/>
+    <component id="n34_lnrz" name="n34" src="h0tr4l" pkg="sgwvgm5z" xy="833,488" group="n70_f6zi"/>
+    <text id="n40_lnrz" name="n40" xy="900,540" size="88,37" group="n70_f6zi" font="微软雅黑" fontSize="25" color="#749fcc" align="center" vAlign="middle" autoSize="none" bold="true" text="打野"/>
+    <group id="n70_f6zi" name="n70" xy="833,488" size="155,89" group="n71_f6zi" collapsed="true"/>
+    <group id="n71_f6zi" name="n71" xy="833,91" size="155,486" group="n25_d3x6" collapsed="true"/>
+    <group id="n25_d3x6" name="n25" xy="833,91" size="501,486" collapsed="true"/>
+    <loader id="n43_lnrz" name="n43" xy="314,463" size="291,63" group="n72_f6zi" url="ui://5qhzi7tylnrza" vAlign="middle"/>
+    <text id="n44_lnrz" name="n44" xy="601,482" size="127,50" group="n72_f6zi" font="微软雅黑" fontSize="35" color="#62abce" align="center" vAlign="middle" autoSize="none" bold="true" text="Lv.99"/>
+    <text id="n62_h0tr" name="n62" xy="290,540" size="234,38" group="n72_f6zi" font="微软雅黑" fontSize="26" color="#1fadee" leading="10" ubb="true" autoSize="none" bold="true" shadowColor="#000000" shadowOffset="1,1" text="攻击技巧+100&#xA;防守技巧+100&#xA;补兵技巧+100&#xA;走位技巧+100&#xA;带线意识+100&#xA;支援意识+100&#xA;团战意识+100"/>
+    <text id="n77_f6zi" name="n77" xy="290,578" size="234,38" group="n72_f6zi" font="微软雅黑" fontSize="26" color="#1fadee" leading="10" ubb="true" autoSize="none" bold="true" shadowColor="#000000" shadowOffset="1,1" text="攻击技巧+100&#xA;防守技巧+100&#xA;补兵技巧+100&#xA;走位技巧+100&#xA;带线意识+100&#xA;支援意识+100&#xA;团战意识+100"/>
+    <text id="n78_f6zi" name="n78" xy="290,616" size="234,38" group="n72_f6zi" font="微软雅黑" fontSize="26" color="#1fadee" leading="10" ubb="true" autoSize="none" bold="true" shadowColor="#000000" shadowOffset="1,1" text="攻击技巧+100&#xA;防守技巧+100&#xA;补兵技巧+100&#xA;走位技巧+100&#xA;带线意识+100&#xA;支援意识+100&#xA;团战意识+100"/>
+    <text id="n79_f6zi" name="n79" xy="290,654" size="234,38" group="n72_f6zi" font="微软雅黑" fontSize="26" color="#1fadee" leading="10" ubb="true" autoSize="none" bold="true" shadowColor="#000000" shadowOffset="1,1" text="攻击技巧+100&#xA;防守技巧+100&#xA;补兵技巧+100&#xA;走位技巧+100&#xA;带线意识+100&#xA;支援意识+100&#xA;团战意识+100"/>
+    <text id="n80_f6zi" name="n80" xy="290,692" size="234,38" group="n72_f6zi" font="微软雅黑" fontSize="26" color="#1fadee" leading="10" ubb="true" autoSize="none" bold="true" shadowColor="#000000" shadowOffset="1,1" text="攻击技巧+100&#xA;防守技巧+100&#xA;补兵技巧+100&#xA;走位技巧+100&#xA;带线意识+100&#xA;支援意识+100&#xA;团战意识+100"/>
+    <text id="n81_f6zi" name="n81" xy="524,540" size="234,38" group="n72_f6zi" font="微软雅黑" fontSize="26" color="#1fadee" leading="10" ubb="true" autoSize="none" bold="true" shadowColor="#000000" shadowOffset="1,1" text="攻击技巧+100&#xA;防守技巧+100&#xA;补兵技巧+100&#xA;走位技巧+100&#xA;带线意识+100&#xA;支援意识+100&#xA;团战意识+100"/>
+    <text id="n82_f6zi" name="n82" xy="524,578" size="234,38" group="n72_f6zi" font="微软雅黑" fontSize="26" color="#1fadee" leading="10" ubb="true" autoSize="none" bold="true" shadowColor="#000000" shadowOffset="1,1" text="攻击技巧+100&#xA;防守技巧+100&#xA;补兵技巧+100&#xA;走位技巧+100&#xA;带线意识+100&#xA;支援意识+100&#xA;团战意识+100"/>
+    <group id="n72_f6zi" name="n72" xy="290,463" size="468,267" collapsed="true"/>
+    <image id="n61_h0tr" name="n61" src="h0trc" xy="840,692" size="34,34" group="n73_f6zi" aspect="true"/>
+    <text id="n53_lnrz" name="n53" xy="875,695" size="154,31" group="n73_f6zi" font="微软雅黑" fontSize="20" color="#5d9ebe" vAlign="middle" autoSize="none" bold="true" text="999"/>
+    <group id="n73_f6zi" name="n73" xy="840,692" size="189,34" collapsed="true"/>
+    <text id="n51_lnrz" name="n51" xy="840,578" size="480,41" group="n74_f6zi" font="微软雅黑" fontSize="28" color="#9dcbcc" vAlign="middle" autoSize="none" bold="true" text="1-2-2阵型"/>
+    <text id="n52_lnrz" name="n52" xy="840,618" size="480,61" group="n74_f6zi" font="微软雅黑" fontSize="20" color="#9dcbcc" autoSize="none" bold="true" text="解放射手能力，其他位置提供保护"/>
+    <group id="n74_f6zi" name="n74" xy="840,578" size="480,101" collapsed="true"/>
+    <loader id="n56_lnrz" name="n56" xy="357,57" size="400,397" group="n57_lnrz" aspect="true" url="ui://5qhzi7tyqyfwl" fill="scaleFree"/>
+    <group id="n57_lnrz" name="n57" xy="357,57" size="400,397" collapsed="true"/>
+    <component id="n54_lnrz" name="n54" src="d3x61" pkg="sgwvgm5z" xy="991,682" size="147,49">
+      <Button title="升级" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <component id="n55_lnrz" name="n55" src="d3x61" pkg="sgwvgm5z" xy="1172,682" size="147,49">
+      <Button title="启用" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <list id="n76_f6zi" name="n76" xy="0,112" size="227,558" layout="flow_vt" overflow="scroll" lineGap="5" defaultItem="ui://sgwvgm5zd3x68">
+      <item title="四一分推"/>
+      <item title="常规阵型"/>
+      <item title="双打野"/>
+      <item title="四保一"/>
+    </list>
+    <image id="n75_f6zi" name="n75" src="9wond" xy="170,97" visible="false"/>
+  </displayList>
+</component>

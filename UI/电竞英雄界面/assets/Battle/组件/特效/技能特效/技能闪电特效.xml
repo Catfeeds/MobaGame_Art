@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="737,750" mask="n2_t53i">
+  <displayList>
+    <image id="n1_t53i" name="n1" src="t53i36" xy="0,0"/>
+    <graph id="n2_t53i" name="n2" xy="0,-750" size="738,750" type="rect"/>
+  </displayList>
+  <transition name="t0">
+    <item time="6" type="Alpha" target="n1_t53i" tween="true" startValue="0" endValue="0" duration="6"/>
+    <item time="6" type="ColorFilter" target="n1_t53i" tween="true" startValue="0.00,0.00,0.00,0.00" endValue="0.00,0.00,0.00,0.00" duration="6"/>
+    <item time="6" type="Visible" target="n2_t53i" value="true"/>
+    <item time="6" type="Visible" target="n1_t53i" value="true"/>
+    <item time="6" type="XY" target="n2_t53i" value="0.25,-750"/>
+    <item time="12" type="Alpha" target="n1_t53i" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="12" type="ColorFilter" target="n1_t53i" tween="true" startValue="0.00,0.00,0.00,0.00" endValue="0.00,1.00,0.00,0.00" duration="4"/>
+    <item time="12" type="XY" target="n2_t53i" tween="true" startValue="0.25,-750" endValue="0,0" duration="4" ease="Quad.InOut"/>
+    <item time="16" type="Alpha" target="n1_t53i" tween="true" startValue="1"/>
+    <item time="16" type="XY" target="n2_t53i" tween="true" startValue="0,0" ease="Quad.InOut"/>
+    <item time="17" type="Visible" target="n1_t53i" value="false"/>
+    <item time="17" type="Visible" target="n2_t53i" value="false"/>
+  </transition>
+</component>

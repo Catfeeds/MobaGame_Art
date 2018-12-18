@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="313,413" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n5_pebf" name="n5" src="oof6m" pkg="sgwvgm5z" xy="0,100" group="n7_jx5k" aspect="true"/>
+    <loader id="n6_pebf" name="icon" xy="42,157" pivot="0.5,0.5" size="234,211" group="n7_jx5k" aspect="true" url="ui://hol7ztofy7cse" fill="scaleFree"/>
+    <group id="n7_jx5k" name="n7" xy="0,100" size="313,313"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

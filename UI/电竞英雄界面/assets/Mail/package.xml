@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5nwpbiz5" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="oof60" name="Main.xml" path="/组件/" exported="true"/>
+    <component id="oof61" name="邮件信息.xml" path="/组件/"/>
+    <component id="oof62" name="邮件弹出框.xml" path="/组件/"/>
+    <image id="lnrz4" name="750p 通用界面.jpg" path="/资源/"/>
+    <image id="lnrz5" name="750p 通用界面2.jpg" path="/资源/"/>
+    <image id="qip37" name="物品框架 红.png" path="/资源/"/>
+    <image id="qip38" name="750p 通用界面 3.jpg" path="/资源/"/>
+  </resources>
+  <publish name="Mail" path="E:\client\trunk\Assets\StreamingFairyAssets\Mail"/>
+</packageDescription>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="119,110">
+  <displayList>
+    <image id="n14_qip3" name="n14" src="khes2g" xy="0,0" size="120,111"/>
+    <image id="n33_khes" name="n33" src="khes2i" xy="82,3" fillMethod="vt" fillOrigin="1"/>
+    <component id="n15_qip3" name="n15" src="khes2q" xy="5,7"/>
+    <graph id="n37_khes" name="n37" xy="5,6" size="100,100" visible="false" alpha="0.6" type="eclipse" lineColor="#ffff0000" fillColor="#ffff0000"/>
+    <image id="n38_khes" name="n38" src="khes2p" xy="-1,10" visible="false"/>
+    <image id="n39_z25p" name="n39" src="khes2g" xy="0,0" hideByEditor="true" visible="false" alpha="0.6" color="#000000" fillMethod="vt" fillOrigin="1"/>
+    <text id="n40_z25p" name="n40" xy="7,32" size="92,56" hideByEditor="true" visible="false" font="微软雅黑" fontSize="40" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="5S"/>
+  </displayList>
+  <transition name="attack">
+    <item time="0" type="Shake" target="n15_qip3" value="10,0.3"/>
+  </transition>
+  <transition name="hurt">
+    <item time="0" type="Visible" target="n37_khes" value="true"/>
+    <item time="0" type="Visible" target="n38_khes" value="true"/>
+    <item time="1" type="Shake" target="n15_qip3" value="3,0.5"/>
+    <item time="8" type="Visible" target="n37_khes" value="false"/>
+    <item time="8" type="Visible" target="n38_khes" value="false"/>
+  </transition>
+</component>

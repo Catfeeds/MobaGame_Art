@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="890,65">
+  <displayList>
+    <graph id="n0_po4o" name="n0" xy="0,0" size="890,65" type="rect" fillColor="#ff666666"/>
+    <text id="n1_po4o" name="n1" xy="7,8" size="875,50" font="微软雅黑" fontSize="35" align="center" vAlign="middle" autoSize="none" text="悬浮提示框"/>
+  </displayList>
+</component>

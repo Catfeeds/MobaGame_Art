@@ -1,0 +1,15 @@
+info face="微软雅黑" size=40 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=40 base=26 scaleW=391 scaleH=43 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="priceNums.png"
+chars count=11
+char id=49   x=0    y=0     width=24    height=43    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=50   x=24    y=0     width=34    height=43    xoffset=0     yoffset=0     xadvance=34    page=0  chnl=15
+char id=55   x=58    y=0     width=34    height=43    xoffset=0     yoffset=0     xadvance=34    page=0  chnl=15
+char id=51   x=92    y=0     width=35    height=43    xoffset=0     yoffset=0     xadvance=35    page=0  chnl=15
+char id=53   x=127    y=0     width=36    height=43    xoffset=0     yoffset=0     xadvance=36    page=0  chnl=15
+char id=57   x=163    y=0     width=36    height=43    xoffset=0     yoffset=0     xadvance=36    page=0  chnl=15
+char id=54   x=199    y=0     width=36    height=43    xoffset=0     yoffset=0     xadvance=36    page=0  chnl=15
+char id=56   x=235    y=0     width=36    height=43    xoffset=0     yoffset=0     xadvance=36    page=0  chnl=15
+char id=48   x=271    y=0     width=37    height=42    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=52   x=308    y=0     width=39    height=43    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=19975   x=347    y=0     width=44    height=43    xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15

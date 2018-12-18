@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="142,172" mask="n362_h6yh">
+  <displayList>
+    <loader id="n363_h6yh" name="n363" xy="-71,0" size="276,276" aspect="true" url="ui://sgwvgm5zied473" fill="scaleFree"/>
+    <graph id="n362_h6yh" name="n362" xy="0,0" size="142,172" type="rect"/>
+  </displayList>
+</component>

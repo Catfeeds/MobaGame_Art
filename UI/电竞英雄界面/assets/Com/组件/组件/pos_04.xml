@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="89,89">
+  <displayList>
+    <image id="n1_lnrz" name="n1" src="lnrz1i" fileName="资源/位置/底框.png" xy="0,0"/>
+    <image id="n4_h0tr" name="n4" src="lnrz1e" fileName="资源/位置/位置 辅助.png" xy="18,11"/>
+  </displayList>
+</component>

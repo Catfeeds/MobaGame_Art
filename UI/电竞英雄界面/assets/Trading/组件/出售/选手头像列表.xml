@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="106,130">
+  <displayList>
+    <image id="n0_xbdx" name="n0" src="xbdx7" xy="0,0" size="106,130"/>
+    <component id="n1_xbdx" name="n1" src="xtyk53" pkg="sgwvgm5z" xy="3,3" size="100,100" aspect="true"/>
+    <text id="n2_xbdx" name="n2" xy="3,106" size="100,21" font="微软雅黑" fontSize="15" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="六六六六"/>
+  </displayList>
+</component>

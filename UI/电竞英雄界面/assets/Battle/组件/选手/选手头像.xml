@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="98,98">
+  <displayList>
+    <component id="n15_qip3" name="n15" src="qip36" xy="8,8" size="80,80" group="n36_khes">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n34_khes" name="n34" src="gwor28" xy="0,0" size="98,98" group="n36_khes" aspect="true" color="#00ff00" fillMethod="radial360" fillClockwise="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n35_khes" name="n35" src="gwor29" xy="2,2" size="94,94" group="n36_khes" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <group id="n36_khes" name="n36" xy="0,0" size="98,98"/>
+  </displayList>
+</component>

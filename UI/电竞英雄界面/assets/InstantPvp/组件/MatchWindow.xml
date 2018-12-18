@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://6mlabpfieej70" designImageLayer="1">
+  <displayList>
+    <image id="n0_qvis" name="n0" src="eej7w" xy="0,0" size="1334,750"/>
+    <graph id="n1_qvis" name="n1" xy="0,0" size="1334,750" type="rect" fillColor="#5e000000"/>
+    <image id="n10_qvis" name="n10" src="eej7g" xy="295,145" size="749,473"/>
+    <image id="n2_qvis" name="n2" src="eej7f" xy="263,72" size="813,554"/>
+    <image id="n3_qvis" name="n3" src="eej7t" xy="579,235"/>
+    <image id="n4_qvis" name="n4" src="eej7r" xy="556,237"/>
+    <image id="n5_qvis" name="n5" src="eej7r" xy="606,237"/>
+    <image id="n25_qvis" name="n25" src="eej7s" xy="554,237" hideByEditor="true"/>
+    <image id="n26_qvis" name="n26" src="eej7s" xy="606,237" hideByEditor="true"/>
+    <list id="n6_qvis" name="n6" xy="395,290" size="557,205" layout="flow_hz" lineGap="12" colGap="20" defaultItem="ui://6mlabpfiqyfw13">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n7_qvis" name="n7" src="d3x61" pkg="sgwvgm5z" xy="599,548" size="137,48" hideByEditor="true">
+      <Button title="开始匹配" titleFontSize="28" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <image id="n8_qvis" name="n8" src="eej7v" xy="589,235" hideByEditor="true"/>
+    <image id="n9_qvis" name="n9" src="eej7u" xy="604,235" hideByEditor="true"/>
+    <component id="n11_qvis" name="n11" src="d3x61" pkg="sgwvgm5z" xy="449,547" size="134,51" group="n15_qvis" hideByEditor="true">
+      <Button title="拒绝" titleFontSize="28" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <component id="n12_qvis" name="n12" src="d3x61" pkg="sgwvgm5z" xy="750,546" size="140,49" group="n15_qvis" hideByEditor="true">
+      <Button title="接受" titleFontSize="28" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <group id="n15_qvis" name="n15" xy="449,546" size="441,52" hideByEditor="true" advanced="true" collapsed="true"/>
+    <text id="n14_qvis" name="n14" xy="506,500" size="76,42" group="n22_qvis" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="0/10"/>
+    <text id="n16_qvis" name="n16" xy="567,500" size="90,37" group="n22_qvis" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="已准备"/>
+    <text id="n17_qvis" name="n17" xy="683,500" size="83,37" group="n22_qvis" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="倒计时"/>
+    <text id="n18_qvis" name="n18" xy="794,500" size="30,37" group="n22_qvis" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" bold="true" text="秒"/>
+    <text id="n19_qvis" name="n19" xy="766,501" size="35,37" group="n22_qvis" font="微软雅黑" fontSize="25" color="#957633" align="center" vAlign="middle" bold="true" text="59"/>
+    <group id="n22_qvis" name="n22" xy="506,500" size="318,42" hideByEditor="true" advanced="true" collapsed="true"/>
+    <text id="n23_qvis" name="n23" xy="624,556" size="87,37" hideByEditor="true" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="已就绪"/>
+  </displayList>
+</component>

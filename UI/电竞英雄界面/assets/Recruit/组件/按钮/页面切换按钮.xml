@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="216,77" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_jzbo" name="n0" src="jzbo4m" fileName="资源/按钮/通用按钮2 A.png" pkg="sgwvgm5z" xy="0,0">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_jzbo" name="n1" src="jzbo4n" fileName="资源/按钮/通用按钮2 B.png" pkg="sgwvgm5z" xy="0,0">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_jzbo" name="title" xy="72,16" size="143,67" font="微软雅黑" fontSize="32" color="#ffffff" autoSize="none" bold="true" text="普通签约"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

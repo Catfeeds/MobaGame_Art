@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4arh5aie" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="qip30" name="Main.xml" path="/组件/" exported="true"/>
+    <image id="qip31" name="背景.jpg" path="/资源/通用/" scale9grid="256,144,512,288"/>
+    <image id="qip32" name="开始比赛.png" path="/资源/通用/"/>
+    <component id="qip33" name="开始比赛.xml" path="/组件/按钮/"/>
+    <image id="qip34" name="750p 地图关卡.jpg" path="/资源/"/>
+    <image id="qip35" name="调整阵容.png" path="/资源/通用/"/>
+    <component id="qip36" name="阵容.xml" path="/组件/按钮/"/>
+    <image id="qip37" name="卡牌 金 A.png" path="/资源/"/>
+    <component id="qip38" name="选手卡牌.xml" path="/组件/卡组/"/>
+    <image id="qip39" name="A.png" path="/资源/"/>
+    <image id="qip3a" name="1001.png" path="/资源/"/>
+    <component id="qip3b" name="卡牌半身像.xml" path="/组件/卡组/"/>
+    <image id="qip3c" name="战队图标 (1).png" path="/资源/"/>
+    <image id="qip3d" name="3456456.jpg" path="/资源/"/>
+    <image id="qip3e" name="类别选择按钮.png" path="/资源/通用/"/>
+    <component id="qip3f" name="六角按钮.xml" path="/组件/按钮/"/>
+    <image id="qip3g" name="类别选择按钮 A.png" path="/资源/通用/"/>
+    <component id="qip3h" name="圆形品质按钮.xml" path="/组件/按钮/"/>
+    <component id="qip3i" name="圆形位置按钮.xml" path="/组件/按钮/"/>
+    <image id="qip3j" name="4534534.jpg" path="/资源/"/>
+    <image id="qip3k" name="12545.jpg" path="/资源/"/>
+    <component id="qip3l" name="卡组品质.xml" path="/组件/卡组/"/>
+    <component id="qip3m" name="卡组位置.xml" path="/组件/卡组/"/>
+    <component id="qip3n" name="卡组阵容.xml" path="/组件/卡组/"/>
+    <image id="oplkp" name="阵型选择按钮 A.png" path="/资源/通用/"/>
+    <image id="oplkq" name="战术按钮.png" path="/资源/通用/"/>
+    <image id="oplkr" name="装备按钮.png" path="/资源/通用/"/>
+    <image id="ephys" name="位置 底部.png" path="/资源/"/>
+    <image id="ephyt" name="战术调整 窗口.png" path="/资源/"/>
+    <image id="ephyu" name="阵型选择按钮 B.png" path="/资源/通用/"/>
+    <component id="ephyv" name="战术按钮.xml" path="/组件/按钮/"/>
+    <image id="ephyx" name="排名1 底部.png" path="/资源/通用/"/>
+    <image id="ephyy" name="排名23 底部.png" path="/资源/通用/"/>
+    <image id="ephyz" name="排名3 底部.png" path="/资源/通用/"/>
+    <image id="ephy10" name="自定义底部.png" path="/资源/通用/"/>
+    <image id="ephy11" name="排名1.png" path="/资源/通用/"/>
+    <image id="ephy12" name="排名2.png" path="/资源/通用/"/>
+    <image id="ephy13" name="排名3.png" path="/资源/通用/"/>
+    <image id="ephy14" name="自定义.png" path="/资源/通用/"/>
+    <image id="ephy15" name="装备选择标签页.png" path="/资源/通用/"/>
+    <image id="ephy16" name="卡牌内渐变.png" path="/资源/通用/"/>
+    <image id="ephy19" name="4534534(1).jpg" path="/资源/"/>
+    <image id="ephy1b" name="14130.png" path="/资源/"/>
+    <image id="7ypa1e" name="英雄池.png" path="/资源/"/>
+    <image id="f6zi1g" name="战术按钮.png" path="/资源/"/>
+    <image id="f6zi1h" name="装备按钮.png" path="/资源/"/>
+    <image id="f6zi1i" name="12545.jpg" path="/资源/效果图/"/>
+    <image id="f6zi1j" name="23423423423.jpg" path="/资源/效果图/"/>
+    <image id="f6zi1k" name="3456456.jpg" path="/资源/效果图/"/>
+    <image id="f6zi1l" name="4534534.jpg" path="/资源/效果图/"/>
+    <image id="f6zi1m" name="750p 地图关卡.jpg" path="/资源/效果图/"/>
+    <image id="f6zi1n" name="asd.jpg" path="/资源/效果图/"/>
+    <image id="f6zi1o" name="啊实打实打算.jpg" path="/资源/效果图/"/>
+    <component id="f6zi1p" name="战术调整.xml" path="/组件/"/>
+    <image id="f6zi1q" name="asd.jpg" path="/资源/"/>
+    <image id="f6zi1r" name="23423423423.jpg" path="/资源/"/>
+    <image id="f6zi1s" name="自定义底部.png" path="/资源/"/>
+    <image id="f6zi1u" name="类别选择 底部圆环 128.png" path="/资源/"/>
+    <image id="f6zi1v" name="类别选择 底部圆环B 128.png" path="/资源/"/>
+  </resources>
+  <publish name="BattleBefore" path="E:\X1Client\Assets\StreamingFairyAssets\BattleBefore" maxAtlasSize="1024" excluded="qip3a,qip3k,qip3d,qip3j,qip34,qip39,qip37,qip3c">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

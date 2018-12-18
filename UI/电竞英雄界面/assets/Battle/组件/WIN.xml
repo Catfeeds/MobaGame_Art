@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n1_qip3" name="n1" xy="0,0" size="1334,750" group="n9_r7d9" type="rect" lineSize="0" fillColor="#99000000"/>
+    <image id="n3_qip3" name="n3" src="qip3f" xy="101,232" group="n11_r7d9"/>
+    <image id="n4_qip3" name="n4" src="qip3f" xy="1233,232" group="n11_r7d9" scale="-1,1"/>
+    <image id="n5_qip3" name="n5" src="qip3g" xy="649,500" group="n11_r7d9"/>
+    <image id="n6_qip3" name="n6" src="qip3h" xy="541,305" group="n11_r7d9"/>
+    <image id="n7_qip3" name="n7" src="qip3i" xy="678,387" group="n11_r7d9"/>
+    <image id="n8_qip3" name="n8" src="qip3j" xy="571,387" group="n11_r7d9"/>
+    <group id="n11_r7d9" name="n11" xy="100,232" size="1699,392" group="n9_r7d9" advanced="true" collapsed="true"/>
+    <group id="n9_r7d9" name="n9" xy="0,0" size="1799,750" advanced="true" collapsed="true"/>
+    <list id="n13_z25p" name="n13" xy="411,463" size="648,128" scale="0.8,0.8" visible="false" layout="row" overflow="scroll" defaultItem="ui://sgwvgm5zd3x66" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n2_qip3" name="n2" xy="568,567" size="215,50" font="微软雅黑" fontSize="35" color="#fefffe" bold="true" strokeColor="#2873b5" strokeSize="2" text="点击屏幕继续"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n11_r7d9" tween="true" startValue="0" endValue="1" duration="24"/>
+    <item time="0" type="Visible" target="n13_z25p" value="false"/>
+    <item time="0" type="XY" target="n11_r7d9" tween="true" startValue="111.16,247.25" endValue="111.16,62.25" duration="24"/>
+    <item time="24" type="Alpha" target="n11_r7d9" tween="true" startValue="1"/>
+    <item time="24" type="Visible" target="n13_z25p" value="true"/>
+    <item time="24" type="XY" target="n11_r7d9" tween="true" startValue="111.16,62.25"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Alpha" target="n2_qip3" tween="true" startValue="0" endValue="0" duration="24"/>
+    <item time="24" type="Alpha" target="n2_qip3" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="24" type="XY" target="n2_qip3" tween="true" startValue="576,567"/>
+    <item time="30" type="Alpha" target="n2_qip3" tween="true" startValue="1" endValue="0.3" duration="6"/>
+    <item time="36" type="Alpha" target="n2_qip3" tween="true" startValue="0.3" endValue="1" duration="5"/>
+    <item time="41" type="Alpha" target="n2_qip3" tween="true" startValue="1" endValue="0.3" duration="6"/>
+    <item time="47" type="Alpha" target="n2_qip3" tween="true" startValue="0.3" endValue="1" duration="7"/>
+    <item time="54" type="Alpha" target="n2_qip3" tween="true" startValue="1" endValue="0.3" duration="6"/>
+    <item time="60" type="Alpha" target="n2_qip3" tween="true" startValue="0.3" endValue="1" duration="6"/>
+    <item time="66" type="Alpha" target="n2_qip3" tween="true" startValue="1" endValue="0.3" duration="6"/>
+    <item time="72" type="Alpha" target="n2_qip3" tween="true" startValue="0.3" endValue="1" duration="6"/>
+    <item time="78" type="Alpha" target="n2_qip3" tween="true" startValue="1"/>
+  </transition>
+</component>

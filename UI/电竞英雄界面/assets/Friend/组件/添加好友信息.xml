@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="745,70">
+  <displayList>
+    <text id="n1_oof6" name="n1" xy="0,0" size="181,70" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="角色名角色名"/>
+    <text id="n2_oof6" name="n2" xy="180,0" size="70,70" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="性别"/>
+    <text id="n3_oof6" name="n3" xy="285,0" size="70,70" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="等级"/>
+    <text id="n4_oof6" name="n4" xy="393,0" size="175,70" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="88888888"/>
+    <component id="n5_oof6" name="n5" src="lnrz1c" pkg="sgwvgm5z" xy="632,18" size="100,35">
+      <Button title="添加" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+  </displayList>
+</component>

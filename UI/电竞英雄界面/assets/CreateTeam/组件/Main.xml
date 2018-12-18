@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <controller name="c1" pages="" selected="-1"/>
+  <displayList>
+    <image id="n1_y7cs" name="n1" src="y7csa" xy="0,0" size="1334,750" group="n25_hade"/>
+    <component id="n18_ny9a" name="n100" src="ny9an" xy="551,632" group="n25_hade"/>
+    <list id="n23_pebf" name="logoList" xy="0,0" size="1336,548" group="n25_hade" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="2" scrollBar="hidden" margin="48,0,88,0" colGap="123" defaultItem="ui://hol7ztofpebfr" align="center" vAlign="middle">
+      <relation target="" sidePair="center-center"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n26_jx5k" name="n26" src="d3x61" pkg="sgwvgm5z" xy="397,221" size="100,157" group="n25_hade">
+      <Button title=" " icon="ui://hol7ztofy7cs3"/>
+    </component>
+    <component id="n27_jx5k" name="n27" src="d3x61" pkg="sgwvgm5z" xy="953,221" size="100,157" group="n25_hade" scale="-1,1">
+      <Button title=" " icon="ui://hol7ztofy7cs3"/>
+    </component>
+    <group id="n25_hade" name="n25" xy="0,0" size="1336,750"/>
+    <image id="n15_ny9a" name="n15" src="y7cs6" xy="519,510" group="n24_hade"/>
+    <text id="n13_ny9a" name="n13" xy="327,511" size="194,69" group="n24_hade" font="Microsoft YaHei" fontSize="40" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" shadowColor="#000000" shadowOffset="0,3" text="战队名称"/>
+    <text id="n17_ny9a" name="n17" xy="521,512" size="294,64" group="n24_hade" input="true" prompt="最多8个字符" maxLength="8" font="Microsoft YaHei" fontSize="40" color="#999999" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <component id="n16_ny9a" name="n101" src="ny9am" xy="819,489" group="n24_hade"/>
+    <group id="n24_hade" name="n24" xy="327,489" size="600,105" collapsed="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,124" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n4_h6yh" name="n4" xy="0,0" size="124,124" aspect="true" url="ui://41vqeinnh6yh2k" fill="scaleFree"/>
+    <loader id="n5_h6yh" name="n5" xy="5,5" size="114,114" aspect="true" url="ui://41vqeinnvy9jr" fill="scaleFree"/>
+    <text id="n6_h6yh" name="n6" xy="0,93" size="124,37" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

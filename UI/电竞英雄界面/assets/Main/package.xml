@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="y6zsaagq" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="sesa2o" name="Main.xml" path="/组件/" exported="true"/>
+    <component id="d3x637" name="Chat.xml" path="/组件/"/>
+    <component id="d3x639" name="chatMsg.xml" path="/组件/"/>
+    <image id="lnrz3b" name="竞技征程.png" path="/资源/通用/"/>
+    <image id="lnrz3c" name="聊天按钮.png" path="/资源/通用/"/>
+    <image id="lnrz3d" name="赛事模式.png" path="/资源/通用/"/>
+    <image id="lnrz3e" name="阵容A.png" path="/资源/通用/"/>
+    <image id="lnrz3f" name="邮箱.png" path="/资源/通用/"/>
+    <image id="lnrz3g" name="活动1.png" path="/资源/资源参考/"/>
+    <image id="lnrz3k" name="750p 主界面 2.jpg" path="/资源/资源参考/"/>
+    <image id="lnrz3l" name="商城.png" path="/资源/通用/"/>
+    <image id="lnrz3m" name="玩法.png" path="/资源/通用/"/>
+    <image id="lnrz3n" name="任务.png" path="/资源/通用/"/>
+    <image id="lnrz46" name="聊天标签页 亮.png" path="/资源/通用/"/>
+    <image id="lnrz47" name="聊天标签页 灭.png" path="/资源/通用/"/>
+    <component id="lnrz4b" name="label_btn1.xml" path="/组件/"/>
+    <image id="qip34c" name="750p 主界面 2(1).jpg" path="/资源/资源参考/"/>
+    <image id="qip34d" name="麦克风按钮.png" path="/资源/通用/"/>
+    <image id="qip34e" name="表情按钮.png" path="/资源/通用/"/>
+    <image id="qip34f" name="聊天回缩按钮.png" path="/资源/通用/"/>
+    <image id="qip34g" name="VIP.png" path="/资源/通用/"/>
+    <image id="qip34h" name="阵容.png" path="/资源/通用/"/>
+    <image id="iod44j" name="聊天窗口.png" path="/资源/通用/" scale="9grid" scale9grid="21,30,42,21"/>
+    <image id="7ypa4k" name="招募.png" path="/资源/通用/"/>
+    <component id="hngs4l" name="空点点击区域.xml" path="/组件/"/>
+    <image id="qear4m" name="交易所.png" path="/资源/通用/"/>
+    <image id="g90252" name="emoji_14.png" path="/资源/emoji/" exported="true"/>
+    <image id="g90253" name="emoji_13.png" path="/资源/emoji/" exported="true"/>
+    <image id="g90254" name="emoji_12.png" path="/资源/emoji/" exported="true"/>
+    <image id="g90255" name="emoji_11.png" path="/资源/emoji/" exported="true"/>
+    <image id="g90256" name="emoji_10.png" path="/资源/emoji/" exported="true"/>
+    <image id="g90257" name="emoji_9.png" path="/资源/emoji/" exported="true"/>
+    <image id="g90258" name="emoji_8.png" path="/资源/emoji/" exported="true"/>
+    <image id="g90259" name="emoji_7.png" path="/资源/emoji/" exported="true"/>
+    <image id="g9025a" name="emoji_6.png" path="/资源/emoji/" exported="true"/>
+    <image id="g9025b" name="emoji_5.png" path="/资源/emoji/" exported="true"/>
+    <image id="g9025c" name="emoji_4.png" path="/资源/emoji/" exported="true"/>
+    <image id="g9025d" name="emoji_3.png" path="/资源/emoji/" exported="true"/>
+    <image id="g9025e" name="emoji_2.png" path="/资源/emoji/" exported="true"/>
+    <image id="g9025f" name="emoji_1.png" path="/资源/emoji/" exported="true"/>
+    <component id="g9025r" name="EmojiSelectUI.xml" path="/组件/"/>
+    <component id="t4vp5t" name="faceSub.xml" path="/组件/"/>
+  </resources>
+  <publish name="Main" path="E:\Client\trunk\Assets\StreamingFairyAssets\Main" excluded="lnrz3g,lnrz3k,qip34c"/>
+</packageDescription>

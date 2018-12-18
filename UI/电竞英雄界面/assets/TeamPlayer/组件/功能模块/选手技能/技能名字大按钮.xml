@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,146" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n4_h6yh" name="n4" xy="0,0" size="124,124" aspect="true" url="ui://41vqeinnh6yh2k" fill="scaleFree"/>
+    <loader id="n5_h6yh" name="n5" xy="5,5" size="114,114" aspect="true" url="ui://41vqeinnvy9jr" fill="scaleFree"/>
+    <image id="n8_ruoh" name="n8" src="h6yh2m" xy="90,85" visible="false"/>
+    <text id="n6_h6yh" name="n6" xy="0,99" size="124,37" font="微软雅黑" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="Lv22"/>
+    <text id="n7_h6yh" name="n7" xy="-34,121" size="190,29" font="微软雅黑" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="绝境的希望"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

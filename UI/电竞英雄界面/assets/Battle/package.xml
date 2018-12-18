@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5ewfozh6" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="d3x60" name="Main.xml" path="/组件/" exported="true"/>
+    <image id="qip31" name="背景.png" path="/资源/通用/"/>
+    <image id="qip32" name="标记红.png" path="/资源/通用/"/>
+    <image id="qip33" name="标记蓝.png" path="/资源/通用/"/>
+    <component id="qip34" name="MyHead.xml" path="/组件/头像/"/>
+    <image id="qip35" name="1007.png" path="/资源/"/>
+    <component id="qip36" name="Head.xml" path="/组件/头像/"/>
+    <component id="qip37" name="OpHead.xml" path="/组件/头像/"/>
+    <image id="qip38" name="备战 ，战斗 - 副本.jpg" path="/资源/"/>
+    <image id="qip39" name="数据按钮.png" path="/资源/通用/"/>
+    <image id="qip3a" name="战术按钮.png" path="/资源/通用/"/>
+    <component id="qip3b" name="选手卡牌详情.xml" path="/组件/选手/"/>
+    <image id="qip3c" name="卡牌.png" path="/资源/通用/"/>
+    <component id="qip3d" name="WIN.xml" path="/组件/"/>
+    <image id="qip3e" name="胜利界面.jpg" path="/资源/"/>
+    <image id="qip3f" name="胜利1.png" path="/资源/通用/"/>
+    <image id="qip3g" name="胜利2.png" path="/资源/通用/"/>
+    <image id="qip3h" name="胜利3.png" path="/资源/通用/"/>
+    <image id="qip3i" name="胜利4.png" path="/资源/通用/"/>
+    <image id="qip3j" name="胜利5.png" path="/资源/通用/"/>
+    <image id="qip3k" name="背景 a.jpg.png" path="/资源/"/>
+    <image id="qip3n" name="背景3.jpg" path="/资源/"/>
+    <component id="qip3o" name="Waypoint.xml" path="/组件/路径/" exported="true"/>
+    <component id="pirxp" name="MyHeadAni.xml" path="/组件/头像/"/>
+    <component id="pirxq" name="OpHeadAni.xml" path="/组件/头像/"/>
+    <component id="pirxr" name="Statistics.xml" path="/组件/数据统计/"/>
+    <image id="pirxs" name="参考页面.jpg" path="/资源/统计/"/>
+    <image id="pirxt" name="货币注明 红蓝条.png" path="/资源/统计/"/>
+    <component id="pirxu" name="MyPlayerInfo.xml" path="/组件/数据统计/"/>
+    <image id="pirxv" name="红方头像.png" path="/资源/统计/"/>
+    <image id="pirxw" name="蓝方头像.png" path="/资源/统计/"/>
+    <image id="pirxx" name="1111.jpg" path="/资源/"/>
+    <component id="pirxy" name="Equi.xml" path="/组件/数据统计/"/>
+    <image id="pirxz" name="选手信息底部 红.png" path="/资源/统计/" scale="9grid" scale9grid="8,8,18,18"/>
+    <image id="pirx10" name="选手信息底部 蓝.png" path="/资源/统计/" scale="9grid" scale9grid="8,8,18,18"/>
+    <component id="pirx11" name="OpPlayerInfo.xml" path="/组件/数据统计/"/>
+    <image id="pirx12" name="战术调整 窗口.png" path="/资源/通用/"/>
+    <image id="pirx13" name="阵型选择按钮 A.png" path="/资源/通用/"/>
+    <image id="pirx14" name="阵型选择按钮 B.png" path="/资源/通用/"/>
+    <component id="pirx15" name="Tactics.xml" path="/组件/战术/"/>
+    <image id="pirx16" name="asd.jpg" path="/资源/"/>
+    <component id="pirx17" name="TacticsBtn.xml" path="/组件/战术/"/>
+    <image id="pirx18" name="红方 上路 外塔2.png" path="/资源/塔/红方/"/>
+    <image id="pirx19" name="红方 上路 外塔3.png" path="/资源/塔/红方/"/>
+    <image id="pirx1a" name="红方 下路 外塔1.png" path="/资源/塔/红方/"/>
+    <image id="pirx1b" name="红方 下路 外塔2.png" path="/资源/塔/红方/"/>
+    <image id="pirx1c" name="红方 下路 外塔3.png" path="/资源/塔/红方/"/>
+    <image id="pirx1d" name="红方 中路 外塔1.png" path="/资源/塔/红方/"/>
+    <image id="pirx1e" name="红方 中路 外塔2.png" path="/资源/塔/红方/"/>
+    <image id="pirx1f" name="红方 中路 外塔3.png" path="/资源/塔/红方/"/>
+    <image id="pirx1g" name="基地塔 红方.png" path="/资源/塔/红方/"/>
+    <image id="pirx1h" name="基地塔 红方水晶.png" path="/资源/塔/红方/"/>
+    <image id="pirx1i" name="基地塔 蓝方.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1j" name="基地塔 蓝方水晶.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1k" name="蓝方 上路 外塔1.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1l" name="蓝方 上路 外塔2.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1m" name="蓝方 上路 外塔3.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1n" name="蓝方 下路 外塔1.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1o" name="蓝方 下路 外塔2.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1p" name="蓝方 下路 外塔3.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1q" name="蓝方 中路 外塔1.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1r" name="蓝方 中路 外塔2.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1s" name="蓝方 中路 外塔3.png" path="/资源/塔/蓝方/"/>
+    <image id="pirx1t" name="红方 上路 外塔1.png" path="/资源/塔/红方/"/>
+    <component id="pirx1v" name="塔.xml" path="/组件/"/>
+    <image id="pirx1w" name="防御塔 基地.png" path="/资源/"/>
+    <component id="gwor1x" name="Failure.xml" path="/组件/"/>
+    <image id="gwor1y" name="失败效果图.jpg" path="/资源/"/>
+    <image id="gwor1z" name="失败1.png" path="/资源/通用/"/>
+    <image id="gwor20" name="失败4.png" path="/资源/通用/"/>
+    <image id="gwor21" name="失败5.png" path="/资源/通用/"/>
+    <image id="gwor22" name="失败2.png" path="/资源/通用/"/>
+    <image id="gwor23" name="失败3.png" path="/资源/通用/"/>
+    <image id="gwor28" name="HP.png" path="/资源/通用/"/>
+    <image id="gwor29" name="刻度.png" path="/资源/通用/"/>
+    <image id="f4u22a" name="11430.png" path="/资源/"/>
+    <image id="tzme2b" name="怪物 暴君.png" path="/资源/怪物/"/>
+    <image id="tzme2c" name="怪物 红BUFF.png" path="/资源/怪物/"/>
+    <image id="tzme2d" name="怪物 蓝BUFF.png" path="/资源/怪物/"/>
+    <image id="tzme2e" name="怪物 普通.png" path="/资源/怪物/"/>
+    <image id="tzme2f" name="怪物 主宰.png" path="/资源/怪物/"/>
+    <image id="khes2g" name="头像 蓝.png" path="/资源/通用/"/>
+    <image id="khes2h" name="3 备战 ，战斗 - 副本.jpg.png" path="/资源/"/>
+    <image id="khes2i" name="头像 技能进度 条.png" path="/资源/通用/"/>
+    <component id="khes2j" name="主场选手头像.xml" path="/组件/选手/"/>
+    <image id="khes2k" name="2 备战 ，战斗 - 副本.jpg" path="/资源/"/>
+    <image id="khes2l" name="扩展按钮 2.png" path="/资源/通用/"/>
+    <image id="khes2m" name="头像 红.png" path="/资源/通用/"/>
+    <component id="khes2n" name="客场选手头像.xml" path="/组件/选手/"/>
+    <image id="khes2p" name="头像 裂痕.png" path="/资源/通用/"/>
+    <component id="khes2q" name="选手头像.xml" path="/组件/选手/"/>
+    <image id="xbdx2r" name="1 备战 ，战斗 - 副本.jpg" path="/资源/"/>
+    <component id="ied42s" name="切割特效上.xml" path="/组件/特效/切割特效/"/>
+    <component id="ied42t" name="切割特效下.xml" path="/组件/特效/切割特效/"/>
+    <component id="ied42u" name="切割特效.xml" path="/组件/特效/切割特效/"/>
+    <component id="ied42v" name="切割光效.xml" path="/组件/特效/切割特效/"/>
+    <image id="ied42w" name="特效 上层.png" path="/资源/特效/光效/"/>
+    <image id="ied42x" name="特效 下层.png" path="/资源/特效/光效/"/>
+    <image id="ied42y" name="特效 切割前.png" path="/资源/特效/光效/"/>
+    <image id="ied42z" name="kill_effect_3.png" path="/资源/特效/击杀/" exported="true"/>
+    <image id="ied430" name="kill_effect_2.png" path="/资源/特效/击杀/" exported="true"/>
+    <image id="ied431" name="kill_effect_4.png" path="/资源/特效/击杀/" exported="true"/>
+    <image id="ied432" name="kill_effect_5.png" path="/资源/特效/击杀/" exported="true"/>
+    <image id="ied433" name="kill_effect_1.png" path="/资源/特效/击杀/" exported="true"/>
+    <component id="t53i34" name="击杀特效.xml" path="/组件/特效/击杀特效/"/>
+    <component id="t53i35" name="技能特效.xml" path="/组件/特效/技能特效/"/>
+    <image id="t53i36" name="图层 711.png" path="/资源/特效/技能/"/>
+    <component id="t53i37" name="技能闪电特效.xml" path="/组件/特效/技能特效/"/>
+    <image id="t53i38" name="头像标记 补血 2.png" path="/资源/特效/BUFF/"/>
+    <image id="t53i39" name="头像标记 补血.png" path="/资源/特效/BUFF/"/>
+    <image id="t53i3a" name="头像标记 防御 2.png" path="/资源/特效/BUFF/"/>
+    <image id="t53i3b" name="头像标记 防御.png" path="/资源/特效/BUFF/"/>
+    <image id="t53i3c" name="头像标记 攻击 2.png" path="/资源/特效/BUFF/"/>
+    <image id="t53i3d" name="头像标记 攻击.png" path="/资源/特效/BUFF/"/>
+    <component id="t53i3e" name="加血.xml" path="/组件/特效/BUFF/加血/"/>
+    <component id="t53i3f" name="防御.xml" path="/组件/特效/BUFF/防御/"/>
+    <component id="t53i3g" name="攻击.xml" path="/组件/特效/BUFF/攻击/"/>
+    <component id="t53i3h" name="防御箭头.xml" path="/组件/特效/BUFF/防御/"/>
+    <component id="t53i3j" name="攻击箭头.xml" path="/组件/特效/BUFF/攻击/"/>
+    <image id="rxus3w" name="750p 对战加载界面 - 副本 2.jpg" path="/资源/"/>
+    <component id="rxus42" name="地图路径.xml" path="/组件/路径/"/>
+    <component id="rxus43" name="路径背景.xml" path="/组件/路径/"/>
+    <component id="rxus44" name="地图路径参考.xml" path="/组件/路径/"/>
+  </resources>
+  <publish name="Battle" path="E:\Client\trunk\Assets\StreamingFairyAssets\Battle" excluded="qip35,pirxx,f4u22a">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

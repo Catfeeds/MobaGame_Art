@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,681">
+  <displayList>
+    <component id="n189_vy9j" name="n189" src="vy9j6" xy="0,-2"/>
+    <component id="n205_vy9j" name="n205" src="vy9j5b" pkg="sgwvgm5z" xy="80,45"/>
+    <loader id="n258_vy9j" name="n258" xy="13,14" size="608,634" url="ui://41vqeinnvy9jv" fill="scaleFree"/>
+    <image id="n260_vy9j" name="n260" src="h6yh19" xy="118,543" size="378,84"/>
+    <loader id="n259_vy9j" name="n259" xy="111,513" size="128,128" aspect="true" url="ui://41vqeinnvy9jt" fill="scaleFree"/>
+    <text id="n261_vy9j" name="n261" xy="230,557" size="247,48" font="微软雅黑" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="威尔士鲁迅二"/>
+    <loader id="n262_vy9j" name="n262" xy="230,599" size="25,25" aspect="true" url="ui://41vqeinnvy9jw" fill="scaleFree"/>
+    <text id="n263_vy9j" name="n263" xy="257,597" size="71,31" font="微软雅黑" fontSize="20" color="#ffffff" autoSize="none" text="打野"/>
+  </displayList>
+</component>

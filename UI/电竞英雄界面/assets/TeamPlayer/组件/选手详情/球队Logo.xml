@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="391,518" mask="n1_vy9j">
+  <displayList>
+    <graph id="n1_vy9j" name="n1" xy="94,0" size="296,526" skew="10,0" type="rect"/>
+    <loader id="n3_vy9j" name="n3" xy="-10,-20" size="510,510" aspect="true" url="ui://41vqeinnvy9j9" fill="scaleFree"/>
+  </displayList>
+</component>

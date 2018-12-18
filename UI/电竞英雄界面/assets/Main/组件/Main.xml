@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" overflow="hidden" opaque="false" designImage="ui://y6zsaagqlnrz3k" designImageAlpha="0">
+  <displayList>
+    <component id="n32_sesa" name="n32" src="d3x61" pkg="sgwvgm5z" xy="11,10" size="86,81" group="n59_d3x6">
+      <Button title=" " icon="ui://sgwvgm5zd3x62"/>
+    </component>
+    <text id="n56_k2oa" name="n56" xy="100,39" size="43,23" group="n59_d3x6" font="Microsoft YaHei" fontSize="14" color="#ffffff" align="center" bold="true" text="Lv.99"/>
+    <text id="n57_k2oa" name="n57" xy="103,9" size="189,29" group="n59_d3x6" font="Microsoft YaHei" fontSize="18" color="#ffffff" leading="0" autoSize="none" bold="true" text="这是用户名称文字"/>
+    <group id="n59_d3x6" name="n59" xy="11,9" size="281,82" collapsed="true"/>
+    <component id="n30_sesa" name="n30" src="d3x61" pkg="sgwvgm5z" xy="148,73" size="410,572" group="n42_sesa">
+      <Button title=" " icon="ui://y6zsaagqlnrz3b" selectedTitle=" "/>
+    </component>
+    <component id="n36_sesa" name="n36" src="d3x61" pkg="sgwvgm5z" xy="554,386" size="280,259" group="n42_sesa">
+      <Button title="PVP" titleFontSize="100" icon="ui://y6zsaagqlnrz3d"/>
+    </component>
+    <component id="n50_sesa" name="n50" src="d3x61" pkg="sgwvgm5z" xy="1152,15" size="46,33" group="n60_d3x6">
+      <Button title=" " icon="ui://y6zsaagqlnrz3f"/>
+    </component>
+    <group id="n60_d3x6" name="n60" xy="1152,15" size="46,33" group="n42_sesa"/>
+    <component id="n38_sesa" name="n38" src="d3x61" pkg="sgwvgm5z" xy="840,393" size="393,248" group="n42_sesa">
+      <Button title=" " titleFontSize="100" icon="ui://y6zsaagqqear4m"/>
+    </component>
+    <loader id="n66_lnrz" name="n66" xy="562,81" size="668,293" group="n42_sesa" url="ui://y6zsaagqlnrz3g" fill="scaleFree"/>
+    <group id="n42_sesa" name="n42" xy="148,15" size="1085,630"/>
+    <graph id="n73_ctuq" name="n73" xy="60,638" size="545,35" group="n65_lnrz" alpha="0.3" type="rect" fillColor="#ff000000"/>
+    <component id="n28_sesa" name="n28" src="d3x61" pkg="sgwvgm5z" xy="2,627" size="59,47" group="n65_lnrz" alpha="0.8">
+      <Button title=" " icon="ui://y6zsaagqlnrz3c"/>
+    </component>
+    <text id="n63_d3x6" name="n63" xy="67,638" size="538,36" group="n65_lnrz" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" text="聊天信息"/>
+    <group id="n65_lnrz" name="n65" xy="2,627" size="603,47" advanced="true"/>
+    <component id="n67_lnrz" name="n67" src="d3x61" pkg="sgwvgm5z" xy="1287,127" size="47,165">
+      <Button title=" " icon="ui://y6zsaagqlnrz3l"/>
+    </component>
+    <component id="n68_lnrz" name="n68" src="d3x61" pkg="sgwvgm5z" xy="1287,297" size="47,165">
+      <Button title=" " icon="ui://y6zsaagqlnrz3n"/>
+    </component>
+    <component id="n69_lnrz" name="n69" src="d3x61" pkg="sgwvgm5z" xy="1287,468" size="47,165" grayed="true">
+      <Button title=" " icon="ui://y6zsaagqlnrz3m"/>
+    </component>
+    <component id="n70_qip3" name="n70" src="qip32p" pkg="sgwvgm5z" xy="148,44" size="315,22" scale="0.5,0.5">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n71_qip3" name="n71" src="d3x61" pkg="sgwvgm5z" xy="251,6" size="78,40">
+      <Button title=" " icon="ui://y6zsaagqqip34g"/>
+    </component>
+    <text id="n72_qip3" name="n72" xy="361,22" size="194,53" visible="false" font="ui://sgwvgm5ziex945" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="战斗力:9999"/>
+    <component id="n74_jzbo" name="scoutBtn" src="d3x61" pkg="sgwvgm5z" xy="38,114" size="84,89" group="n77_7ypa">
+      <Button title=" " icon="ui://y6zsaagq7ypa4k"/>
+    </component>
+    <text id="n76_7ypa" name="n76" xy="50,168" size="61,41" group="n77_7ypa" font="Microsoft YaHei" fontSize="28" color="#ffffff" bold="true" text="招募"/>
+    <group id="n77_7ypa" name="n77" xy="38,114" size="84,95" collapsed="true"/>
+    <component id="n61_d3x6" name="n61" src="d3x637" xy="2,0" hideByEditor="true" visible="false"/>
+    <image id="n78_rdab" name="n78" src="6z197j" pkg="sgwvgm5z" xy="1281,311" size="20,20" hideByEditor="true" visible="false"/>
+  </displayList>
+</component>

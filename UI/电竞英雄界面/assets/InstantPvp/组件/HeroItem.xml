@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="115,150" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n9_qvis" name="n0" src="qvis7a" pkg="sgwvgm5z" xy="0,0" size="120,114"/>
+    <loader id="n5" name="icon" xy="0,0" size="115,113" align="center" vAlign="middle" fill="scale">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n4" name="title" xy="0,113" size="115,37" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n8_qvis" name="n1" src="qvis76" pkg="sgwvgm5z" xy="-8,-10" size="132,131">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="106,106">
+  <displayList>
+    <image id="n430_h6yh" name="n430" src="h6yh1k" xy="0,0" size="106,106" hideByEditor="true" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n426_h6yh" name="n426" src="xtyk53" pkg="sgwvgm5z" xy="6,6" size="94,93">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <text id="n428_h6yh" name="n428" xy="0,76" size="48,29" font="微软雅黑" fontSize="18" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" text="">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </text>
+    <text id="n429_h6yh" name="n429" xy="-41,106" size="191,30" font="微软雅黑" fontSize="17" color="#ffffff" align="center" vAlign="middle" ubb="true" autoSize="none" bold="true" strokeColor="#000000" text=""/>
+    <image id="n431_diw7" name="n431" src="diw74o" xy="52,81" visible="false"/>
+    <text id="n432_g9no" name="n432" xy="0,64" size="67,43" visible="false" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" text="">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </text>
+  </displayList>
+</component>

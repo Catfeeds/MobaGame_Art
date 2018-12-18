@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1079,132" designImageOffsetX="-239" designImageOffsetY="-235" designImageLayer="1">
+  <displayList>
+    <image id="n34_iex9" name="n0" src="lnrz19" pkg="sgwvgm5z" xy="0,0" size="1050,128"/>
+    <image id="n38_o6r1" name="n1" src="oohk6h" pkg="sgwvgm5z" xy="25,10" size="108,108"/>
+    <loader id="n8_iex9" name="taskIcon" xy="32,15" size="95,95" align="center" vAlign="middle" fill="scaleFree"/>
+    <text id="n9_iex9" name="title" xy="143,14" size="385,42" font="微软雅黑" fontSize="28" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n10_iex9" name="desc" xy="145,61" size="388,60" font="微软雅黑" fontSize="20" color="#ffffff" leading="2" autoSize="none" bold="true" text=""/>
+    <list id="n39_kjeh" name="itemList" xy="554,29" size="240,75" layout="row" overflow="hidden" colGap="10" defaultItem="ui://4byggrcvpygeb" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n15_iex9" name="progress" xy="885,91" pivot="0.5,0.5" size="180,41" font="微软雅黑" fontSize="22" color="#ffffff" align="center" autoSize="none" bold="true" text=""/>
+    <text id="n16_iex9" name="finished" xy="864,45" size="215,53" hideByEditor="true" visible="false" font="微软雅黑" fontSize="28" color="#ffffff" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" text="【已领取】"/>
+    <component id="n14_iex9" name="getBtn" src="d3x61" pkg="sgwvgm5z" xy="913,43" size="118,48" group="n41_rdab">
+      <Button title="领取" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <image id="n40_rdab" name="n40" src="6z197j" pkg="sgwvgm5z" xy="1015,40" size="15,15" group="n41_rdab" visible="false"/>
+    <group id="n41_rdab" name="n41" xy="913,40" size="118,51" advanced="true"/>
+  </displayList>
+</component>

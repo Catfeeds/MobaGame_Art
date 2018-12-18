@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="770,435">
+  <displayList>
+    <image id="n1_oof6" name="n1" src="lnrz1a" pkg="sgwvgm5z" xy="-8,-7" size="786,449"/>
+    <component id="n0_oof6" name="n0" src="d3x61" pkg="sgwvgm5z" xy="712,-1" size="56,56">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+    <component id="n2_oof6" name="n2" src="d3x66" pkg="sgwvgm5z" xy="58,90" size="128,128" group="n6_oof6">
+      <Button icon="ui://sgwvgm5zd3x62"/>
+    </component>
+    <text id="n3_oof6" name="n3" xy="221,71" size="300,50" group="n6_oof6" font="微软雅黑" fontSize="32" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="经验宝石"/>
+    <text id="n4_oof6" name="n4" xy="221,150" size="300,74" group="n6_oof6" font="微软雅黑" fontSize="25" color="#959fa4" autoSize="none" text="用于选手升级"/>
+    <group id="n6_oof6" name="n6" xy="58,71" size="463,153" collapsed="true"/>
+    <graph id="n7_oof6" name="n7" xy="161,308" size="182,40" group="n16_lnrz" type="rect" lineColor="#ff484848" fillColor="#ff484848"/>
+    <text id="n10_oof6" name="n10" xy="161,311" size="182,36" group="n16_lnrz" input="true" font="微软雅黑" fontSize="25" color="#6f848e" align="center" vAlign="middle" autoSize="none" text="0"/>
+    <group id="n16_lnrz" name="n16" xy="161,308" size="183,40" group="n15_lnrz" collapsed="true"/>
+    <component id="n8_oof6" name="n8" src="d3x61" pkg="sgwvgm5z" xy="98,303" size="71,49" group="n15_lnrz">
+      <Button title="—" icon="ui://sgwvgm5zlnrz1b"/>
+    </component>
+    <component id="n9_oof6" name="n9" src="d3x61" pkg="sgwvgm5z" xy="335,303" size="71,49" group="n15_lnrz">
+      <Button title="+" icon="ui://sgwvgm5zlnrz1b"/>
+    </component>
+    <group id="n15_lnrz" name="n15" xy="98,303" size="308,49" collapsed="true"/>
+    <component id="n11_oof6" name="n11" src="d3x61" pkg="sgwvgm5z" xy="509,294" size="183,60">
+      <Button title="购买" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <text id="n12_oof6" name="n12" xy="543,368" size="157,36" font="微软雅黑" fontSize="30" color="#7cc2cc" align="center" vAlign="middle" autoSize="none" bold="true" text="99999"/>
+    <image id="n19_qip3" name="n19" src="ppxq2r" pkg="sgwvgm5z" xy="537,369" size="35,35"/>
+  </displayList>
+</component>

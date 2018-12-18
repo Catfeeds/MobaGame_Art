@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="sgwvgm5z" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="po4o0" name="TipMessageBox.xml" path="/组件/弹出框/" exported="true"/>
+    <component id="d3x61" name="com_btn.xml" path="/组件/按钮/" exported="true"/>
+    <component id="d3x66" name="item_btn.xml" path="/组件/按钮/" exported="true"/>
+    <component id="d3x67" name="Main.xml" path="/组件/" exported="true"/>
+    <component id="d3x68" name="label_btn1.xml" path="/组件/按钮/" exported="true"/>
+    <component id="d3x69" name="com_progressBar.xml" path="/组件/滑动条/" exported="true"/>
+    <image id="d3x6c" name="星星灭.png" path="/资源/通用/" exported="true"/>
+    <image id="d3x6d" name="星星亮.png" path="/资源/通用/" exported="true"/>
+    <component id="d3x6e" name="Star.xml" path="/组件/" exported="true"/>
+    <component id="d3x6f" name="label_btn2.xml" path="/组件/按钮/" exported="true"/>
+    <image id="oof6g" name="黄.png" path="/资源/按钮/" exported="true" scale9grid="57,15,114,42"/>
+    <image id="oof6h" name="蓝.png" path="/资源/按钮/" exported="true"/>
+    <image id="oof6i" name="绿.png" path="/资源/按钮/" exported="true"/>
+    <image id="oof6k" name="圆角色块 蓝色.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="8,8,16,16"/>
+    <image id="oof6l" name="箭头.png" path="/资源/通用/" exported="true"/>
+    <image id="oof6m" name="蓝边圆.png" path="/资源/通用/" exported="true"/>
+    <component id="lnrzo" name="label_btn7.xml" path="/组件/按钮/"/>
+    <image id="lnrzp" name="UI 选手.png" path="/资源/按钮/"/>
+    <component id="lnrzr" name="label_btn8.xml" path="/组件/按钮/"/>
+    <image id="lnrzs" name="UI 仓库.png" path="/资源/按钮/"/>
+    <component id="lnrzu" name="label_btn3.xml" path="/组件/按钮/"/>
+    <image id="lnrzv" name="UI 备战.png" path="/资源/按钮/"/>
+    <component id="lnrzx" name="label_btn4.xml" path="/组件/按钮/"/>
+    <image id="lnrzy" name="UI 排名.png" path="/资源/按钮/"/>
+    <component id="lnrz10" name="label_btn5.xml" path="/组件/按钮/"/>
+    <image id="lnrz11" name="UI 好友.png" path="/资源/按钮/"/>
+    <component id="lnrz13" name="label_btn6.xml" path="/组件/按钮/"/>
+    <image id="lnrz14" name="UI 联盟.png" path="/资源/按钮/"/>
+    <image id="lnrz16" name="背景.jpg" path="/资源/资源排除/"/>
+    <image id="lnrz19" name="邮箱 商城 好友 底板.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="30,45,68,63"/>
+    <image id="lnrz1a" name="通用 弹窗.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="79,80,628,30"/>
+    <image id="lnrz1b" name="增减按钮.png" path="/资源/按钮/" exported="true"/>
+    <component id="lnrz1c" name="com_btn1.xml" path="/组件/按钮/" exported="true"/>
+    <image id="lnrz1d" name="pos_icon_4.png" path="/资源/位置/" exported="true"/>
+    <image id="lnrz1e" name="pos_icon_3.png" path="/资源/位置/" exported="true"/>
+    <image id="lnrz1f" name="pos_icon_0.png" path="/资源/位置/" exported="true"/>
+    <image id="lnrz1g" name="pos_icon_2.png" path="/资源/位置/" exported="true"/>
+    <image id="lnrz1h" name="pos_icon_1.png" path="/资源/位置/" exported="true"/>
+    <image id="lnrz1i" name="底框.png" path="/资源/位置/"/>
+    <component id="lnrz1j" name="pos_1.xml" path="/组件/组件/" exported="true"/>
+    <component id="lnrz1k" name="pos_2.xml" path="/组件/组件/" exported="true"/>
+    <component id="lnrz1l" name="pos_3.xml" path="/组件/组件/" exported="true"/>
+    <component id="lnrz1m" name="pos_4.xml" path="/组件/组件/" exported="true"/>
+    <component id="lnrz1n" name="pos_5.xml" path="/组件/组件/" exported="true"/>
+    <image id="lnrz1o" name="返回.png" path="/资源/按钮/"/>
+    <image id="lnrz1p" name="货币框架底.png" path="/资源/资源排除/" scale="9grid" scale9grid="26,8,52,16"/>
+    <image id="lnrz1q" name="12545.jpg" path="/资源/资源排除/"/>
+    <component id="lnrz1r" name="Money.xml" path="/组件/"/>
+    <image id="lnrz1t" name="标题底部.png" path="/资源/通用/" exported="true"/>
+    <image id="lnrz1u" name="箭头.png" path="/资源/按钮/" exported="true"/>
+    <image id="qip31x" name="A.png" path="/资源/品质/" exported="true"/>
+    <image id="qip31y" name="B.png" path="/资源/品质/" exported="true"/>
+    <image id="qip31z" name="C.png" path="/资源/品质/" exported="true"/>
+    <image id="qip320" name="D.png" path="/资源/品质/" exported="true"/>
+    <image id="qip321" name="S.png" path="/资源/品质/" exported="true"/>
+    <image id="qip323" name="图层 532.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="2,3,3,6"/>
+    <image id="qip326" name="通用标题栏主体.png" path="/资源/资源排除/"/>
+    <image id="qip328" name="顶部头像栏.png" path="/资源/资源排除/"/>
+    <image id="qip329" name="锁 关.png" path="/资源/通用/" exported="true"/>
+    <image id="qip32a" name="锁 开.png" path="/资源/通用/" exported="true"/>
+    <image id="qip32b" name="锁定 .png" path="/资源/通用/" exported="true"/>
+    <image id="qip32c" name="锁定开 .png" path="/资源/通用/" exported="true"/>
+    <image id="qip32d" name="通用弹窗 按钮.png" path="/资源/按钮/" exported="true"/>
+    <image id="qip32g" name="经验条2 A 红.png" path="/资源/滑动/" scale="9grid" scale9grid="15,0,24,22"/>
+    <image id="qip32h" name="经验条2 A 蓝.png" path="/资源/滑动/" scale="9grid" scale9grid="15,0,24,22"/>
+    <component id="qip32m" name="com_progressBar1.xml" path="/组件/滑动条/" exported="true"/>
+    <image id="qip32n" name="警告标志.png" path="/资源/通用/" exported="true"/>
+    <image id="qip32o" name="经验条2 A.png" path="/资源/滑动/" scale="9grid" scale9grid="10,6,20,12"/>
+    <component id="qip32p" name="com_progressBar(1).xml" path="/组件/滑动条/" exported="true"/>
+    <image id="ppxq2q" name="UI 金币.png" path="/资源/通用/" exported="true"/>
+    <image id="ppxq2r" name="UI 钻石.png" path="/资源/通用/" exported="true"/>
+    <image id="ppxq35" name="通用 左侧按钮 亮.png" path="/资源/按钮/"/>
+    <image id="ppxq36" name="通用 左侧按钮 灭.png" path="/资源/按钮/" exported="true"/>
+    <image id="ppxq38" name="通用 箭头.png" path="/资源/按钮/" exported="true"/>
+    <image id="ppxq3f" name="饮料罐.png" path="/资源/资源排除/"/>
+    <component id="ppxq3l" name="label_btn.xml" path="/组件/按钮/" exported="true"/>
+    <image id="ppxq3o" name="解疑按钮.png" path="/资源/按钮/" exported="true"/>
+    <image id="ppxq3p" name="货币框架 加号.png" path="/资源/通用/" exported="true"/>
+    <image id="g4ux3q" name="身价图标.png" path="/资源/通用/" exported="true"/>
+    <image id="g4ux3r" name="技能框 底部.png" path="/资源/通用/" exported="true"/>
+    <image id="lmls3s" name="选项 按钮灯 亮.png" path="/资源/按钮/" exported="true"/>
+    <image id="lmls3t" name="选项 按钮灯 灭.png" path="/资源/按钮/" exported="true"/>
+    <component id="lmls3w" name="单选按钮.xml" path="/组件/按钮/" exported="true"/>
+    <image id="ephy3z" name="UI 战术.png" path="/资源/通用/" exported="true"/>
+    <image id="ephy40" name="标签页灭.png" path="/资源/按钮/" exported="true"/>
+    <image id="ephy41" name="标签页点亮.png" path="/资源/按钮/" exported="true"/>
+    <image id="kygg42" name="经验条2 B.png" path="/资源/滑动/" scale="9grid" scale9grid="14,6,28,12"/>
+    <component id="iex948" name="task_btn.xml" path="/组件/按钮/" exported="true"/>
+    <image id="iex949" name="符号 四边形蓝.png" path="/资源/通用/"/>
+    <image id="iex94a" name="通用背景.jpg" path="/资源/通用/" exported="true"/>
+    <image id="iod44b" name="经验条B.png" path="/资源/滑动/" scale="9grid" scale9grid="14,6,28,12"/>
+    <component id="h0tr4h" name="pos_01.xml" path="/组件/组件/" exported="true"/>
+    <component id="h0tr4i" name="pos_02.xml" path="/组件/组件/" exported="true"/>
+    <component id="h0tr4j" name="pos_03.xml" path="/组件/组件/" exported="true"/>
+    <component id="h0tr4k" name="pos_04.xml" path="/组件/组件/" exported="true"/>
+    <component id="h0tr4l" name="pos_05.xml" path="/组件/组件/" exported="true"/>
+    <image id="jzbo4m" name="通用按钮2 A.png" path="/资源/按钮/" exported="true"/>
+    <image id="jzbo4n" name="通用按钮2 B.png" path="/资源/按钮/" exported="true"/>
+    <image id="jzbo4q" name="箭头B.png" path="/资源/通用/" exported="true"/>
+    <image id="jzbo4r" name="Mvp.png" path="/资源/通用/" exported="true"/>
+    <image id="jzbo4s" name="通用 弹窗 A.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="5,88,137,18"/>
+    <image id="jzbo4t" name="分割线1.png" path="/资源/通用/" exported="true"/>
+    <image id="jzbo4u" name="战术.png" path="/资源/通用/"/>
+    <image id="jzbo4v" name="技能(1).png" path="/资源/通用/"/>
+    <component id="jzbo4w" name="TaciSkill.xml" path="/组件/组件/" exported="true"/>
+    <image id="jx5k4x" name="标签页 B组.png" path="/资源/按钮/" exported="true" scale="9grid" scale9grid="5,5,97,41"/>
+    <image id="xtyk4y" name="选中 2.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="27,27,2,1"/>
+    <image id="xtyk4z" name="已装备 2.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="12,8,74,1"/>
+    <component id="xtyk53" name="hero_btn.xml" path="/组件/按钮/" exported="true"/>
+    <component id="xtyk55" name="item_round.xml" path="/组件/组件/" exported="true"/>
+    <image id="xtyk56" name="排名1 底部.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="36,25,72,50"/>
+    <image id="xtyk57" name="排名23 底部.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="35,25,70,50"/>
+    <image id="xtyk58" name="排名1.png" path="/资源/通用/" exported="true"/>
+    <image id="xtyk59" name="排名2.png" path="/资源/通用/" exported="true"/>
+    <image id="xtyk5a" name="排名3.png" path="/资源/通用/" exported="true"/>
+    <component id="vy9j5b" name="skill_icon.xml" path="/组件/组件/" exported="true"/>
+    <image id="vy9j5c" name="10810.png" path="/资源/资源排除/"/>
+    <image id="vy9j5d" name="绿.png" path="/资源/资源排除/"/>
+    <image id="vy9j5e" name="英雄底板2.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="41,41,82,82"/>
+    <image id="vy9j5f" name="数据按钮.png" path="/资源/按钮/" exported="true"/>
+    <font id="enbg5j" name="Number.fnt" path="/资源/字体/" exported="true"/>
+    <image id="enbg5k" name="0.png" path="/资源/字体/"/>
+    <image id="enbg5l" name="1.png" path="/资源/字体/"/>
+    <image id="enbg5m" name="2.png" path="/资源/字体/"/>
+    <image id="enbg5n" name="3.png" path="/资源/字体/"/>
+    <image id="enbg5o" name="4.png" path="/资源/字体/"/>
+    <image id="enbg5p" name="5.png" path="/资源/字体/"/>
+    <image id="enbg5q" name="6.png" path="/资源/字体/"/>
+    <image id="enbg5r" name="7.png" path="/资源/字体/"/>
+    <image id="enbg5s" name="8.png" path="/资源/字体/"/>
+    <image id="enbg5t" name="9.png" path="/资源/字体/"/>
+    <image id="enbg5u" name="万.png" path="/资源/字体/"/>
+    <component id="f6zi5x" name="GetItem.xml" path="/组件/弹出框/" exported="true"/>
+    <image id="f6zi5y" name="通用 框.png" path="/资源/通用/" scale="9grid" scale9grid="0,160,1260,21"/>
+    <image id="f6zi61" name="点击.png" path="/资源/通用/"/>
+    <image id="f6zi62" name="通用条纹边.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="9,2,18,3"/>
+    <image id="xbdx63" name="attr_1.png" path="/资源/属性/" exported="true"/>
+    <image id="xbdx64" name="attr_2.png" path="/资源/属性/" exported="true"/>
+    <image id="xbdx65" name="attr_3.png" path="/资源/属性/" exported="true"/>
+    <image id="xbdx66" name="attr_4.png" path="/资源/属性/" exported="true"/>
+    <image id="xbdx67" name="attr_5.png" path="/资源/属性/" exported="true"/>
+    <image id="xbdx68" name="attr_6.png" path="/资源/属性/" exported="true"/>
+    <image id="xbdx69" name="attr_7.png" path="/资源/属性/" exported="true"/>
+    <image id="xbdx6d" name="标题按钮 蓝.png" path="/资源/按钮/" exported="true" scale="9grid" scale9grid="25,14,50,28"/>
+    <image id="xbdx6e" name="标题按钮 黄.png" path="/资源/按钮/" exported="true"/>
+    <component id="xbdx6f" name="竖型文字标签.xml" path="/组件/按钮/" exported="true"/>
+    <image id="oohk6g" name="圆角色块 白色.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="8,8,16,16"/>
+    <image id="oohk6h" name="圆角色块 黑色.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="8,8,16,16"/>
+    <component id="h6yh6j" name="com_btn2.xml" path="/组件/按钮/" exported="true"/>
+    <image id="h6yh6o" name="排名3 底部.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="35,25,70,50"/>
+    <image id="ied46p" name="player_rhombus_1.png" path="/资源/选手/菱形品质/" exported="true"/>
+    <image id="ied46q" name="player_rhombus_3.png" path="/资源/选手/菱形品质/" exported="true"/>
+    <image id="ied46r" name="player_rhombus_4.png" path="/资源/选手/菱形品质/" exported="true"/>
+    <image id="ied46s" name="player_rhombus_2.png" path="/资源/选手/菱形品质/" exported="true"/>
+    <image id="ied46t" name="player_quality_4.png" path="/资源/选手/背景品质/" exported="true"/>
+    <image id="ied46u" name="player_quality_2.png" path="/资源/选手/背景品质/" exported="true"/>
+    <image id="ied46v" name="player_quality_1.png" path="/资源/选手/背景品质/" exported="true"/>
+    <image id="ied46w" name="player_quality_3.png" path="/资源/选手/背景品质/" exported="true"/>
+    <component id="ied46x" name="选手半身像列表.xml" path="/组件/选手/" exported="true"/>
+    <image id="ied46y" name="选手列表 卡牌 高亮.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="12,12,10,9"/>
+    <component id="ied470" name="球队Logo.xml" path="/组件/选手/"/>
+    <image id="ied471" name="战队图标 (3).png" path="/资源/资源排除/"/>
+    <component id="ied472" name="选手半身像.xml" path="/组件/选手/"/>
+    <image id="ied473" name="六点六.png" path="/资源/资源排除/"/>
+    <image id="ied474" name="已上阵 2.png" path="/资源/通用/" exported="true"/>
+    <image id="qyfw75" name="frame_4.png" path="/资源/物品框架/" exported="true" scale="9grid" scale9grid="32,32,64,64"/>
+    <image id="qvis76" name="已准备 选择.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="27,27,54,54"/>
+    <image id="qvis79" name="分割线2.png" path="/资源/通用/" exported="true"/>
+    <image id="qvis7a" name="frame_1.png" path="/资源/物品框架/" exported="true" scale="9grid" scale9grid="32,32,64,64"/>
+    <image id="t1d47b" name="箭头A.png" path="/资源/通用/" exported="true"/>
+    <image id="t1d47c" name="frame_2.png" path="/资源/物品框架/" exported="true" scale="9grid" scale9grid="32,32,64,64"/>
+    <image id="t1d47d" name="frame_3.png" path="/资源/物品框架/" exported="true" scale="9grid" scale9grid="32,32,64,64"/>
+    <image id="t1d47e" name="英雄底板.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="34,34,68,68"/>
+    <image id="t1d47f" name="货币框架底.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="26,8,52,16"/>
+    <image id="iq857g" name="战斗力.png" path="/资源/通用/" exported="true"/>
+    <image id="nioo7h" name="经验条2 活跃度B.png" path="/资源/滑动/" exported="true" scale="9grid" scale9grid="15,3,30,6"/>
+    <image id="nioo7i" name="经验条2 活跃度.png" path="/资源/滑动/" exported="true" scale="9grid" scale9grid="10,6,20,12"/>
+    <image id="6z197j" name="红点.png" path="/资源/通用/" exported="true"/>
+    <image id="diw77k" name="frame_5.png" path="/资源/物品框架/" exported="true"/>
+  </resources>
+  <publish name="Com" path="E:\Client\trunk\Assets\StreamingFairyAssets\Com" excluded="vy9j5d,lnrz1q,vy9j5c,ppxq3f,ied473,ied471"/>
+</packageDescription>

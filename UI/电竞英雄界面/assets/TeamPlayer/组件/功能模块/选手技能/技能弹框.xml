@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://41vqeinnh6yh3n" designImageAlpha="100">
+  <displayList>
+    <graph id="n0_h6yh" name="n0" xy="0,0" size="1334,750" group="n39_h6yh" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n1_h6yh" name="n1" src="jzbo4s" pkg="sgwvgm5z" xy="135,85" size="1066,627" group="n39_h6yh"/>
+    <image id="n15_h6yh" name="n15" src="h6yh3p" xy="653,510" group="n39_h6yh"/>
+    <image id="n36_h6yh" name="n36" src="qip323" pkg="sgwvgm5z" xy="615,159" size="5,551" group="n39_h6yh"/>
+    <text id="n3_h6yh" name="n3" xy="606,91" size="125,44" group="n39_h6yh" font="微软雅黑" fontSize="30" color="#ffffff" bold="true" text="主动技能"/>
+    <component id="n2_h6yh" name="n2" src="d3x61" pkg="sgwvgm5z" xy="1144,83" size="59,58" group="n39_h6yh">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+    <group id="n39_h6yh" name="n39" xy="0,0" size="1334,750" collapsed="true"/>
+    <image id="n4_h6yh" name="n4" src="h6yh1b" xy="164,159" group="n37_h6yh"/>
+    <text id="n5_h6yh" name="n5" xy="276,158" size="211,44" group="n37_h6yh" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="已装备技能"/>
+    <group id="n37_h6yh" name="n37" xy="164,158" size="433,44" collapsed="true"/>
+    <image id="n7_h6yh" name="n7" src="h6yh1b" xy="163,381" group="n38_h6yh"/>
+    <text id="n6_h6yh" name="n6" xy="281,380" size="199,44" group="n38_h6yh" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="持有技能"/>
+    <group id="n38_h6yh" name="n38" xy="163,380" size="433,44" collapsed="true"/>
+    <component id="n12_h6yh" name="n12" src="h6yh3o" xy="184,218" group="n40_h6yh"/>
+    <group id="n40_h6yh" name="n40" xy="184,218" size="124,146"/>
+    <component id="n16_h6yh" name="n16" src="h6yh2n" xy="718,207" group="n45_ruoh"/>
+    <component id="n35_h6yh" name="n35" src="d3x61" pkg="sgwvgm5z" xy="964,639" size="148,47" group="n45_ruoh">
+      <Button title="装备" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <component id="n34_h6yh" name="n34" src="d3x61" pkg="sgwvgm5z" xy="722,639" size="148,47" group="n45_ruoh">
+      <Button title="升级" icon="ui://sgwvgm5zoof6i"/>
+    </component>
+    <image id="n17_h6yh" name="n17" src="h6yh2m" xy="809,292" group="n45_ruoh"/>
+    <image id="n21_h6yh" name="n21" src="vy9j14" xy="1135,339" size="2,427" group="n45_ruoh" rotation="90"/>
+    <image id="n32_h6yh" name="n32" src="ppxq2q" pkg="sgwvgm5z" xy="792,604" size="30,28" group="n45_ruoh" aspect="true"/>
+    <text id="n18_h6yh" name="n18" xy="856,216" size="246,50" group="n45_ruoh" font="微软雅黑" fontSize="35" color="#fec457" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" text="绝境的希望"/>
+    <text id="n19_h6yh" name="n19" xy="853,259" size="81,46" group="n45_ruoh" font="微软雅黑" fontSize="32" color="#ffffff" vAlign="middle" bold="true" text="Lv22"/>
+    <text id="n20_h6yh" name="n20" xy="932,268" size="68,31" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#86ffa0" vAlign="middle" letterSpacing="1" text="可升级"/>
+    <text id="n22_h6yh" name="n22" xy="704,354" size="135,31" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#ffffff" vAlign="middle" letterSpacing="1" autoSize="none" text="技能类型："/>
+    <text id="n23_h6yh" name="n23" xy="704,383" size="135,31" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#ffffff" vAlign="middle" letterSpacing="1" autoSize="none" text="使用位置："/>
+    <text id="n24_h6yh" name="n24" xy="704,423" size="135,31" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#ffffff" vAlign="middle" letterSpacing="1" autoSize="none" text="触发方式："/>
+    <text id="n25_h6yh" name="n25" xy="704,450" size="135,31" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#ffffff" vAlign="middle" letterSpacing="1" autoSize="none" text="目标类型："/>
+    <text id="n30_h6yh" name="n30" xy="700,506" size="448,83" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#3497f3" leading="0" autoSize="none" text="选手凝聚精神，短暂爆发出惊人战力，使其周围技巧"/>
+    <text id="n26_h6yh" name="n26" xy="997,354" size="135,31" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#fdc760" align="right" vAlign="middle" letterSpacing="1" autoSize="none" text="团战技能"/>
+    <text id="n27_h6yh" name="n27" xy="997,383" size="135,31" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#fdc760" align="right" vAlign="middle" letterSpacing="1" autoSize="none" text="射手"/>
+    <text id="n28_h6yh" name="n28" xy="997,423" size="135,31" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#fdc760" align="right" vAlign="middle" letterSpacing="1" autoSize="none" text="主动技能"/>
+    <text id="n29_h6yh" name="n29" xy="997,450" size="135,31" group="n45_ruoh" font="微软雅黑" fontSize="20" color="#fdc760" align="right" vAlign="middle" letterSpacing="1" autoSize="none" text="自身"/>
+    <text id="n31_h6yh" name="n31" xy="712,610" size="81,28" group="n45_ruoh" font="微软雅黑" fontSize="18" color="#ffffff" leading="0" letterSpacing="1" text="升级消耗"/>
+    <text id="n33_h6yh" name="n33" xy="823,610" size="91,28" group="n45_ruoh" font="微软雅黑" fontSize="18" color="#f7c833" leading="0" letterSpacing="1" autoSize="none" text="99999"/>
+    <group id="n45_ruoh" name="n45" xy="700,207" size="448,559"/>
+    <list id="n14_h6yh" name="n14" xy="180,430" size="406,278" layout="flow_hz" overflow="scroll" lineGap="6" colGap="11" defaultItem="ui://41vqeinnh6yh3o">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

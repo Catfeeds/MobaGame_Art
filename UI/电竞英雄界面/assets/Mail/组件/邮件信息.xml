@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1045,123">
+  <displayList>
+    <image id="n0_oof6" name="n0" src="lnrz19" pkg="sgwvgm5z" xy="0,0" size="1045,123"/>
+    <loader id="n1_oof6" name="n1" xy="22,5" size="110,110"/>
+    <text id="n2_oof6" name="n2" xy="137,36" size="289,50" font="微软雅黑" fontSize="35" color="#ffffff" vAlign="middle" autoSize="none" text="标题文字"/>
+    <text id="n3_oof6" name="n3" xy="631,33" size="289,56" font="微软雅黑" fontSize="35" align="center" vAlign="middle" autoSize="none" text="2018:08:14"/>
+    <graph id="n4_oof6" name="n4" xy="947,46" size="30,30" type="eclipse" lineColor="#ffff0000" fillColor="#ffff0000"/>
+  </displayList>
+</component>

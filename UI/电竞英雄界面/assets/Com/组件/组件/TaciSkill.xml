@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n38_7ypa" name="n38" xy="0,0" size="1334,750" group="n37_jzbo" alpha="0.6" type="rect" lineSize="2" fillColor="#ff000000"/>
+    <graph id="n39_xbdx" name="n39" xy="395,581" size="330,69" group="n37_jzbo" type="rect" lineSize="2" lineColor="#ff38aeeb" fillColor="#ff203043" corner="5"/>
+    <image id="n29_jzbo" name="n29" src="jzbo4q" xy="548,650" pivot="0.5,0.5" group="n37_jzbo" rotation="180"/>
+    <component id="n32_jzbo" name="tacBtn" src="d3x61" xy="445,582" size="109,67" group="n37_jzbo">
+      <Button title="战术"/>
+    </component>
+    <component id="n33_jzbo" name="skillBtn" src="d3x61" xy="598,581" size="152,67" group="n37_jzbo">
+      <Button title="阵容"/>
+    </component>
+    <image id="n34_jzbo" name="n34" src="jzbo4t" xy="560,582" group="n37_jzbo"/>
+    <image id="n35_jzbo" name="n35" src="jzbo4u" xy="415,589" group="n37_jzbo"/>
+    <image id="n36_jzbo" name="n36" src="jzbo4v" xy="588,589" group="n37_jzbo"/>
+    <group id="n37_jzbo" name="n37" xy="0,0" size="1334,750" advanced="true"/>
+  </displayList>
+</component>

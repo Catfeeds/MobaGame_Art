@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="339,316" mask="n3_o6mf">
+  <displayList>
+    <image id="n0_ied4" name="n0" src="ied42y" xy="70,48" visible="false"/>
+    <image id="n1_ied4" name="n1" src="ied42w" xy="79,-69" visible="false" rotation="17"/>
+    <image id="n2_ied4" name="n2" src="ied42x" xy="-24,-77" visible="false"/>
+    <graph id="n3_o6mf" name="n3" xy="317,-38" size="77,75" visible="false" type="rect"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Size" target="n3_o6mf" tween="true" startValue="77,75" endValue="77,75" duration="24"/>
+    <item time="0" type="Visible" target="n1_ied4" value="true"/>
+    <item time="0" type="Visible" target="n0_ied4" value="true"/>
+    <item time="0" type="Visible" target="n3_o6mf" value="true"/>
+    <item time="0" type="Visible" target="n2_ied4" value="true"/>
+    <item time="0" type="XY" target="n3_o6mf" tween="true" startValue="361,-93" endValue="361,-93" duration="24"/>
+    <item time="0" type="XY" target="n0_ied4" tween="true" startValue="653.94,-378.25" endValue="399,-190" duration="24"/>
+    <item time="24" type="Size" target="n3_o6mf" tween="true" startValue="77,75" endValue="335,322" duration="16"/>
+    <item time="24" type="XY" target="n3_o6mf" tween="true" startValue="361,-93" endValue="5,1" duration="16"/>
+    <item time="24" type="XY" target="n0_ied4" tween="true" startValue="399,-190" endValue="-233,196" duration="10"/>
+    <item time="34" type="XY" target="n0_ied4" tween="true" startValue="-233,196"/>
+    <item time="40" type="Size" target="n3_o6mf" tween="true" startValue="335,322"/>
+    <item time="40" type="XY" target="n3_o6mf" tween="true" startValue="5,1"/>
+    <item time="41" type="Visible" target="n0_ied4" value="false"/>
+    <item time="41" type="Visible" target="n1_ied4" value="false"/>
+    <item time="41" type="Visible" target="n2_ied4" value="false"/>
+    <item time="48" type="Visible" target="n3_o6mf" value="false"/>
+  </transition>
+</component>

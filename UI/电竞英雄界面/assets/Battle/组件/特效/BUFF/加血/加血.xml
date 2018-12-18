@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="125,117">
+  <displayList>
+    <image id="n0_t53i" name="n0" src="t53i39" xy="0,0"/>
+    <image id="n1_t53i" name="n1" src="t53i38" xy="28,35" size="18,18"/>
+    <image id="n2_86ov" name="n2" src="t53i38" xy="71,70" size="32,32"/>
+    <image id="n3_86ov" name="n3" src="t53i38" xy="25,67" size="26,26"/>
+    <image id="n4_86ov" name="n4" src="t53i38" xy="75,20"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n1_t53i" tween="true" startValue="1" endValue="0" duration="14"/>
+    <item time="0" type="Alpha" target="n4_86ov" tween="true" startValue="1" endValue="0" duration="11"/>
+    <item time="0" type="Alpha" target="n2_86ov" tween="true" startValue="1" endValue="0" duration="19"/>
+    <item time="0" type="Alpha" target="n3_86ov" tween="true" startValue="1" endValue="0" duration="15"/>
+    <item time="0" type="XY" target="n2_86ov" tween="true" startValue="71,70" endValue="71,70" duration="5"/>
+    <item time="0" type="XY" target="n1_t53i" tween="true" startValue="28,35" endValue="28,18" duration="14"/>
+    <item time="0" type="XY" target="n3_86ov" tween="true" startValue="25,67" endValue="25,67" duration="6"/>
+    <item time="0" type="XY" target="n4_86ov" tween="true" startValue="75,20" endValue="75,20" duration="5"/>
+    <item time="5" type="XY" target="n2_86ov" tween="true" startValue="71,70" endValue="71,52" duration="14"/>
+    <item time="5" type="XY" target="n4_86ov" tween="true" startValue="75,20" endValue="75,16" duration="6"/>
+    <item time="6" type="XY" target="n3_86ov" tween="true" startValue="25,67" endValue="25,58" duration="9"/>
+    <item time="11" type="Alpha" target="n4_86ov" tween="true" startValue="0"/>
+    <item time="11" type="XY" target="n4_86ov" tween="true" startValue="75,16"/>
+    <item time="14" type="Alpha" target="n1_t53i" tween="true" startValue="0"/>
+    <item time="15" type="Alpha" target="n3_86ov" tween="true" startValue="0"/>
+    <item time="15" type="XY" target="n3_86ov" tween="true" startValue="25,58"/>
+    <item time="19" type="Alpha" target="n2_86ov" tween="true" startValue="0"/>
+    <item time="19" type="XY" target="n2_86ov" tween="true" startValue="71,52"/>
+  </transition>
+</component>

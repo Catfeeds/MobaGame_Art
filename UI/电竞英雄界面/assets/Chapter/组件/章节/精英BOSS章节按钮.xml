@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="165,162" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n10_lnrz" name="n10" xy="-41,-23" size="245,233" url="ui://522her13ll03s" autoSize="true"/>
+    <component id="n12_qip3" name="n12" src="qip3l" fileName="组件/章节/章节头像.xml" xy="10,-16" size="140,140"/>
+    <component id="n6_d3x6" name="n6" src="d3x6e" fileName="组件/Star.xml" pkg="sgwvgm5z" xy="27,148" size="30,30" group="n9_d3x6"/>
+    <component id="n7_d3x6" name="n7" src="d3x6e" fileName="组件/Star.xml" pkg="sgwvgm5z" xy="62,148" size="40,40" group="n9_d3x6"/>
+    <component id="n8_d3x6" name="n8" src="d3x6e" fileName="组件/Star.xml" pkg="sgwvgm5z" xy="107,148" size="30,30" group="n9_d3x6"/>
+    <group id="n9_d3x6" name="n9" xy="27,148" size="110,40" advanced="true" collapsed="true" layout="hz" lineGap="10" colGap="5"/>
+  </displayList>
+  <Button/>
+</component>

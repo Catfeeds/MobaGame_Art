@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="527,679" designImage="ui://41vqeinnh6yh2r" designImageOffsetX="-699" designImageOffsetY="-69" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n408_h6yh" name="n408" src="h6yh2o" xy="11,400" size="505,31"/>
+    <image id="n414_h6yh" name="n414" src="h6yh2s" xy="91,69"/>
+    <image id="n412_h6yh" name="n412" src="ppxq2q" pkg="sgwvgm5z" xy="234,279" size="28,26" aspect="true"/>
+    <image id="n419_h6yh" name="n419" src="h6yh2u" xy="66,254" size="99,98"/>
+    <image id="n420_h6yh" name="n420" src="h6yh2v" xy="66,80" size="99,98"/>
+    <image id="n421_h6yh" name="n421" src="h6yh2x" xy="363,82" size="99,98"/>
+    <image id="n422_h6yh" name="n422" src="h6yh2w" xy="363,254" size="99,98"/>
+    <component id="n426_h6yh" name="n425" src="h6yh30" xy="63,77"/>
+    <component id="n425_h6yh" name="n426" src="h6yh30" xy="63,251"/>
+    <component id="n427_h6yh" name="n427" src="h6yh30" xy="360,79"/>
+    <component id="n428_h6yh" name="n428" src="h6yh30" xy="360,251"/>
+    <component id="n416_h6yh" name="n416" src="d3x61" pkg="sgwvgm5z" xy="203,156" size="121,121">
+      <Button title=" " icon="ui://41vqeinnh6yh2t"/>
+    </component>
+    <text id="n417_h6yh" name="n417" xy="236,181" size="63,69" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" leading="1" letterSpacing="2" autoSize="none" bold="true" text="全部升级"/>
+    <text id="n409_h6yh" name="n409" xy="191,400" size="141,34" font="微软雅黑" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="外设属性"/>
+    <text id="n413_h6yh" name="n413" xy="265,282" size="89,29" font="微软雅黑" fontSize="20" color="#f7dc72" vAlign="middle" letterSpacing="1" autoSize="none" strokeColor="#000000" text=""/>
+    <text id="n411_h6yh" name="n411" xy="190,282" size="45,31" font="微软雅黑" fontSize="20" color="#ffffff" align="center" vAlign="middle" bold="true" strokeColor="#000000" text="消耗"/>
+    <list id="n410_h6yh" name="n410" xy="48,444" size="438,226" overflow="scroll" lineGap="1" defaultItem="ui://41vqeinnh6yh2a"/>
+  </displayList>
+</component>

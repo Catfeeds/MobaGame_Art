@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="294,399" overflow="hidden">
+  <displayList>
+    <image id="n24_f6zi" name="n24" src="f6zi1u" xy="-115,83" size="320,320" aspect="true"/>
+    <image id="n25_f6zi" name="n25" src="f6zi1v" xy="-201,19" size="471,471" aspect="true"/>
+    <component id="n18_qip3" name="n18" src="qip3h" xy="0,0"/>
+    <component id="n19_qip3" name="n19" src="qip3h" xy="106,26">
+      <Button title=" " icon="ui://sgwvgm5zqip321"/>
+    </component>
+    <component id="n20_qip3" name="n20" src="qip3h" xy="181,101">
+      <Button title=" " icon="ui://sgwvgm5zqip31x"/>
+    </component>
+    <component id="n21_qip3" name="n21" src="qip3h" xy="208,207">
+      <Button title=" " icon="ui://sgwvgm5zqip31y"/>
+    </component>
+    <component id="n22_qip3" name="n22" src="qip3h" xy="173,310">
+      <Button title=" " icon="ui://sgwvgm5zqip31z"/>
+    </component>
+  </displayList>
+</component>

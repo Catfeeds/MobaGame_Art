@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="c3q3iof5" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="sx3r0" name="登陆背景.jpg" path="/资源/"/>
+    <component id="sx3r1" name="Main.xml" path="/组件/" exported="true"/>
+    <component id="sx3r2" name="ProgressBar1.xml" path="/组件/"/>
+  </resources>
+  <publish name="Loading" path="E:\X1Client\Assets\Resources\Loading" maxAtlasSize="1024">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

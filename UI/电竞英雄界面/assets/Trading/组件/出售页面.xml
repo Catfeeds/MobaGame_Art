@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,615">
+  <displayList>
+    <graph id="n91_xbdx" name="n91" xy="461,53" size="3,562" group="n89_xbdx" type="rect" lineColor="#ff11acdf" fillColor="#ff11acdf"/>
+    <image id="n78_xbdx" name="n78" src="xbdx6" xy="0,0" size="465,53" group="n89_xbdx"/>
+    <component id="n81_xbdx" name="n81" src="d3x61" pkg="sgwvgm5z" xy="410,8" size="47,36" group="n89_xbdx" aspect="true">
+      <Button title=" " icon="ui://sgwvgm5zvy9j5f"/>
+    </component>
+    <list id="n93_xbdx" name="n93" xy="5,60" size="453,554" group="n89_xbdx" layout="flow_hz" overflow="scroll" lineGap="11" colGap="8" defaultItem="ui://tienhxpuxbdx16">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n97_xbdx" name="n97" src="xbdx1c" xy="6,-135" group="n89_xbdx" hideByEditor="true" visible="false"/>
+    <group id="n89_xbdx" name="n89" xy="0,-135" size="1340,825" collapsed="true"/>
+    <image id="n79_xbdx" name="n79" src="xbdx6" xy="468,0" size="866,53" group="n87_xbdx"/>
+    <list id="n94_xbdx" name="n94" xy="469,60" size="859,554" group="n87_xbdx" overflow="scroll" lineGap="6" defaultItem="ui://tienhxpuxbdx15">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n80_xbdx" name="n80" xy="148,9" size="123,35" group="n87_xbdx" font="微软雅黑" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="选手库"/>
+    <text id="n82_xbdx" name="n82" xy="470,11" size="107,35" group="n87_xbdx" font="微软雅黑" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="选手名称"/>
+    <text id="n83_xbdx" name="n83" xy="694,11" size="107,35" group="n87_xbdx" font="微软雅黑" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="剩余时间"/>
+    <text id="n84_xbdx" name="n84" xy="856,11" size="107,35" group="n87_xbdx" font="微软雅黑" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="出售价格"/>
+    <text id="n85_xbdx" name="n85" xy="1014,11" size="107,35" group="n87_xbdx" font="微软雅黑" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="当前状态"/>
+    <text id="n86_xbdx" name="n86" xy="1188,11" size="107,35" group="n87_xbdx" font="微软雅黑" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="操作"/>
+    <group id="n87_xbdx" name="n87" xy="148,0" size="1186,614" collapsed="true"/>
+    <component id="n96_xbdx" name="n96" src="xbdx19" xy="468,0" hideByEditor="true" visible="false"/>
+    <component id="n98_xbdx" name="n98" src="xbdx1c" xy="6,-60" group="n89_xbdx" hideByEditor="true" visible="false"/>
+    <component id="n99_xbdx" name="n99" src="xbdx1c" xy="0,-135" visible="false"/>
+  </displayList>
+</component>

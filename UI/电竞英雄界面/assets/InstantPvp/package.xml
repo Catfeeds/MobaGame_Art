@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6mlabpfi" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="eej70" name="3v3 5v5匹配窗口界面 A.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej71" name="3v3 5v5匹配窗口界面 B.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej72" name="3v3 5v5匹配窗口界面 C.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej73" name="3v3 5v5匹配窗口界面 D.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej74" name="3v3 5v5匹配窗口界面 E.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej75" name="750p PVP 选人界面.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej76" name="750p PVP 选人界面1.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej77" name="750p PVP 选人界面2.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej78" name="750p PVP 选人界面3.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej79" name="750p PVP 选人界面4.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej7a" name="单人匹配窗口 A.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej7b" name="单人匹配窗口 B.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej7c" name="单人匹配窗口 C.jpg" path="/资源/参考资源/效果图/"/>
+    <image id="eej7d" name="PVP选人界面背景.jpg" path="/资源/通用/" scale9grid="256,144,512,288"/>
+    <image id="eej7e" name="多人模式 未知选手.png" path="/资源/通用/"/>
+    <image id="eej7f" name="多人模式框架.png" path="/资源/通用/" scale="9grid" scale9grid="204,170,408,39"/>
+    <image id="eej7g" name="多人模式框架底图.jpg" path="/资源/通用/"/>
+    <image id="eej7h" name="多人模式框架高光.png" path="/资源/通用/"/>
+    <image id="eej7i" name="多人模式头像底图.png" path="/资源/通用/" scale="9grid" scale9grid="9,8,18,16"/>
+    <image id="eej7j" name="分类标签页横条.png" path="/资源/通用/" scale="9grid" scale9grid="5,13,10,26"/>
+    <image id="eej7l" name="红方角色亮.png" path="/资源/通用/"/>
+    <image id="eej7m" name="蓝方角色亮.png" path="/资源/通用/"/>
+    <image id="eej7n" name="双人模式 红方.png" path="/资源/通用/" exported="true"/>
+    <image id="eej7o" name="双人模式 蓝方.png" path="/资源/通用/" exported="true"/>
+    <image id="eej7p" name="双人模式 未知选手.png" path="/资源/通用/" exported="true"/>
+    <image id="eej7q" name="双人模式VS图.png" path="/资源/通用/" exported="true"/>
+    <image id="eej7r" name="文字 3.png" path="/资源/通用/"/>
+    <image id="eej7s" name="文字 5.png" path="/资源/通用/"/>
+    <image id="eej7t" name="文字 V 对战模式.png" path="/资源/通用/"/>
+    <image id="eej7u" name="文字 匹配成功.png" path="/资源/通用/"/>
+    <image id="eej7v" name="文字 匹配中.png" path="/资源/通用/" exported="true"/>
+    <image id="eej7w" name="战术选择背景图.png" path="/资源/通用/" exported="true" scale="9grid" scale9grid="181,201,362,69"/>
+    <image id="eej7x" name="指令蒙版.png" path="/资源/通用/"/>
+    <component id="eej7y" name="PVPSelect.xml" path="/组件/"/>
+    <component id="qyfwz" name="BlueSelectBox.xml" path="/组件/"/>
+    <component id="qyfw10" name="RedSelectBox.xml" path="/组件/"/>
+    <component id="qyfw13" name="AvatarBox.xml" path="/组件/"/>
+    <component id="qvis15" name="MatchWindow.xml" path="/组件/"/>
+    <component id="qvis17" name="HeroSelect.xml" path="/组件/"/>
+    <component id="qvis19" name="SingleMatch.xml" path="/组件/"/>
+    <component id="qvis1d" name="AttributeButton.xml" path="/组件/"/>
+    <component id="qvis1e" name="HeroItem.xml" path="/组件/"/>
+    <component id="t1d41f" name="TacticsSelect.xml" path="/组件/"/>
+    <component id="t1d41h" name="TacticsItem.xml" path="/组件/"/>
+    <component id="t1d41i" name="EquiSelect.xml" path="/组件/"/>
+    <component id="t1d41j" name="EquiProButton.xml" path="/组件/"/>
+    <component id="t1d41k" name="EquiItem.xml" path="/组件/"/>
+    <component id="t1d41l" name="EquiAddLabel.xml" path="/组件/"/>
+    <component id="iq851m" name="Main.xml" path="/组件/" exported="true"/>
+  </resources>
+  <publish name="InstantPvp" path="E:\NewGame\trunk\Assets\StreamingFairyAssets\InstantPvp" excluded="eej70,eej71,eej72,eej73,eej74,eej75,eej76,eej77,eej78,eej79,eej7a,eej7b,eej7c"/>
+</packageDescription>

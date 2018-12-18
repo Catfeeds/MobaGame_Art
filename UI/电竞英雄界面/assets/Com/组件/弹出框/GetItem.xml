@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n116_f6zi" name="n116" xy="0,0" size="1334,750" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n99_f6zi" name="n99" src="f6zi5y" xy="37,140" size="1260,416" group="n115_f6zi"/>
+    <list id="n113_f6zi" name="n113" xy="337,248" size="617,235" group="n115_f6zi" scale="1.13,1.13" layout="flow_hz" overflow="scroll" lineGap="13" colGap="16" defaultItem="ui://sgwvgm5zd3x66" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n114_f6zi" name="n114" src="d3x61" xy="1144,477" size="53,61" group="n115_f6zi">
+      <Button title=" " icon="ui://sgwvgm5zf6zi61"/>
+    </component>
+    <group id="n115_f6zi" name="n115" xy="37,140" size="1260,416"/>
+  </displayList>
+</component>

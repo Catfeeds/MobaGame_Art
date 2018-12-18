@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://5ewfozh6pirxs">
+  <displayList>
+    <graph id="n0_pirx" name="n0" xy="0,0" size="1334,750" group="n20_pirx" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n3_pirx" name="n3" src="jzbo4s" pkg="sgwvgm5z" xy="22,85" size="1292,614" group="n20_pirx"/>
+    <image id="n2_pirx" name="n2" src="pirxt" xy="23,143" group="n20_pirx"/>
+    <text id="n4_pirx" name="n4" xy="27,92" size="125,43" group="n20_pirx" font="微软雅黑" fontSize="30" color="#cbcccc" text="对战信息"/>
+    <group id="n20_pirx" name="n20" xy="0,0" size="1334,750" collapsed="true"/>
+    <component id="n5_pirx" name="n5" src="d3x61" pkg="sgwvgm5z" xy="1257,83" size="59,59">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+    <component id="n7_pirx" name="n7" src="pirxu" xy="24,200" group="n12_pirx"/>
+    <component id="n8_pirx" name="n8" src="pirxu" xy="24,299" group="n12_pirx"/>
+    <component id="n9_pirx" name="n9" src="pirxu" xy="24,399" group="n12_pirx"/>
+    <component id="n10_pirx" name="n10" src="pirxu" xy="24,498" group="n12_pirx"/>
+    <component id="n11_pirx" name="n11" src="pirxu" xy="24,599" group="n12_pirx"/>
+    <group id="n12_pirx" name="n12" xy="24,200" size="641,492" collapsed="true"/>
+    <component id="n14_pirx" name="n14" src="pirx11" xy="669,200" group="n19_pirx"/>
+    <component id="n15_pirx" name="n15" src="pirx11" xy="669,299" group="n19_pirx"/>
+    <component id="n16_pirx" name="n16" src="pirx11" xy="669,399" group="n19_pirx"/>
+    <component id="n17_pirx" name="n17" src="pirx11" xy="669,498" group="n19_pirx"/>
+    <component id="n18_pirx" name="n18" src="pirx11" xy="669,599" group="n19_pirx"/>
+    <group id="n19_pirx" name="n19" xy="669,200" size="641,492"/>
+  </displayList>
+</component>

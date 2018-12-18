@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="641,93">
+  <displayList>
+    <image id="n39_pirx" name="n39" src="pirxz" xy="0,0" size="641,93"/>
+    <text id="n1_pirx" name="n1" xy="94,-1" size="165,36" group="n9_pirx" font="微软雅黑" fontSize="25" color="#c1c2c2" autoSize="none" text="阿斯顿"/>
+    <text id="n3_pirx" name="n3" xy="236,4" size="60,34" group="n9_pirx" font="微软雅黑" fontSize="23" color="#c1c2c2" align="center" vAlign="middle" autoSize="none" text="99"/>
+    <text id="n4_pirx" name="n4" xy="310,4" size="60,34" group="n9_pirx" font="微软雅黑" fontSize="23" color="#c1c2c2" align="center" vAlign="middle" autoSize="none" text="99"/>
+    <text id="n5_pirx" name="n5" xy="382,4" size="60,34" group="n9_pirx" font="微软雅黑" fontSize="23" color="#c1c2c2" align="center" vAlign="middle" autoSize="none" text="99"/>
+    <text id="n6_pirx" name="n6" xy="447,4" size="90,34" group="n9_pirx" font="微软雅黑" fontSize="23" color="#c1c2c2" align="center" vAlign="middle" autoSize="none" text="999999"/>
+    <group id="n9_pirx" name="n9" xy="94,-1" size="443,39" collapsed="true"/>
+    <image id="n7_pirx" name="n7" src="jzbo4r" pkg="sgwvgm5z" xy="558,3" group="n10_pirx" visible="false"/>
+    <text id="n8_pirx" name="n8" xy="559,29" size="81,36" group="n10_pirx" font="微软雅黑" fontSize="25" color="#c1c2c2" align="center" vAlign="middle" autoSize="none" text="0"/>
+    <group id="n10_pirx" name="n10" xy="558,3" size="84,62"/>
+    <image id="n11_pirx" name="n11" src="pirxv" xy="5,4" group="n14_pirx"/>
+    <component id="n12_pirx" name="n12" src="qip36" xy="8,8" size="80,80" group="n14_pirx"/>
+    <group id="n14_pirx" name="n14" xy="5,4" size="85,87" collapsed="true"/>
+    <image id="n16_pirx" name="n16" src="pirxv" xy="212,38" size="48,49" group="n22_pirx" aspect="true"/>
+    <component id="n21_pirx" name="n21" src="pirxy" xy="213,39" size="46,46" group="n22_pirx" aspect="true"/>
+    <group id="n22_pirx" name="n22" xy="212,38" size="48,49" group="n40_pirx" collapsed="true"/>
+    <image id="n23_pirx" name="n23" src="pirxv" xy="264,38" size="48,49" group="n25_pirx" aspect="true"/>
+    <component id="n24_pirx" name="n24" src="pirxy" xy="266,40" size="46,46" group="n25_pirx" aspect="true"/>
+    <group id="n25_pirx" name="n25" xy="264,38" size="48,49" group="n40_pirx" collapsed="true"/>
+    <image id="n26_pirx" name="n26" src="pirxv" xy="317,38" size="48,49" group="n28_pirx" aspect="true"/>
+    <component id="n27_pirx" name="n27" src="pirxy" xy="319,40" size="46,46" group="n28_pirx" aspect="true"/>
+    <group id="n28_pirx" name="n28" xy="317,38" size="48,49" group="n40_pirx" collapsed="true"/>
+    <image id="n29_pirx" name="n29" src="pirxv" xy="375,37" size="48,49" group="n31_pirx" aspect="true"/>
+    <component id="n30_pirx" name="n30" src="pirxy" xy="377,39" size="46,46" group="n31_pirx" aspect="true"/>
+    <group id="n31_pirx" name="n31" xy="375,37" size="48,49" group="n40_pirx" collapsed="true"/>
+    <image id="n32_pirx" name="n32" src="pirxv" xy="434,38" size="48,49" group="n34_pirx" aspect="true"/>
+    <component id="n33_pirx" name="n33" src="pirxy" xy="436,40" size="46,46" group="n34_pirx" aspect="true"/>
+    <group id="n34_pirx" name="n34" xy="434,38" size="48,49" group="n40_pirx" collapsed="true"/>
+    <image id="n35_pirx" name="n35" src="pirxv" xy="491,37" size="48,49" group="n37_pirx" aspect="true"/>
+    <component id="n36_pirx" name="n36" src="pirxy" xy="493,39" size="46,46" group="n37_pirx" aspect="true"/>
+    <group id="n37_pirx" name="n37" xy="491,37" size="48,49" group="n40_pirx"/>
+    <group id="n40_pirx" name="n40" xy="212,37" size="327,50"/>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="378,223">
+  <displayList>
+    <graph id="n8_xbdx" name="n8" xy="0,0" size="378,223" type="rect" lineSize="2" lineColor="#ff41b7f4" fillColor="#ff29394c" corner="5"/>
+    <text id="n0_d3x6" name="n0" xy="92,150" size="374,40" font="微软雅黑" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" bold="true" text="剩余挑战次数：  3 次 "/>
+    <text id="n1_d3x6" name="n1" xy="0,9" size="374,43" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" ubb="true" autoSize="none" bold="true" text="关卡掉落"/>
+    <list id="n2_d3x6" name="n2" xy="22,68" size="699,141" scale="0.5,0.5" layout="flow_hz" overflow="scroll" scroll="horizontal" lineGap="10" colGap="10" defaultItem="ui://sgwvgm5zd3x66">
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+    </list>
+    <text id="n3_d3x6" name="n3" xy="92,183" size="85,40" font="微软雅黑" fontSize="18" color="#fdea67" vAlign="middle" ubb="true" autoSize="none" bold="true" text="99999"/>
+    <text id="n5_ll03" name="n5" xy="6,183" size="107,40" font="微软雅黑" fontSize="18" color="#33b5ff" vAlign="middle" ubb="true" autoSize="none" bold="true" text="推荐战力："/>
+  </displayList>
+</component>

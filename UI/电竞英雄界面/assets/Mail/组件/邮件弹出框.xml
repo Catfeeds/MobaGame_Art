@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="768,534">
+  <displayList>
+    <image id="n0_oof6" name="n0" src="lnrz1a" pkg="sgwvgm5z" xy="-8,-9" size="783,552" group="n24_lnrz"/>
+    <text id="n3_oof6" name="n3" xy="0,6" size="768,52" group="n24_lnrz" font="微软雅黑" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="系统邮件"/>
+    <group id="n24_lnrz" name="n24" xy="-8,-9" size="783,552" collapsed="true"/>
+    <graph id="n5_oof6" name="n5" xy="52,122" size="291,1" group="n7_oof6" type="rect" lineSize="0" lineColor="#ff869ca5" fillColor="#ff869ba4"/>
+    <text id="n26_qip3" name="n26" xy="49,88" size="105,37" group="n7_oof6" font="微软雅黑" fontSize="25" color="#8795a0" align="center" vAlign="middle" bold="true" text="发件人："/>
+    <text id="n6_oof6" name="n6" xy="145,88" size="457,37" group="n7_oof6" input="true" prompt="标题最多12个字" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" text="系统GM"/>
+    <group id="n7_oof6" name="n7" xy="49,88" size="553,37" collapsed="true"/>
+    <graph id="n9_oof6" name="n9" xy="50,140" size="664,177" group="n12_oof6" type="rect" lineSize="2" lineColor="#ff1484b8" fillColor="#ff023755"/>
+    <text id="n11_oof6" name="n11" xy="56,147" size="654,164" group="n12_oof6" font="微软雅黑" fontSize="20" color="#ffffff" autoSize="none" text="亲爱的电竞经理人"/>
+    <group id="n12_oof6" name="n12" xy="50,140" size="664,177" collapsed="true"/>
+    <list id="n17_oof6" name="n17" xy="50,326" size="950,155" scale="0.7,0.7" layout="row" overflow="scroll" margin="0,0,5,0" colGap="38" defaultItem="ui://sgwvgm5zd3x66" autoItemSize="false" vAlign="middle"/>
+    <component id="n18_oof6" name="n18" src="lnrz1c" pkg="sgwvgm5z" xy="223,455" size="136,48">
+      <Button title="删除" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <component id="n20_oof6" name="n20" src="lnrz1c" pkg="sgwvgm5z" xy="412,454" size="139,49">
+      <Button title="读取" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <component id="n21_oof6" name="n21" src="d3x61" pkg="sgwvgm5z" xy="710,1" size="58,58">
+      <Button title=" " icon="ui://sgwvgm5zqip32d"/>
+    </component>
+  </displayList>
+</component>

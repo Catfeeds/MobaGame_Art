@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="470,550" extention="Label" designImage="ui://41vqeinnh6yh3r" designImageOffsetX="-137" designImageOffsetY="-139" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <image id="n0_6z19" name="n0" src="h6yh1b" xy="25,19"/>
+    <text id="n1_6z19" name="title" xy="144,19" size="211,44" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <list id="n2_6z19" name="list" xy="0,61" size="469,488" layout="flow_hz" overflow="scroll" lineGap="20" colGap="14" defaultItem="ui://41vqeinnh6yh30">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="551,62">
+  <displayList>
+    <graph id="n211_xbdx" name="n211" xy="0,0" size="551,61" group="n204_oplk" type="rect" fillColor="#ff000000"/>
+    <graph id="n200_oof6" name="n200" xy="16,16" size="30,30" group="n204_oplk" type="eclipse" fillColor="#ff3edd48"/>
+    <text id="n201_oof6" name="n201" xy="48,10" size="119,44" group="n204_oplk" font="微软雅黑" fontSize="24" color="#3cde46" align="center" vAlign="middle" autoSize="none" text="测试一区"/>
+    <text id="n207_ctuq" name="n207" xy="177,10" size="230,44" group="n204_oplk" font="微软雅黑" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="测试一区"/>
+    <group id="n204_oplk" name="n204" xy="0,0" size="551,61" advanced="true"/>
+  </displayList>
+</component>

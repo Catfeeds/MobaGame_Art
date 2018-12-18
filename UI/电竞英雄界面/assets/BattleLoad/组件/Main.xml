@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://4mkm6ochple50">
+  <displayList>
+    <image id="n0_dkzc" name="n0" src="ple51" xy="0,0" size="1334,750"/>
+    <list id="n4_dkzc" name="n1" xy="20,0" size="1082,322" layout="row" colGap="10" defaultItem="ui://4mkm6ochdkzc7">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n7_dkzc" name="n7" xy="1110,0" size="205,212" group="n10_dkzc" align="center" vAlign="middle" fill="scale"/>
+    <text id="n8_dkzc" name="n8" xy="1174,228" size="92,44" group="n10_dkzc" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n9_dkzc" name="n9" xy="1125,271" size="185,44" group="n10_dkzc" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" letterSpacing="5" autoSize="none" bold="true" text=""/>
+    <group id="n10_dkzc" name="n10" xy="1110,0" size="205,315"/>
+    <loader id="n11_dkzc" name="n11" xy="18,444" size="205,212" group="n14_dkzc" align="center" vAlign="middle" fill="scale"/>
+    <text id="n12_dkzc" name="n12" xy="74,658" size="92,44" group="n14_dkzc" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n13_dkzc" name="n13" xy="25,701" size="185,44" group="n14_dkzc" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" letterSpacing="5" autoSize="none" bold="true" text=""/>
+    <group id="n14_dkzc" name="n14" xy="18,444" size="206,301"/>
+    <list id="n15_dkzc" name="n2" xy="236,425" size="1096,322" layout="row" overflow="hidden" colGap="8" defaultItem="ui://4mkm6ochdkzcb">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n16_dkzc" name="n15" xy="16,343" size="485,59" font="微软雅黑" fontSize="20" color="#ffffff" letterSpacing="3" autoSize="none" bold="true" text="小提示：请耐心等待，进度即将加载完成哟！"/>
+  </displayList>
+</component>

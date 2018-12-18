@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://4byggrcviex91">
+  <controller name="c1" pages="2,日常,0,主线" selected="0"/>
+  <displayList>
+    <image id="n33_iex9" name="n0" src="iex94a" pkg="sgwvgm5z" xy="-2,69" size="1334,681"/>
+    <graph id="n42_t1d4" name="n40" xy="213,72" size="1121,145" group="n59_rdab" type="rect" fillColor="#ff001f2f"/>
+    <image id="n39_t1d4" name="n39" src="f6zi62" pkg="sgwvgm5z" xy="213,214" size="1120,5" group="n59_rdab"/>
+    <text id="n1_iex9" name="n1" xy="267,90" size="174,48" group="n59_rdab" font="微软雅黑" fontSize="33" color="#ffffff" autoSize="none" bold="true" text="每日活跃度"/>
+    <text id="n2_iex9" name="n2_activePoint" xy="323,141" size="28,54" group="n59_rdab" font="微软雅黑" fontSize="38" color="#ffc666" bold="true" text="0"/>
+    <text id="n3_iex9" name="n3" xy="460,85" size="65,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffffff" bold="true" text="活跃度"/>
+    <text id="n4_iex9" name="n4" xy="600,85" size="65,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffffff" bold="true" text="活跃度"/>
+    <text id="n5_iex9" name="n5" xy="745,85" size="65,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffffff" bold="true" text="活跃度"/>
+    <text id="n6_iex9" name="n6" xy="915,85" size="65,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffffff" bold="true" text="活跃度"/>
+    <text id="n7_iex9" name="n7" xy="1100,85" size="65,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffffff" bold="true" text="活跃度"/>
+    <component id="n34_o6r1" name="n8" src="pygea" xy="424,160" size="740,15" group="n59_rdab">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n22_iex9" name="n18" src="d3x61" pkg="sgwvgm5z" xy="473,128" size="75,79" group="n59_rdab" grayed="true">
+      <Button icon="ui://4byggrcviex96"/>
+    </component>
+    <image id="n63_rdab" name="n63" src="6z197j" pkg="sgwvgm5z" xy="533,130" size="15,15" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <component id="n21_iex9" name="n19" src="d3x61" pkg="sgwvgm5z" xy="608,128" size="75,79" group="n59_rdab" grayed="true">
+      <Button icon="ui://4byggrcviex95"/>
+    </component>
+    <image id="n64_rdab" name="n64" src="6z197j" pkg="sgwvgm5z" xy="668,130" size="15,15" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <component id="n20_iex9" name="n20" src="d3x61" pkg="sgwvgm5z" xy="754,128" size="75,79" group="n59_rdab" grayed="true">
+      <Button icon="ui://4byggrcviex94"/>
+    </component>
+    <image id="n65_rdab" name="n65" src="6z197j" pkg="sgwvgm5z" xy="814,130" size="15,15" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <component id="n19_iex9" name="n21" src="d3x61" pkg="sgwvgm5z" xy="929,130" size="75,79" group="n59_rdab" grayed="true">
+      <Button icon="ui://4byggrcviex93"/>
+    </component>
+    <image id="n66_rdab" name="n66" src="6z197j" pkg="sgwvgm5z" xy="989,130" size="15,15" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <component id="n17_iex9" name="n22" src="d3x61" pkg="sgwvgm5z" xy="1110,130" size="75,79" group="n59_rdab" grayed="true">
+      <Button icon="ui://4byggrcviex92"/>
+    </component>
+    <image id="n67_rdab" name="n67" src="6z197j" pkg="sgwvgm5z" xy="1170,130" size="15,15" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <text id="n47_pyge" name="n47" xy="525,85" size="29,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffc666" bold="true" text="10"/>
+    <text id="n48_pyge" name="n48" xy="665,85" size="29,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffc666" bold="true" text="30"/>
+    <text id="n49_pyge" name="n49" xy="810,85" size="29,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffc666" bold="true" text="50"/>
+    <text id="n50_pyge" name="n50" xy="980,85" size="29,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffc666" bold="true" text="70"/>
+    <text id="n51_pyge" name="n51" xy="1165,85" size="41,31" group="n59_rdab" font="微软雅黑" fontSize="20" color="#ffc666" bold="true" text="100"/>
+    <image id="n53_pyge" name="n53" src="pygeh" xy="469,128" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <image id="n54_pyge" name="n54" src="pygee" xy="603,128" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <image id="n55_pyge" name="n55" src="pyged" xy="751,128" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <image id="n56_pyge" name="n56" src="pygeg" xy="922,130" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <image id="n57_pyge" name="n57" src="pygec" xy="1106,130" group="n59_rdab" hideByEditor="true" visible="false"/>
+    <list id="n68_rdab" name="dailyTaskList" xy="220,220" size="1082,532" group="n59_rdab" overflow="scroll" margin="20,0,10,0" lineGap="5" defaultItem="ui://4byggrcviex99"/>
+    <group id="n59_rdab" name="n59" xy="213,72" size="1121,680" advanced="true"/>
+    <image id="n38_t1d4" name="n38" src="qip323" pkg="sgwvgm5z" xy="210,70" size="5,681"/>
+    <component id="n29_iex9" name="dailyTaskBtn" src="d3x68" pkg="sgwvgm5z" xy="6,114" size="200,76" group="n58_rdab">
+      <Button checked="true" title="日常" controller="c1" page="2"/>
+    </component>
+    <component id="n27_iex9" name="mainTaskBtn" src="d3x68" pkg="sgwvgm5z" xy="6,199" group="n58_rdab">
+      <Button title="主线" icon="ui://sgwvgm5zppxq36" controller="c1" page="0"/>
+    </component>
+    <component id="n28_iex9" name="lineTaskBtn" src="d3x68" pkg="sgwvgm5z" xy="3,297" size="200,79" group="n58_rdab" hideByEditor="true" visible="false">
+      <Button title="支线" controller="c1" page="1"/>
+    </component>
+    <group id="n58_rdab" name="n58" xy="3,114" size="203,262"/>
+    <list id="n61_rdab" name="trunkTaskList" xy="220,70" size="1082,665" overflow="scroll" margin="20,0,10,0" lineGap="5" defaultItem="ui://4byggrcviex99">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </list>
+  </displayList>
+</component>

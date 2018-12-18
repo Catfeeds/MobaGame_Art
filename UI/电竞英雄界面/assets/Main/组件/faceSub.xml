@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,60" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <graph id="n1" name="n1" xy="0,0" size="60,60" touchable="false" type="rect" lineColor="#ffcccccc" fillColor="#5effffff"/>
+    <loader id="n4_t4vp" name="icon" xy="4,4" size="52,52" align="center" vAlign="middle" fill="scale"/>
+  </displayList>
+  <Button/>
+</component>

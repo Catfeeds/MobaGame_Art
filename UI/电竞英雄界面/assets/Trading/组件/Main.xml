@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://tienhxpuxbdx1a">
+  <controller name="c1" pages="0,购买,1,出售" selected="1"/>
+  <displayList>
+    <image id="n0_xbdx" name="n0" src="xbdx4" xy="0,66" size="1334,683" aspect="true"/>
+    <component id="n8_xbdx" name="n8" src="xbdxl" xy="0,76" size="160,57" group="n13_xbdx">
+      <Button title="购买" controller="c1" page="0"/>
+    </component>
+    <component id="n10_xbdx" name="n10" src="xbdxl" xy="165,76" size="160,57" group="n13_xbdx">
+      <Button checked="true" title="出售" controller="c1" page="1"/>
+    </component>
+    <group id="n13_xbdx" name="n13" xy="0,76" size="325,57" collapsed="true"/>
+    <component id="n2_xbdx" name="n2" src="xbdx13" xy="0,85">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n91_xbdx" name="n91" src="xbdx1b" xy="0,132">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+  </displayList>
+</component>

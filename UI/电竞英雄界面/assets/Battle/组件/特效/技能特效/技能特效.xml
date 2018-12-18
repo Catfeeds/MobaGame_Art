@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="158,221">
+  <displayList>
+    <component id="n1_t53i" name="n1" src="t53i37" xy="-265,-280"/>
+    <component id="n0_t53i" name="n0" src="ied46x" pkg="sgwvgm5z" xy="-1000,0"/>
+    <text id="n2_t53i" name="n2" xy="-999,147" size="158,36" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#00ff00" text="狂轰滥炸"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n2_t53i" value="1"/>
+    <item time="0" type="XY" target="n0_t53i" tween="true" startValue="-1000,0" endValue="0,0" duration="13"/>
+    <item time="0" type="XY" target="n2_t53i" tween="true" startValue="-999.65,147.29" endValue="0,147" duration="13"/>
+    <item time="22" type="XY" target="n2_t53i" tween="true" startValue="0,147" endValue="0,88" duration="19"/>
+    <item time="31" type="Alpha" target="n2_t53i" tween="true" startValue="1" endValue="0" duration="10"/>
+    <item time="37" type="XY" target="n0_t53i" tween="true" startValue="0,0" endValue="-1000,0" duration="4"/>
+  </transition>
+</component>

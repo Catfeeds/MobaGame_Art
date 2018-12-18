@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="715,468">
+  <controller name="c1" pages="0,排名 1,1,排名 2,2,排名 3" selected="0"/>
+  <displayList>
+    <image id="n1_h6yh" name="n1" src="xtyk56" pkg="sgwvgm5z" xy="0,0" size="715,152"/>
+    <image id="n2_h6yh" name="n2" src="xtyk57" pkg="sgwvgm5z" xy="0,157" size="715,152"/>
+    <image id="n3_h6yh" name="n3" src="h6yh6o" pkg="sgwvgm5z" xy="0,313" size="715,152"/>
+    <component id="n4_h6yh" name="n5" src="h6yh4a" xy="0,0">
+      <Button checked="true" controller="c1" page="0"/>
+    </component>
+    <component id="n6_h6yh" name="n6" src="h6yh4a" xy="0,157">
+      <Button controller="c1" page="1"/>
+    </component>
+    <component id="n7_h6yh" name="n7" src="h6yh4a" xy="0,313">
+      <Button controller="c1" page="2"/>
+    </component>
+  </displayList>
+</component>

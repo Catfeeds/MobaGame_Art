@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="382,387" overflow="hidden" opaque="false">
+  <displayList>
+    <image id="n33_f6zi" name="n33" src="f6zi1u" xy="-161,110" size="432,432" aspect="true"/>
+    <image id="n34_f6zi" name="n34" src="f6zi1v" xy="-242,19" size="609,609" aspect="true"/>
+    <component id="n27_qip3" name="n27" src="qip3i" xy="0,0"/>
+    <component id="n28_qip3" name="n28" src="qip3i" xy="95,14">
+      <Button title=" " icon="ui://sgwvgm5zlnrz1f"/>
+    </component>
+    <component id="n29_qip3" name="n29" src="qip3i" xy="182,53">
+      <Button title=" " icon="ui://sgwvgm5zlnrz1h"/>
+    </component>
+    <component id="n30_qip3" name="n30" src="qip3i" xy="296,298">
+      <Button title=" " icon="ui://sgwvgm5zlnrz1d"/>
+    </component>
+    <component id="n31_qip3" name="n31" src="qip3i" xy="249,121">
+      <Button title=" " icon="ui://sgwvgm5zlnrz1g"/>
+    </component>
+    <component id="n32_qip3" name="n32" src="qip3i" xy="289,206">
+      <Button title=" " icon="ui://sgwvgm5zlnrz1e"/>
+    </component>
+  </displayList>
+</component>

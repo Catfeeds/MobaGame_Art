@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://91a1ixx8fccrg" designImageAlpha="100">
+  <controller name="c1" pages="0,全部,1,道具,2,礼包,3,角色碎片" selected="0"/>
+  <displayList>
+    <graph id="n95_qip3" name="n95" xy="0,69" size="1334,681" group="n96_qip3" alpha="0.5" type="rect" lineColor="#ff21415f" fillColor="#ff21415f"/>
+    <image id="n93_qip3" name="n93" src="qip323" pkg="sgwvgm5z" xy="194,69" size="5,680" group="n96_qip3"/>
+    <image id="n94_qip3" name="n94" src="qip323" pkg="sgwvgm5z" xy="986,69" size="5,680" group="n96_qip3" scale="-1,1"/>
+    <group id="n96_qip3" name="n96" xy="0,69" size="1334,681" collapsed="true"/>
+    <list id="n71_d3x6" name="n71" xy="232,83" size="722,586" layout="flow_hz" overflow="scroll" lineGap="25" colGap="20" lineItemCount="5" defaultItem="ui://sgwvgm5zd3x66">
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+      <item icon="ui://sgwvgm5zd3x62"/>
+    </list>
+    <text id="n72_d3x6" name="n72" xy="994,105" size="331,43" group="n81_d3x6" font="微软雅黑" fontSize="30" color="#ffffff" align="center" autoSize="none" singleLine="true" text="等离子维C"/>
+    <text id="n74_d3x6" name="n74" xy="1140,175" size="97,43" group="n81_d3x6" font="微软雅黑" fontSize="25" color="#ffffff" align="center" autoSize="none" singleLine="true" text="拥有："/>
+    <text id="n75_d3x6" name="n75" xy="1205,175" size="97,43" group="n81_d3x6" font="微软雅黑" fontSize="25" color="#559ebb" align="center" autoSize="none" singleLine="true" text="999"/>
+    <text id="n76_d3x6" name="n76" xy="1000,326" size="315,222" group="n81_d3x6" font="微软雅黑" fontSize="25" color="#ffffff" autoSize="none" text="000000000000000000000000"/>
+    <text id="n77_d3x6" name="n77" xy="997,568" size="136,36" group="n81_d3x6" font="微软雅黑" fontSize="25" color="#ffffff" autoSize="none" text="出售单价："/>
+    <text id="n78_d3x6" name="n78" xy="1139,568" size="136,36" group="n81_d3x6" font="微软雅黑" fontSize="25" color="#c7b275" autoSize="none" text="999"/>
+    <component id="n73_d3x6" name="n73" src="d3x66" pkg="sgwvgm5z" xy="1004,167" group="n81_d3x6">
+      <Button icon="ui://sgwvgm5zd3x62"/>
+    </component>
+    <component id="n79_d3x6" name="n79" src="d3x61" pkg="sgwvgm5z" xy="1012,661" size="125,47" group="n81_d3x6">
+      <Button title="出售" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <component id="n80_d3x6" name="n80" src="d3x61" pkg="sgwvgm5z" xy="1183,660" size="125,49" group="n81_d3x6">
+      <Button title="使用" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <group id="n81_d3x6" name="n81" xy="994,105" size="331,604" visible="false" advanced="true" collapsed="true"/>
+    <component id="n88_d3x6" name="n88" src="d3x68" pkg="sgwvgm5z" xy="5,115" group="n92_d3x6">
+      <Button checked="true" title="全部" controller="c1" page="0"/>
+    </component>
+    <component id="n89_d3x6" name="n89" src="d3x68" pkg="sgwvgm5z" xy="5,200" group="n92_d3x6">
+      <Button title="道具" controller="c1" page="1"/>
+    </component>
+    <component id="n90_d3x6" name="n90" src="d3x68" pkg="sgwvgm5z" xy="5,285" group="n92_d3x6">
+      <Button title="礼包" controller="c1" page="2"/>
+    </component>
+    <component id="n91_d3x6" name="n91" src="d3x68" pkg="sgwvgm5z" xy="5,370" group="n92_d3x6">
+      <Button title="角色碎片" controller="c1" page="3"/>
+    </component>
+    <group id="n92_d3x6" name="n92" xy="5,115" size="200,331"/>
+    <image id="n97_qip3" name="n97" src="qip32n" pkg="sgwvgm5z" xy="540,134" group="n99_qip3"/>
+    <text id="n98_qip3" name="n98" xy="488,385" size="285,56" group="n99_qip3" font="微软雅黑" fontSize="40" color="#546b7d" align="center" vAlign="middle" leading="0" bold="true" text="您还没有道具！"/>
+    <group id="n99_qip3" name="n99" xy="488,134" size="290,307" visible="false" advanced="true" collapsed="true"/>
+  </displayList>
+</component>

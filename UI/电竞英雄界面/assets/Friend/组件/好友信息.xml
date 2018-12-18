@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,122">
+  <displayList>
+    <image id="n7_oof6" name="n7" src="lnrz19" pkg="sgwvgm5z" xy="0,0" size="1000,120"/>
+    <loader id="n0_oof6" name="n0" xy="0,0" size="120,120"/>
+    <text id="n1_oof6" name="n1" xy="127,10" size="274,40" font="微软雅黑" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" text="角色名称七个字"/>
+    <text id="n2_oof6" name="n2" xy="127,70" size="274,40" font="微软雅黑" fontSize="30" color="#cccccc" vAlign="middle" autoSize="none" text="Lv.999"/>
+    <component id="n4_oof6" name="n4" src="d3x61" pkg="sgwvgm5z" xy="913,45" size="69,69">
+      <Button title=" " icon="ui://5rkpn5t2qip3a"/>
+    </component>
+    <component id="n5_oof6" name="n5" src="d3x61" pkg="sgwvgm5z" xy="837,45" size="69,69">
+      <Button title=" " icon="ui://5rkpn5t2qip3b"/>
+    </component>
+    <text id="n8_qip3" name="n8" xy="820,9" size="171,36" visible="false" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="2018/8/24"/>
+  </displayList>
+</component>

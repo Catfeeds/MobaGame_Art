@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1006,590">
+  <displayList>
+    <image id="n15_jzbo" name="n15" src="jzbog" xy="0,0" size="1006,251"/>
+    <image id="n84_f6zi" name="n84" src="f6zi12" xy="-7,267" size="508,332" group="n87_f6zi"/>
+    <image id="n85_f6zi" name="n85" src="f6zi15" xy="-5,364" group="n87_f6zi"/>
+    <image id="n86_f6zi" name="n86" src="f6zi15" xy="484,364" group="n87_f6zi"/>
+    <image id="n7_jzbo" name="n7" src="jzbo8" xy="125,313" group="n87_f6zi"/>
+    <text id="n70_jzbo" name="n70" xy="141,279" size="210,41" group="n87_f6zi" font="微软雅黑" fontSize="31" color="#ffffff" align="center" autoSize="none" bold="true" text="补给一次"/>
+    <component id="n93_f6zi" name="n93" src="f6zi17" xy="106,502" group="n87_f6zi">
+      <Button icon="ui://sgwvgm5zppxq2q"/>
+    </component>
+    <group id="n87_f6zi" name="n87" xy="-8,267" size="508,332" collapsed="true"/>
+    <image id="n88_f6zi" name="n88" src="f6zi12" xy="506,267" size="508,332" group="n91_f6zi"/>
+    <image id="n89_f6zi" name="n89" src="f6zi15" xy="508,364" group="n91_f6zi"/>
+    <image id="n90_f6zi" name="n90" src="f6zi15" xy="998,364" group="n91_f6zi"/>
+    <image id="n8_jzbo" name="n8" src="jzbo9" xy="647,324" group="n91_f6zi"/>
+    <image id="n69_jzbo" name="n69" src="jzboh" xy="511,274" group="n91_f6zi"/>
+    <text id="n71_jzbo" name="n71" xy="653,279" size="210,41" group="n91_f6zi" font="微软雅黑" fontSize="31" color="#ffffff" align="center" autoSize="none" bold="true" text="补给十次"/>
+    <text id="n72_jzbo" name="n72" xy="512,311" size="61,41" group="n91_f6zi" rotation="-45" font="微软雅黑" fontSize="28" color="#ffffff" bold="true" text="九折"/>
+    <component id="n92_f6zi" name="n92" src="f6zi17" xy="621,501" group="n91_f6zi">
+      <Button icon="ui://sgwvgm5zppxq2q"/>
+    </component>
+    <group id="n91_f6zi" name="n91" xy="506,267" size="508,332" collapsed="true"/>
+    <text id="n95_f6zi" name="n95" xy="133,86" size="42,37" font="微软雅黑" fontSize="25" color="#feea66" align="center" vAlign="middle" autoSize="none" bold="true" text="10"/>
+    <text id="n96_f6zi" name="n96" xy="305,299" size="210,41" font="微软雅黑" fontSize="20" color="#54d6ed" align="center" autoSize="none" bold="true" text="每日免费剩余:50"/>
+    <text id="n97_f6zi" name="n97" xy="146,484" size="210,41" font="微软雅黑" fontSize="20" color="#feea66" align="center" autoSize="none" bold="true" text="12:34:56后免费"/>
+  </displayList>
+</component>

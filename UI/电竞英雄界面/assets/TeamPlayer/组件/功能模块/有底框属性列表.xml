@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="468,49">
+  <displayList>
+    <image id="n389_h6yh" name="n389" src="h6yh29" xy="0,0"/>
+    <loader id="n393_h6yh" name="n393" xy="10,8" size="31,31" aspect="true" url="ui://sgwvgm5zxbdx63" fill="scaleFree"/>
+    <loader id="n390_h6yh" name="n390" xy="50,14" size="30,30" aspect="true" url="ui://sgwvgm5zqip321" fill="scaleFree"/>
+    <text id="n391_h6yh" name="n391" xy="89,12" size="105,37" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#5e94c5" text=""/>
+    <text id="n392_h6yh" name="n392" xy="225,12" size="168,37" font="微软雅黑" fontSize="25" color="#ffffff" align="right" vAlign="middle" ubb="true" autoSize="none" bold="true" singleLine="true" text=""/>
+  </displayList>
+</component>

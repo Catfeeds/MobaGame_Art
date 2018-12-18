@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://522her13lnrz9">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n21_lnrz" name="n21" src="lnrz8" xy="0,70" size="1334,680" group="n35_qip3"/>
+    <component id="n30_qip3" name="n30" src="d3x65" xy="105,210" group="n35_qip3">
+      <Button title=" "/>
+    </component>
+    <component id="n31_qip3" name="n31" src="d3x65" xy="253,492" group="n35_qip3">
+      <Button title=" "/>
+    </component>
+    <component id="n32_qip3" name="n32" src="d3x65" xy="454,152" group="n35_qip3">
+      <Button title=" "/>
+    </component>
+    <component id="n33_qip3" name="n33" src="d3x65" xy="655,387" group="n35_qip3">
+      <Button title=" "/>
+    </component>
+    <component id="n34_qip3" name="n34" src="qip3j" xy="1009,287" group="n35_qip3">
+      <Button title=" "/>
+    </component>
+    <group id="n35_qip3" name="n35" xy="0,70" size="1334,680" advanced="true" collapsed="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <image id="n23_lnrz" name="n23" src="lnrz7" xy="0,70" size="1334,680" group="n48_ll03" visible="false"/>
+    <component id="n43_ll03" name="n43" src="ll03r" xy="1007,287" group="n48_ll03"/>
+    <component id="n44_ll03" name="n44" src="ll03q" xy="658,386" group="n48_ll03"/>
+    <component id="n45_ll03" name="n45" src="ll03q" xy="455,150" group="n48_ll03"/>
+    <component id="n46_ll03" name="n46" src="ll03q" xy="254,490" group="n48_ll03"/>
+    <component id="n47_ll03" name="n47" src="ll03q" xy="105,205" group="n48_ll03"/>
+    <group id="n48_ll03" name="n48" xy="0,70" size="1334,680" advanced="true" collapsed="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <image id="n24_lnrz" name="n24" src="lnrz1t" pkg="sgwvgm5z" xy="-5,114" size="307,67" group="n29_qip3"/>
+    <text id="n3_d3x6" name="n3" xy="-1,122" size="281,43" group="n29_qip3" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="第一章  章节名称"/>
+    <group id="n29_qip3" name="n29" xy="-5,114" size="307,67" collapsed="true"/>
+    <component id="n8_d3x6" name="n8" src="d3x64" xy="36,570" group="n13_d3x6" grayed="true">
+      <Button title="0/20" icon="ui://522her13qip3e"/>
+    </component>
+    <group id="n13_d3x6" name="n13" xy="36,570" size="100,150"/>
+    <component id="n11_d3x6" name="n11" src="d3x61" pkg="sgwvgm5z" xy="13,325" size="68,117" group="n14_d3x6">
+      <Button title=" " icon="ui://sgwvgm5zlnrz1u"/>
+    </component>
+    <component id="n12_d3x6" name="n12" src="d3x61" pkg="sgwvgm5z" xy="1310,441" size="68,117" group="n14_d3x6" rotation="180">
+      <Button title=" " icon="ui://sgwvgm5zlnrz1u"/>
+    </component>
+    <group id="n14_d3x6" name="n14" xy="13,325" size="1365,233" collapsed="true"/>
+    <image id="n38_qip3" name="n38" src="qip3g" xy="1076,106" group="n15_d3x6"/>
+    <component id="n1_d3x6" name="n1" src="d3x61" pkg="sgwvgm5z" xy="1086,115" size="106,78" group="n15_d3x6">
+      <Button title="普通"/>
+    </component>
+    <component id="n2_d3x6" name="n2" src="d3x61" pkg="sgwvgm5z" xy="1196,115" size="105,78" group="n15_d3x6" touchable="false">
+      <Button title="精英"/>
+    </component>
+    <text id="n42_ll03" name="n42" xy="1230,170" size="68,21" group="n15_d3x6" grayed="true" font="微软雅黑" fontSize="14" color="#ffffff" autoSize="none" bold="true" text="ELITE"/>
+    <image id="n39_qip3" name="n39" src="qip3h" xy="1194,113" group="n15_d3x6"/>
+    <image id="n40_qip3" name="n40" src="qip329" pkg="sgwvgm5z" xy="1271,156" size="25,30" group="n15_d3x6"/>
+    <text id="n41_ll03" name="n41" xy="1112,169" size="68,21" group="n15_d3x6" font="微软雅黑" fontSize="14" color="#ffffff" autoSize="none" bold="true" text="Normal"/>
+    <group id="n15_d3x6" name="n15" xy="1076,106" size="236,96" collapsed="true"/>
+    <component id="n19_d3x6" name="n19" src="d3x61" pkg="sgwvgm5z" xy="1111,655" size="187,61" group="n28_qip3">
+      <Button title="挑战" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <component id="n20_d3x6" name="n20" src="d3x61" pkg="sgwvgm5z" xy="894,655" size="186,62" group="n28_qip3">
+      <Button title="备战" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <group id="n28_qip3" name="n28" xy="894,655" size="404,62" collapsed="true"/>
+    <component id="n6_d3x6" name="n6" src="d3x62" xy="446,268" hideByEditor="true" visible="false"/>
+  </displayList>
+</component>

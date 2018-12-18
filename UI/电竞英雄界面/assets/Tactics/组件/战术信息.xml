@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="335,84">
+  <displayList>
+    <graph id="n4_d3x6" name="n4" xy="-118,0" size="453,84" type="rect" lineColor="#ff333333" fillColor="#ff333333"/>
+    <loader id="n5_d3x6" name="n101" xy="0,5" size="52,74" grayed="true" url="ui://5qhzi7tylnrz5" align="center" vAlign="middle" fill="scaleFree"/>
+    <loader id="n6_d3x6" name="n102" xy="141,5" size="52,74" grayed="true" url="ui://5qhzi7tylnrz6" align="center" vAlign="middle" fill="scaleFree"/>
+    <loader id="n7_d3x6" name="n103" xy="283,5" size="52,74" grayed="true" url="ui://5qhzi7tylnrz4" align="center" vAlign="middle" fill="scaleFree"/>
+  </displayList>
+</component>

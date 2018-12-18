@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://dycs02lpgikb0">
+  <displayList>
+    <image id="n0_trta" name="n0" src="gikb4" xy="0,0" size="1334,750"/>
+    <text id="n1_trta" name="n1" xy="94,136" size="41,46" font="ui://sgwvgm5zenbg5j" fontSize="12" text="0"/>
+    <text id="n2_trta" name="n2" xy="234,127" size="146,57" font="微软雅黑" fontSize="40" align="center" vAlign="middle" autoSize="none" bold="true" text="再消费"/>
+    <image id="n3_trta" name="n3" src="gikb6" xy="378,133" scale="1.2,1.2"/>
+    <text id="n4_trta" name="n4" xy="428,130" size="65,47" font="ui://sgwvgm5zenbg5j" fontSize="30" bold="true" text="10"/>
+    <text id="n5_trta" name="n5" xy="497,128" size="150,56" font="微软雅黑" fontSize="40" align="center" vAlign="middle" autoSize="none" bold="true" text="升级到"/>
+    <image id="n6_trta" name="n6" src="gikb7" xy="641,130"/>
+    <text id="n7_trta" name="n7" xy="749,127" size="28,47" font="ui://sgwvgm5zenbg5j" fontSize="30" align="center" vAlign="middle" bold="true" text="1"/>
+    <image id="n8_trta" name="n8" src="gikb7" xy="229,189" scale="0.8,0.8"/>
+    <text id="n9_trta" name="n9" xy="308,187" size="41,46" scale="0.8,0.8" font="ui://sgwvgm5zenbg5j" fontSize="30" align="center" vAlign="middle" bold="true" text="0"/>
+    <component id="n10_trta" name="n10" src="d3x69" pkg="sgwvgm5z" xy="356,193" size="509,22">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n11_trta" name="n11" src="d3x61" pkg="sgwvgm5z" xy="1092,146" size="173,61">
+      <Button title="VIP特权" icon="ui://sgwvgm5zxbdx6e"/>
+    </component>
+    <list id="n16_knat" name="n12" xy="154,253" size="1027,498" layout="flow_hz" overflow="scroll" lineGap="20" colGap="25" lineItemCount="4" defaultItem="ui://dycs02lpknatn"/>
+  </displayList>
+</component>

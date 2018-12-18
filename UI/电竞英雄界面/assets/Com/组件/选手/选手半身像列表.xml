@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="158,221">
+  <displayList>
+    <image id="n365_h6yh" name="n365" src="ied46y" xy="-6,-2" size="170,225" hideByEditor="true" visible="false"/>
+    <loader id="n353_h6yh" name="n353" xy="0,4" size="158,213" url="ui://sgwvgm5zied46t" fill="scaleFree"/>
+    <loader id="n354_h6yh" name="n354" xy="7,9" size="40,40" aspect="true" url="ui://sgwvgm5zied46z" fill="scaleFree"/>
+    <component id="n357_h6yh" name="n357" src="ied470" xy="94,9" size="56,92" aspect="true"/>
+    <component id="n362_h6yh" name="n362" src="ied472" xy="8,9" size="142,172"/>
+    <image id="n359_h6yh" name="n359" src="ied474" xy="80,155" size="67,23" aspect="true"/>
+    <text id="n363_h6yh" name="n363" xy="45,184" size="101,26" font="微软雅黑" fontSize="16" color="#ffffff" align="center" vAlign="middle" bold="true" shadowColor="#000000" shadowOffset="1,1" text="六点六六点六"/>
+    <loader id="n364_h6yh" name="n364" xy="8,174" size="40,40" url="ui://sgwvgm5zied46r" fill="scaleFree"/>
+    <loader id="n366_ruoh" name="n366" xy="15,182" size="26,26" aspect="true" url="ui://sgwvgm5zlnrz1f" fill="scaleFree"/>
+  </displayList>
+</component>

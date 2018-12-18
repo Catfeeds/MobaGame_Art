@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="184,110">
+  <displayList>
+    <loader id="n85_ied4" name="n85" xy="500,0" size="184,110" url="ui://5ewfozh6ied433"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Visible" target="n85_ied4" value="true"/>
+    <item time="0" type="XY" target="n85_ied4" value="500,0"/>
+    <item time="24" type="XY" target="n85_ied4" tween="true" startValue="500,0" endValue="0,0" duration="6"/>
+    <item time="42" type="Visible" target="n85_ied4" value="false"/>
+  </transition>
+</component>

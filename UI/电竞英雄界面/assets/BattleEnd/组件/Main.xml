@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://4azso0edrxusg">
+  <displayList>
+    <image id="n0_rxus" name="n0" src="rxus1" xy="0,0" size="1334,750"/>
+    <image id="n1_rxus" name="n1" src="rxus2" xy="558,0"/>
+    <image id="n2_rxus" name="n2" src="rxus3" xy="558,8"/>
+    <component id="n3_rxus" name="n3" src="d3x61" pkg="sgwvgm5z" xy="673,675" size="178,67">
+      <Button title="再来一局" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <component id="n4_rxus" name="n4" src="d3x61" pkg="sgwvgm5z" xy="483,675" size="178,67">
+      <Button title="返回" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <list id="n6_rxus" name="n6" xy="0,152" size="664,497" overflow="scroll" defaultItem="ui://4azso0edrxus4">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n7_rxus" name="n7" xy="670,152" size="664,497" overflow="scroll" defaultItem="ui://4azso0edrxusc">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n8_rxus" name="n8" xy="395,18" size="83,63" font="微软雅黑" fontSize="45" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="50"/>
+    <text id="n9_rxus" name="n9" xy="850,18" size="83,63" font="微软雅黑" fontSize="45" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="50"/>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="82,109">
+  <displayList>
+    <image id="n0_qip3" name="n0" src="qip33" xy="0,0" size="82,106" group="n5_pirx" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n3_qip3" name="n3" src="qip36" xy="0,-13" size="80,80" group="n5_pirx" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <group id="n5_pirx" name="n5" xy="0,-13" size="82,119"/>
+  </displayList>
+</component>

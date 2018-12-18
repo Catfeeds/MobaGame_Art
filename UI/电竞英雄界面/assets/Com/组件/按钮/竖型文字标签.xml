@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="70,106" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n4_xbdx" name="icon" xy="0,0" size="70,108" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n3" name="title" xy="6,1" size="56,108" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="-6" autoSize="none" text="标题">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

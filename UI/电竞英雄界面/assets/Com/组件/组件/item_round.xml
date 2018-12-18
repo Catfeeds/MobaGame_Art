@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="64,64" mask="n1_xtyk">
+  <displayList>
+    <loader id="n0_xtyk" name="n0" xy="0,0" size="64,64" url="ui://sgwvgm5zppxq2y" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <graph id="n1_xtyk" name="n1" xy="0,0" size="64,64" aspect="true" touchable="false" type="eclipse" lineColor="#ffffffff">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+  </displayList>
+</component>

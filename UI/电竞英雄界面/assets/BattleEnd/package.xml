@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4azso0ed" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="rxus0" name="Main.xml" path="/组件/" exported="true"/>
+    <image id="rxus1" name="背景总.jpg" path="/资源/"/>
+    <image id="rxus2" name="胜利.png" path="/资源/"/>
+    <image id="rxus3" name="失败.png" path="/资源/"/>
+    <component id="rxus4" name="主场结算信息列表.xml" path="/组件/"/>
+    <image id="rxus5" name="蓝方 头像框.png" path="/资源/"/>
+    <image id="rxus6" name="蓝方 英雄框.png" path="/资源/"/>
+    <image id="rxus7" name="蓝方 装备.png" path="/资源/"/>
+    <component id="rxus8" name="结算信息列表.xml" path="/组件/"/>
+    <image id="rxus9" name="1007.png" path="/资源/资源排除/"/>
+    <image id="rxusa" name="1111.jpg" path="/资源/资源排除/"/>
+    <component id="rxusb" name="结算装备信息.xml" path="/组件/"/>
+    <component id="rxusc" name="客场结算信息列表.xml" path="/组件/"/>
+    <image id="rxusd" name="红方 头像框.png" path="/资源/"/>
+    <image id="rxuse" name="红方 英雄框.png" path="/资源/"/>
+    <image id="rxusf" name="红方 装备.png" path="/资源/"/>
+    <image id="rxusg" name="750p 对战加载界面 - 副本 2.jpg" path="/资源/资源排除/"/>
+  </resources>
+  <publish name="BattleEnd" path="E:\X1Client\Assets\StreamingFairyAssets\BattleEnd" maxAtlasSize="1024" excluded="rxus9,rxusa,rxusg">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

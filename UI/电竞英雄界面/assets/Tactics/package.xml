@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5qhzi7ty" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="d3x60" name="Main.xml" path="/组件/" exported="true"/>
+    <component id="d3x63" name="战术信息.xml" path="/组件/"/>
+    <image id="lnrz4" name="强推图标.png" path="/资源/"/>
+    <image id="lnrz5" name="死守图标.png" path="/资源/"/>
+    <image id="lnrz6" name="支援图标.png" path="/资源/"/>
+    <image id="lnrz7" name="750p 通用界面.jpg" path="/资源参考/"/>
+    <image id="lnrz8" name="位置底框.png" path="/资源/"/>
+    <image id="lnrz9" name="战术名 底.png" path="/资源/" exported="true"/>
+    <image id="lnrza" name="1-2-2 阵型.png" path="/资源/"/>
+    <image id="lnrzb" name="备份 拷贝.png" path="/资源/"/>
+    <image id="h0trc" name="绿宝石.png" path="/资源/"/>
+    <image id="9wond" name="激活.png" path="/资源/"/>
+    <image id="7ypae" name="背景.jpg" path="/资源/"/>
+    <image id="qyfwl" name="战术 打野支援.png" path="/资源/" exported="true" scale9grid="64,64,128,128"/>
+    <image id="qyfwm" name="战术 切后排.png" path="/资源/" exported="true"/>
+    <image id="qyfwn" name="战术 双打野.png" path="/资源/" exported="true"/>
+    <image id="qyfwo" name="战术 四保一.png" path="/资源/" exported="true"/>
+    <image id="qyfwp" name="战术 四一分推.png" path="/资源/" exported="true"/>
+    <image id="qyfwq" name="战术 正常阵容.png" path="/资源/" exported="true"/>
+    <image id="qyfws" name="战术字 .png" path="/资源/" exported="true"/>
+    <image id="qyfwt" name="战术字 常规阵容 .png" path="/资源/" exported="true"/>
+    <image id="qyfwu" name="战术字 打野支援.png" path="/资源/" exported="true"/>
+    <image id="qyfwv" name="战术字 切后排.png" path="/资源/" exported="true"/>
+    <image id="qyfww" name="战术字 双打野 .png" path="/资源/" exported="true"/>
+    <image id="qyfwx" name="战术字 四保一.png" path="/资源/" exported="true"/>
+    <image id="qyfwy" name="战术字 四一分推 .png" path="/资源/" exported="true"/>
+    <image id="qyfwz" name="战术字 正常阵容.png" path="/资源/" exported="true"/>
+  </resources>
+  <publish name="Tactics" path="E:\client\trunk\Assets\StreamingFairyAssets\Tactics" excluded="lnrza,lnrz7,lnrzb,hngsf"/>
+</packageDescription>

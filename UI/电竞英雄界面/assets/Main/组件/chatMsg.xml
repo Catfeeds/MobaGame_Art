@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,118">
+  <displayList>
+    <graph id="n21_eej7" name="n0" xy="549,22" size="80,80" group="n26_eej7" type="eclipse" fillColor="#ff000000"/>
+    <loader id="n22_eej7" name="n1" xy="561,34" size="55,55" group="n26_eej7" align="center" vAlign="middle" fill="scaleFree"/>
+    <text id="n27_eej7" name="n2" xy="383,2" size="159,43" group="n26_eej7" font="微软雅黑" fontSize="30" color="#ffffff" align="right" vAlign="middle" autoSize="none" text=""/>
+    <image id="n24_eej7" name="n3" src="iod44j" xy="496,48" size="41,59" group="n26_eej7">
+      <relation target="n25_eej7" sidePair="width-width,height-height"/>
+      <relation target="" sidePair="right-right"/>
+    </image>
+    <richtext id="n25_eej7" name="n4" xy="504,63" size="10,28" group="n26_eej7" font="微软雅黑" fontSize="18" color="#ffffff" ubb="true" text="">
+      <relation target="" sidePair="right-right"/>
+    </richtext>
+    <group id="n26_eej7" name="n5" xy="383,2" size="246,105" advanced="true"/>
+    <graph id="n13_t4vp" name="n6" xy="0,25" size="80,80" group="n14_t4vp" type="eclipse" fillColor="#ff000000"/>
+    <loader id="n15_t4vp" name="n7" xy="12,40" size="55,55" group="n14_t4vp" align="center" vAlign="middle" fill="scaleFree"/>
+    <text id="n16_t4vp" name="n8" xy="102,4" size="179,42" group="n14_t4vp" font="微软雅黑" fontSize="29" color="#ffffff" autoSize="none" text=""/>
+    <image id="n20_t4vp" name="n9" src="iod44j" xy="85,49" size="45,59" group="n14_t4vp" flip="hz">
+      <relation target="n18_t4vp" sidePair="width-width,height-height"/>
+      <relation target="" sidePair="left-left"/>
+    </image>
+    <richtext id="n18_t4vp" name="n10" xy="108,65" size="10,28" group="n14_t4vp" font="微软雅黑" fontSize="18" color="#ffffff" text="">
+      <relation target="" sidePair="left-left"/>
+    </richtext>
+    <group id="n14_t4vp" name="n11" xy="0,4" size="281,104" visible="false" advanced="true"/>
+  </displayList>
+</component>

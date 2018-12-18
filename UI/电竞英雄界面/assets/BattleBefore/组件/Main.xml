@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://4arh5aief6zi1r">
+  <displayList>
+    <image id="n30_swqg" name="n0" src="qip31" xy="0,0" size="1334,750" group="n14_qip3" fillMethod="vt" fillOrigin="1" fillAmount="90"/>
+    <image id="n39_ephy" name="n1" src="ephys" xy="983,509" group="n14_qip3"/>
+    <image id="n36_ephy" name="n2" src="ephys" xy="806,513" group="n14_qip3"/>
+    <image id="n37_ephy" name="n3" src="ephys" xy="624,430" group="n14_qip3"/>
+    <image id="n38_ephy" name="n4" src="ephys" xy="405,397" group="n14_qip3"/>
+    <image id="n35_ephy" name="n5" src="ephys" xy="225,392" group="n14_qip3"/>
+    <image id="n2_qip3" name="n6" src="lnrz1d" pkg="sgwvgm5z" xy="652,419" size="58,58" group="n14_qip3"/>
+    <image id="n3_qip3" name="n7" src="lnrz1e" pkg="sgwvgm5z" xy="1015,504" size="55,50" group="n14_qip3"/>
+    <image id="n4_qip3" name="n8" src="lnrz1f" pkg="sgwvgm5z" xy="264,384" size="46,46" group="n14_qip3"/>
+    <image id="n5_qip3" name="n9" src="lnrz1g" pkg="sgwvgm5z" xy="845,508" size="44,44" group="n14_qip3"/>
+    <image id="n6_qip3" name="n10" src="lnrz1h" pkg="sgwvgm5z" xy="441,385" size="46,46" group="n14_qip3"/>
+    <group id="n14_qip3" name="n11" xy="0,0" size="1334,750" collapsed="true"/>
+    <image id="n32_ephy" name="n13" src="lnrz1t" pkg="sgwvgm5z" xy="51,95" size="242,60" group="n98_f6zi" aspect="true"/>
+    <image id="n31_ephy" name="n14" src="g4ux3q" pkg="sgwvgm5z" xy="10,82" size="83,87" group="n98_f6zi" aspect="true"/>
+    <text id="n33_ephy" name="n15" xy="85,101" size="235,48" group="n98_f6zi" scale="0.8,0.8" font="ui://sgwvgm5zenbg5j" fontSize="59" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="999万"/>
+    <group id="n98_f6zi" name="n16" xy="10,82" size="310,87" collapsed="true"/>
+    <component id="n1_qip3" name="n21" src="qip33" xy="1052,645" group="n100_f6zi">
+      <Button title="进入关卡"/>
+    </component>
+    <component id="n26_oplk" name="n22" src="d3x61" pkg="sgwvgm5z" xy="783,672" size="247,66" group="n100_f6zi">
+      <Button title=" 四一分推" icon="ui://4arh5aieoplkp" selectedIcon="ui://4arh5aieoplkp"/>
+    </component>
+    <group id="n100_f6zi" name="n23" xy="783,645" size="536,102" collapsed="true"/>
+    <component id="n9_qip3" name="n24" src="qip38" xy="218,167" group="n25_qip3"/>
+    <component id="n10_qip3" name="n25" src="qip38" xy="395,168" group="n25_qip3"/>
+    <component id="n11_qip3" name="n26" src="qip38" xy="613,202" group="n25_qip3"/>
+    <component id="n12_qip3" name="n27" src="qip38" xy="796,289" group="n25_qip3"/>
+    <component id="n13_qip3" name="n28" src="qip38" xy="970,288" group="n25_qip3"/>
+    <group id="n25_qip3" name="n29" xy="218,167" size="894,337" collapsed="true"/>
+    <component id="n7_qip3" name="n12" src="qip36" xy="0,228"/>
+    <component id="n16_qip3" name="n31" src="qip3n" xy="0,0" hideByEditor="true" visible="false"/>
+  </displayList>
+</component>

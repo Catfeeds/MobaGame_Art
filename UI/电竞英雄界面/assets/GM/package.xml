@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5r2t6w3s" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="d3x60" name="Main.xml" path="/" exported="true"/>
+    <component id="d3x61" name="发送.xml" path="/"/>
+    <component id="d3x62" name="命令.xml" path="/"/>
+  </resources>
+  <publish name="GM" path="E:\X1Client\Assets\StreamingFairyAssets\GM"/>
+</packageDescription>

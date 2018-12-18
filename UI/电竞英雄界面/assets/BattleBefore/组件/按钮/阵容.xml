@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="56,298" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="qip35" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2" name="title" xy="-3,28" size="56,298" font="微软雅黑" fontSize="35" color="#ffffff" align="center" vAlign="middle" leading="-6" autoSize="none" bold="true" singleLine="true" text="调&#xA;整&#xA;阵&#xA;容">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

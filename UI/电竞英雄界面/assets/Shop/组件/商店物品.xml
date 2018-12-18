@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="195,230">
+  <displayList>
+    <image id="n3_oof6" name="n3" src="lnrz19" pkg="sgwvgm5z" xy="0,0" size="195,230"/>
+    <component id="n1_oof6" name="n1" src="d3x66" pkg="sgwvgm5z" xy="33,49" size="128,128">
+      <Button icon="ui://sgwvgm5zd3x62"/>
+    </component>
+    <text id="n2_oof6" name="n2" xy="32,188" size="131,31" font="微软雅黑" fontSize="20" color="#c0c3c2" ubb="true" autoSize="none" text="价格：00000"/>
+    <text id="n7_lnrz" name="n7" xy="11,10" size="174,31" font="微软雅黑" fontSize="20" color="#e4f3fa" align="center" vAlign="middle" autoSize="none" bold="true" text="经验宝石"/>
+  </displayList>
+</component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="82,108">
+  <displayList>
+    <component id="n0_qip3" name="n0" src="pirxp" xy="0,-2"/>
+    <component id="n1_t53i" name="n1" src="t53i3e" xy="-22,-22" visible="false"/>
+    <component id="n2_t53i" name="n2" src="t53i3g" xy="-22,-22" visible="false"/>
+    <component id="n3_t53i" name="n3" src="t53i3f" xy="-22,-22" visible="false"/>
+  </displayList>
+  <transition name="t1">
+    <item time="0" type="XY" target="n0_qip3" tween="true" startValue="0,-2" endValue="14,-31" duration="6"/>
+  </transition>
+  <transition name="t2">
+    <item time="0" type="XY" target="n0_qip3" tween="true" startValue="1,-3" endValue="-12,-40" duration="6"/>
+    <item time="6" type="XY" target="n0_qip3" tween="true" startValue="-12,-40"/>
+  </transition>
+  <transition name="t3">
+    <item time="0" type="XY" target="n0_qip3" tween="true" startValue="0,-1" endValue="30,7" duration="6"/>
+    <item time="6" type="XY" target="n0_qip3" tween="true" startValue="30,7"/>
+  </transition>
+  <transition name="t4">
+    <item time="0" type="XY" target="n0_qip3" tween="true" startValue="0,-2" endValue="-26,6" duration="6"/>
+    <item time="6" type="XY" target="n0_qip3" tween="true" startValue="-26,6"/>
+  </transition>
+  <transition name="t5">
+    <item time="0" type="XY" target="n0_qip3" tween="true" startValue="0,-2" endValue="-21,-12" duration="6"/>
+    <item time="6" type="XY" target="n0_qip3" tween="true" startValue="-21,-12"/>
+  </transition>
+  <transition name="t6">
+    <item time="0" type="Shake" target="n0_qip3" value="10,0.1"/>
+  </transition>
+</component>

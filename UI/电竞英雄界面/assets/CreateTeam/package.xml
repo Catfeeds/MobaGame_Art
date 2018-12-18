@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="hol7ztof" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="vu371" name="Main.xml" path="/组件/" exported="true"/>
+    <image id="y7cs2" name="队标 (10).png" path="/资源/"/>
+    <image id="y7cs3" name="箭头.png" path="/资源/"/>
+    <image id="y7cs4" name="随机ui.png" path="/资源/"/>
+    <image id="y7cs5" name="通用按钮.png" path="/资源/"/>
+    <image id="y7cs6" name="通用输入框.png" path="/资源/"/>
+    <image id="y7cs7" name="图层 6633.png" path="/资源/"/>
+    <image id="y7cs8" name="圆环.png" path="/资源/"/>
+    <image id="y7csa" name="组 6.jpg" path="/资源/"/>
+    <image id="y7csb" name="750p 创建界面.png" path="/资源/"/>
+    <image id="y7csc" name="队标 (1).png" path="/资源/"/>
+    <image id="y7csd" name="队标 (2).png" path="/资源/"/>
+    <image id="y7cse" name="队标 (3).png" path="/资源/"/>
+    <image id="y7csf" name="队标 (4).png" path="/资源/"/>
+    <image id="y7csg" name="队标 (5).png" path="/资源/"/>
+    <image id="y7csh" name="队标 (6).png" path="/资源/"/>
+    <image id="y7csi" name="队标 (7).png" path="/资源/"/>
+    <image id="y7csj" name="队标 (8).png" path="/资源/"/>
+    <image id="y7csk" name="队标 (9).png" path="/资源/"/>
+    <image id="y7csl" name="圆环底板.png" path="/资源/"/>
+    <component id="ny9am" name="Button1.xml" path="/组件/"/>
+    <component id="ny9an" name="Button2.xml" path="/组件/"/>
+    <component id="ny9ap" name="Button3.xml" path="/组件/"/>
+    <component id="pebfr" name="logoItem.xml" path="/组件/" exported="true"/>
+  </resources>
+  <publish name="CreateTeam" path="E:\X1Client\Assets\StreamingFairyAssets\CreateTeam" maxAtlasSize="1024" excluded="y7cse">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

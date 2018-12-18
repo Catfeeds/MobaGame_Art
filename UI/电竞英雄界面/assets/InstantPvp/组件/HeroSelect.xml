@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://6mlabpfieej75">
+  <displayList>
+    <image id="n3_qvis" name="n0" src="eej7j" xy="307,84" size="723,52"/>
+    <list id="n0_qvis" name="n1" xy="305,84" size="727,50" layout="row" overflow="scroll" defaultItem="ui://6mlabpfiqvis1d">
+      <item title="全部"/>
+      <item title="坦克"/>
+      <item title="战士"/>
+      <item title="刺客"/>
+      <item title="法师"/>
+      <item title="射手"/>
+      <item title="辅助"/>
+    </list>
+    <list id="n4_qvis" name="n2" xy="340,149" size="656,516" layout="flow_hz" overflow="scroll" lineGap="10" colGap="20" defaultItem="ui://6mlabpfiqvis1e">
+      <item title="百里玄策" icon="ui://hol7ztofy7csc"/>
+      <item icon="ui://hol7ztofy7csd"/>
+      <item icon="ui://hol7ztofy7cse"/>
+      <item icon="ui://hol7ztofy7csf"/>
+      <item icon="ui://hol7ztofy7csg"/>
+      <item icon="ui://hol7ztofy7csh"/>
+      <item icon="ui://hol7ztofy7csi"/>
+      <item icon="ui://hol7ztofy7csj"/>
+      <item icon="ui://hol7ztofy7csk"/>
+    </list>
+  </displayList>
+</component>

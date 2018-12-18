@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dycs02lp" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="gikb0" name="750p 充值界面.jpg" path="/资源/资源参考/"/>
+    <image id="gikb4" name="背景总.png" path="/资源/通用/" scale9grid="256,200,512,232"/>
+    <image id="gikb6" name="diamond.png" path="/资源/通用/"/>
+    <image id="gikb7" name="VIP.png" path="/资源/通用/"/>
+    <component id="knatm" name="Main.xml" path="/组件/" exported="true"/>
+    <component id="knatn" name="ReCharge.xml" path="/组件/"/>
+    <image id="sde2q" name="recharge_3.png" path="/资源/Vip背景/" exported="true"/>
+    <image id="sde2r" name="recharge_1.png" path="/资源/Vip背景/" exported="true"/>
+    <image id="sde2s" name="recharge_2.png" path="/资源/Vip背景/" exported="true"/>
+    <image id="jgyat" name="recharge_1.png" path="/资源/通用/"/>
+    <image id="jgyau" name="背景 中级.png" path="/资源/通用/"/>
+    <image id="jgyav" name="背景 低级.png" path="/资源/通用/"/>
+    <image id="jgyaw" name="背景 高级.png" path="/资源/通用/"/>
+  </resources>
+  <publish name="Vip" path="E:\client\trunk\Assets\StreamingFairyAssets\Vip" maxAtlasSize="1024" multiPage="false" excluded="gikb0">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

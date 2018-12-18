@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="47,47" mask="n20_rxus">
+  <displayList>
+    <loader id="n21_rxus" name="n21" xy="0,0" size="47,47" aspect="true" url="ui://4azso0edrxusa" fill="scaleFree"/>
+    <graph id="n20_rxus" name="n20" xy="0,0" size="47,47" aspect="true" type="eclipse" lineColor="#ffffffff"/>
+  </displayList>
+</component>

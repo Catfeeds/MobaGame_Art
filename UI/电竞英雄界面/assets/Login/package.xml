@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="t2ue6z12" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="cedl0" name="Main.xml" path="/组件/" exported="true"/>
+    <image id="oof61" name="登陆背景.jpg" path="/资源/"/>
+    <image id="oof62" name="密码图示.png" path="/资源/"/>
+    <image id="oof63" name="账号图示.png" path="/资源/"/>
+    <component id="oplk4" name="ServerItem.xml" path="/组件/"/>
+  </resources>
+  <publish name="Login" path="E:\X1Client\Assets\StreamingFairyAssets\Login" maxAtlasSize="1024">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

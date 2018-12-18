@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <controller name="c1" pages="5,默认,0,注册,4,登录,6,进入游戏" selected="1"/>
+  <displayList>
+    <image id="n183_d3x6" name="n183" src="oof61" xy="0,1" size="1334,750" group="n184_d3x6"/>
+    <text id="n42_cedl" name="n42" xy="2,699" size="1330,54" group="n184_d3x6" font="Microsoft YaHei" fontSize="17" color="#59abff" align="center" leading="0" ubb="true" autoSize="none" bold="true" text="抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。[color=#2b6bad]  客户端：1.0  xx网文[2018]xxxx-xxx号  著作人：世纪星河信息科技有限公司    出版单位：深圳世纪星河科技有限公司   文网游备字【2018】x-xxxxxxx号  ISBN xxx-x-xxxx-xxxx-x  新广出审【2018】xxxxx号[color]"/>
+    <component id="n108_sesa" name="n108" src="d3x61" pkg="sgwvgm5z" xy="539,599" size="258,85" group="n184_d3x6">
+      <gearDisplay controller="c1" pages="5,0,4"/>
+      <Button title="登录" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <graph id="n181_po4o" name="n181" xy="0,1" size="1334,750" group="n184_d3x6" alpha="0.6" type="rect" fillColor="#ff000000">
+      <gearDisplay controller="c1" pages="0,4,3"/>
+    </graph>
+    <group id="n184_d3x6" name="n184" xy="0,1" size="1334,752" collapsed="true"/>
+    <image id="n118_sesa" name="n118" src="oohk6g" pkg="sgwvgm5z" xy="314,62" size="705,530" group="n123_sesa"/>
+    <text id="n197_oof6" name="n197" xy="576,116" size="169,44" group="n123_sesa" font="微软雅黑" fontSize="30" color="#4d4d4d" align="center" vAlign="middle" autoSize="none" bold="true" text="账号注册"/>
+    <graph id="n119_sesa" name="n119" xy="357,255" size="614,2" group="n123_sesa" type="rect" lineSize="0" lineColor="#ff33ccff" fillColor="#ff33ccff"/>
+    <graph id="n124_sesa" name="n124" xy="357,352" size="613,1" group="n123_sesa" type="rect" lineSize="0" lineColor="#ff999999" fillColor="#ff999999"/>
+    <graph id="n126_sesa" name="n126" xy="357,444" size="612,2" group="n123_sesa" type="rect" lineSize="0" lineColor="#ff999999" fillColor="#ff999999"/>
+    <text id="n122_sesa" name="n122" xy="358,191" size="488,64" group="n123_sesa" input="true" prompt="请输入账号名6-10个字母或数字" maxLength="20" font="微软雅黑" fontSize="31" color="#cccccc" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n125_sesa" name="n125" xy="358,289" size="488,63" group="n123_sesa" input="true" prompt="请输入密码" maxLength="20" password="true" font="微软雅黑" fontSize="31" color="#cccccc" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n127_sesa" name="n127" xy="358,381" size="488,63" group="n123_sesa" input="true" prompt="请再次输入密码" maxLength="20" password="true" font="微软雅黑" fontSize="31" color="#cccccc" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <component id="n195_oof6" name="n195" src="d3x61" pkg="sgwvgm5z" xy="338,88" size="46,41" group="n123_sesa">
+      <Button title=" " icon="ui://sgwvgm5zoof6l"/>
+    </component>
+    <component id="n129_sesa" name="n129" src="d3x61" pkg="sgwvgm5z" xy="361,479" size="611,78" group="n123_sesa">
+      <Button title="注册" icon="ui://sgwvgm5zoof6k"/>
+    </component>
+    <group id="n123_sesa" name="n123" xy="314,62" size="705,530" advanced="true" collapsed="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <image id="n171_hptx" name="n171" src="oohk6g" pkg="sgwvgm5z" xy="314,62" size="705,530" group="n179_hptx"/>
+    <text id="n192_oof6" name="n192" xy="576,116" size="169,44" group="n179_hptx" font="微软雅黑" fontSize="30" color="#4d4d4d" align="center" vAlign="middle" autoSize="none" bold="true" text="账号登录"/>
+    <graph id="n172_hptx" name="n172" xy="358,278" size="613,2" group="n179_hptx" type="rect" lineSize="0" lineColor="#ff33ccff" fillColor="#ff33ccff"/>
+    <graph id="n173_hptx" name="n173" xy="358,375" size="613,1" group="n179_hptx" type="rect" lineSize="0" lineColor="#ff999999" fillColor="#ff999999"/>
+    <text id="n175_hptx" name="n175" xy="423,213" size="488,64" group="n179_hptx" input="true" prompt="请输入账号" maxLength="20" font="微软雅黑" fontSize="31" color="#999999" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n176_hptx" name="n176" xy="423,311" size="488,63" group="n179_hptx" input="true" prompt="请输入密码" maxLength="20" password="true" font="微软雅黑" fontSize="31" color="#999999" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <component id="n178_hptx" name="n178" src="d3x61" pkg="sgwvgm5z" xy="360,404" size="612,77" group="n179_hptx">
+      <Button title="登录" icon="ui://sgwvgm5zoof6k"/>
+    </component>
+    <component id="n191_oof6" name="n191" src="d3x61" pkg="sgwvgm5z" xy="360,491" size="612,77" group="n179_hptx">
+      <Button title="注册" icon="ui://sgwvgm5zoof6k"/>
+    </component>
+    <image id="n193_oof6" name="n193" src="oof63" xy="365,220" group="n179_hptx"/>
+    <image id="n194_oof6" name="n194" src="oof62" xy="367,317" group="n179_hptx"/>
+    <group id="n179_hptx" name="n179" xy="314,62" size="705,530" advanced="true" collapsed="true">
+      <gearDisplay controller="c1" pages="4"/>
+    </group>
+    <component id="n198_oof6" name="n198" src="d3x61" pkg="sgwvgm5z" xy="539,598" size="258,85" group="n202_oof6">
+      <Button title="进入游戏" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <component id="n199_oof6" name="n199" src="oplk4" xy="399,514" group="n202_oof6"/>
+    <list id="n203_oplk" name="n203" xy="399,320" size="553,190" group="n202_oof6" overflow="scroll" lineGap="1" defaultItem="ui://t2ue6z12oplk4">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n204_ctuq" name="n204" src="ppxq38" pkg="sgwvgm5z" xy="950,517" size="38,54" group="n202_oof6" aspect="true" scale="-1,1"/>
+    <text id="n209_oohk" name="n209" xy="857,529" size="55,37" group="n202_oof6" font="微软雅黑" fontSize="25" color="#ffffff" bold="true" text="换区"/>
+    <group id="n202_oof6" name="n202" xy="399,320" size="589,363" advanced="true">
+      <gearDisplay controller="c1" pages="6"/>
+    </group>
+  </displayList>
+</component>

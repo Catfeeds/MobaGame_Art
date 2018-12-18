@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="54,22" extention="ProgressBar">
+  <displayList>
+    <image id="n1" name="n1" src="qip32g" xy="0,0" size="54,22">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2" name="bar" src="qip32h" xy="0,0" size="54,22"/>
+    <text id="n3" name="title" xy="0,-2" size="54,22" font="微软雅黑" fontSize="20" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="none" bold="true" text="0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

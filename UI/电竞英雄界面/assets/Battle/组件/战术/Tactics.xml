@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n0_pirx" name="n0" xy="0,0" size="1334,750" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n1_pirx" name="n1" src="pirx12" xy="690,200" group="n4_pirx"/>
+    <text id="n2_pirx" name="n2" xy="905,210" size="198,40" group="n4_pirx" font="微软雅黑" fontSize="28" color="#cbcccc" align="center" vAlign="middle" autoSize="none" text="战术调整"/>
+    <list id="n3_pirx" name="n3" xy="734,269" size="539,364" group="n4_pirx" layout="flow_hz" overflow="scroll" lineGap="33" colGap="103" defaultItem="ui://5ewfozh6pirx17" align="center">
+      <item title="四一分推"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n4_pirx" name="n4" xy="690,200" size="617,454" collapsed="true"/>
+  </displayList>
+</component>

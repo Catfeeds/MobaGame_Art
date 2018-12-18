@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false">
+  <controller name="c1" pages="0,普通签约,1,高级签约,2,英雄补给" selected="0"/>
+  <displayList>
+    <image id="n98_f6zi" name="n98" src="f6zi19" xy="0,68" size="1334,681" aspect="true"/>
+    <component id="n35_jzbo" name="normalBtn" src="jzbom" xy="20,107" group="n96_f6zi">
+      <Button checked="true" titleFontSize="32" controller="c1" page="0"/>
+    </component>
+    <component id="n37_jzbo" name="topclassBtn" src="jzbom" xy="20,200" group="n96_f6zi">
+      <Button title="顶级签约" titleFontSize="32" controller="c1" page="1"/>
+    </component>
+    <component id="n39_jzbo" name="heroBtn" src="jzbom" xy="19,293" group="n96_f6zi">
+      <Button title="英雄补给" titleFontSize="32" controller="c1" page="2"/>
+    </component>
+    <image id="n36_jzbo" name="n36" src="ppxq2q" pkg="sgwvgm5z" xy="36,126" size="40,40" group="n96_f6zi" aspect="true"/>
+    <image id="n38_jzbo" name="n38" src="ppxq2r" pkg="sgwvgm5z" xy="36,219" size="40,40" group="n96_f6zi" aspect="true"/>
+    <image id="n40_jzbo" name="n40" src="ppxq2q" pkg="sgwvgm5z" xy="39,312" size="40,38" group="n96_f6zi" aspect="true"/>
+    <group id="n96_f6zi" name="n96" xy="19,107" size="217,263" collapsed="true"/>
+    <component id="n3_jzbo" name="n3" src="f6zix" xy="285,110">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n4_jzbo" name="n4" src="f6ziy" xy="285,110">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n74_jzbo" name="n74" src="f6ziz" xy="285,110">
+      <gearDisplay controller="c1" pages="2"/>
+    </component>
+    <component id="n93_l6cp" name="n93" src="f6ziv" xy="0,0" hideByEditor="true" visible="false"/>
+    <component id="n102_f6zi" name="n102" src="d3x61" pkg="sgwvgm5z" xy="1203,111" size="88,95">
+      <Button title=" " icon="ui://x3t9ffgnf6zi1d"/>
+    </component>
+  </displayList>
+</component>

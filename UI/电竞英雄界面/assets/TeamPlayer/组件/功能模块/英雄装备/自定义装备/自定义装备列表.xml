@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="203,98">
+  <displayList>
+    <image id="n69_h6yh" name="n69" src="h6yh40" xy="0,0" size="100,100" aspect="true" visible="false"/>
+    <component id="n70_h6yh" name="n70" src="h6yh46" xy="6,6" size="88,88" aspect="true"/>
+    <text id="n71_h6yh" name="n71" xy="95,21" size="108,31" font="微软雅黑" fontSize="20" color="#cad2dc" vAlign="middle" autoSize="none" bold="true" text="末世之刃"/>
+    <text id="n72_h6yh" name="n72" xy="96,51" size="107,28" font="微软雅黑" fontSize="18" color="#6f7984" vAlign="middle" autoSize="none" text=""/>
+  </displayList>
+</component>

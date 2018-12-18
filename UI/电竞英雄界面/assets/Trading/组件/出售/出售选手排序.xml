@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="247,500">
+  <controller name="c2" pages="0,品质,1,位置" selected="0"/>
+  <displayList>
+    <image id="n96_xbdx" name="n96" src="xbdx0" xy="0,0" size="247,419"/>
+    <image id="n97_xbdx" name="n97" src="xbdx8" xy="84,3" size="3,412"/>
+    <image id="n108_xbdx" name="n108" src="xbdx8" xy="242,140" size="3,152" rotation="90"/>
+    <image id="n109_xbdx" name="n109" src="xbdx8" xy="242,209" size="3,152" rotation="90"/>
+    <image id="n110_xbdx" name="n110" src="xbdx8" xy="242,278" size="3,152" rotation="90"/>
+    <image id="n117_xbdx" name="n117" src="xbdx8" xy="242,348" size="3,152" rotation="90"/>
+    <component id="n99_xbdx" name="n99" src="xbdx6f" pkg="sgwvgm5z" xy="8,6" size="70,106">
+      <Button checked="true" title="品质" icon="ui://tienhxpuxbdx9" selectedIcon="ui://tienhxpuxbdxa" controller="c2" page="0"/>
+    </component>
+    <component id="n100_xbdx" name="n100" src="xbdx6f" pkg="sgwvgm5z" xy="9,121" size="70,106">
+      <Button title="位置" icon="ui://tienhxpuxbdx9" selectedIcon="ui://tienhxpuxbdxa" controller="c2" page="1"/>
+    </component>
+    <component id="n102_xbdx" name="n102" src="xbdxv" xy="92,4" size="151,66" group="n107_xbdx">
+      <Button title="全部"/>
+    </component>
+    <component id="n103_xbdx" name="n103" src="xbdxu" xy="107,75" group="n107_xbdx">
+      <Button titleColor="#ccb477" icon="ui://sgwvgm5zqip321"/>
+    </component>
+    <component id="n104_xbdx" name="n104" src="xbdxu" xy="107,143" group="n107_xbdx">
+      <Button titleColor="#cb7dbc" icon="ui://sgwvgm5zqip31x"/>
+    </component>
+    <component id="n105_xbdx" name="n105" src="xbdxu" xy="107,212" group="n107_xbdx">
+      <Button titleColor="#a0acb0" icon="ui://sgwvgm5zqip31y"/>
+    </component>
+    <component id="n106_xbdx" name="n106" src="xbdxu" xy="106,283" group="n107_xbdx">
+      <Button titleColor="#b28769" icon="ui://sgwvgm5zqip31z"/>
+    </component>
+    <group id="n107_xbdx" name="n107" xy="92,4" size="152,345" advanced="true" collapsed="true">
+      <gearDisplay controller="c2" pages="0"/>
+    </group>
+    <component id="n111_xbdx" name="n111" src="xbdxv" xy="92,4" size="151,66" group="n118_xbdx">
+      <Button title="全部"/>
+    </component>
+    <component id="n112_xbdx" name="n112" src="xbdxw" xy="88,73" group="n118_xbdx">
+      <Button icon="ui://sgwvgm5zlnrz1h"/>
+    </component>
+    <component id="n113_xbdx" name="n113" src="xbdxw" xy="88,142" group="n118_xbdx">
+      <Button title="上路"/>
+    </component>
+    <component id="n114_xbdx" name="n114" src="xbdxw" xy="88,211" group="n118_xbdx">
+      <Button title="打野" icon="ui://sgwvgm5zlnrz1d"/>
+    </component>
+    <component id="n115_xbdx" name="n115" src="xbdxw" xy="88,281" group="n118_xbdx">
+      <Button title="射手" icon="ui://sgwvgm5zlnrz1g"/>
+    </component>
+    <component id="n116_xbdx" name="n116" src="xbdxw" xy="88,351" group="n118_xbdx">
+      <Button title="辅助" icon="ui://sgwvgm5zlnrz1e"/>
+    </component>
+    <group id="n118_xbdx" name="n118" xy="88,4" size="156,414" advanced="true" collapsed="true">
+      <gearDisplay controller="c2" pages="1"/>
+    </group>
+  </displayList>
+</component>

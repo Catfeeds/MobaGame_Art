@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://sgwvgm5zlnrz1q">
+  <controller name="c1" pages="0,选手,1,仓库,2,备战,3,排名,4,好友,5,联盟,6," selected="0"/>
+  <displayList>
+    <image id="n13_lnrz" name="n13" src="iex94a" xy="0,0" size="1334,750"/>
+    <image id="n24_qip3" name="n24" src="qip326" xy="0,0"/>
+    <image id="n27_qip3" name="n27" src="qip328" xy="0,0"/>
+    <component id="n0_d3x6" name="n0" src="d3x61" xy="-1,-1" size="142,69">
+      <Button title=" " icon="ui://sgwvgm5zlnrz1o"/>
+    </component>
+    <component id="n6_lnrz" name="n6" src="lnrzo" xy="0,672" group="n12_lnrz">
+      <Button checked="true" controller="c1" page="0"/>
+    </component>
+    <component id="n7_lnrz" name="n7" src="lnrzr" xy="223,672" group="n12_lnrz">
+      <Button controller="c1" page="1"/>
+    </component>
+    <component id="n8_lnrz" name="n8" src="lnrzu" xy="446,672" group="n12_lnrz">
+      <Button controller="c1" page="2"/>
+    </component>
+    <component id="n9_lnrz" name="n9" src="lnrzx" xy="669,672" group="n12_lnrz" touchable="false" grayed="true">
+      <Button controller="c1" page="3"/>
+    </component>
+    <component id="n10_lnrz" name="n10" src="lnrz10" xy="891,672" group="n12_lnrz">
+      <Button controller="c1" page="4"/>
+    </component>
+    <component id="n11_lnrz" name="n11" src="lnrz13" xy="1114,672" group="n12_lnrz" touchable="false" grayed="true">
+      <Button controller="c1" page="5"/>
+    </component>
+    <group id="n12_lnrz" name="n12" xy="0,672" size="1337,78" advanced="true" collapsed="true"/>
+    <component id="n16_lnrz" name="n16" src="lnrz1r" xy="840,17"/>
+    <component id="n17_lnrz" name="n17" src="lnrz1r" xy="998,17"/>
+    <image id="n18_lnrz" name="n18" src="ppxq2q" xy="984,15" size="34,34"/>
+    <image id="n19_lnrz" name="n19" src="ppxq2r" xy="830,15" size="34,34"/>
+    <text id="n25_qip3" name="n25" xy="131,12" size="167,50" font="微软雅黑" fontSize="35" color="#1d5e91" align="center" vAlign="middle" leading="0" autoSize="none" bold="true" text="道具商店"/>
+    <text id="n28_hngs" name="n28" xy="297,25" size="316,31" font="微软雅黑" fontSize="20" color="#ffffff" vAlign="middle" leading="0" autoSize="none" bold="true" text="BACKPACK"/>
+  </displayList>
+</component>

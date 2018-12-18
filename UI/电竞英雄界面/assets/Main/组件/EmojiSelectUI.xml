@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="540,168">
+  <displayList>
+    <graph id="n0_g902" name="n0" xy="0,0" size="540,168" type="rect" lineColor="#ffcccccc" fillColor="#ff000000" corner="25"/>
+    <list id="n1_g902" name="n1" xy="10,4" size="518,156" layout="flow_hz" lineGap="15" colGap="15" defaultItem="ui://y6zsaagqt4vp5t" align="center" vAlign="middle">
+      <item icon="ui://y6zsaagqg9025f"/>
+      <item icon="ui://y6zsaagqg9025e"/>
+      <item icon="ui://y6zsaagqg9025d"/>
+      <item icon="ui://y6zsaagqg9025c"/>
+      <item icon="ui://y6zsaagqg9025b"/>
+      <item icon="ui://y6zsaagqg9025a"/>
+      <item icon="ui://y6zsaagqg90259"/>
+      <item icon="ui://y6zsaagqg90258"/>
+      <item icon="ui://y6zsaagqg90257"/>
+      <item icon="ui://y6zsaagqg90256"/>
+      <item icon="ui://y6zsaagqg90255"/>
+      <item icon="ui://y6zsaagqg90254"/>
+      <item icon="ui://y6zsaagqg90253"/>
+      <item icon="ui://y6zsaagqg90252"/>
+    </list>
+  </displayList>
+</component>

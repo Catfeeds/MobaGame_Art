@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="158,221">
+  <displayList>
+    <component id="n0_ied4" name="n0" src="ied42s" xy="338,-122" pivot="0,1" group="n3_vqe4"/>
+    <component id="n1_ied4" name="n1" src="ied42t" xy="338,-120" pivot="1,0.4" group="n3_vqe4"/>
+    <group id="n3_vqe4" name="n3" xy="338,-122" size="158,223" visible="false" advanced="true"/>
+  </displayList>
+  <transition name="t0" autoPlayRepeat="10">
+    <item time="0" type="XY" target="n1_ied4" tween="true" startValue="0,0" endValue="0,0" duration="6"/>
+    <item time="0" type="XY" target="n0_ied4" tween="true" startValue="0,0" endValue="0,0" duration="6"/>
+    <item time="2" type="Alpha" target="n0_ied4" tween="true" startValue="1" endValue="0" duration="17"/>
+    <item time="5" type="Alpha" target="n1_ied4" tween="true" startValue="1" endValue="0" duration="14"/>
+    <item time="6" type="XY" target="n1_ied4" tween="true" startValue="0,0" endValue="0,-14" duration="2"/>
+    <item time="6" type="XY" target="n0_ied4" tween="true" startValue="0,0" endValue="0,26" duration="2"/>
+    <item time="8" type="XY" target="n1_ied4" tween="true" startValue="0,-14" endValue="-1,-29" duration="11"/>
+    <item time="8" type="XY" target="n0_ied4" tween="true" startValue="0,26" endValue="0,23" duration="11"/>
+    <item time="19" type="Alpha" target="n0_ied4" tween="true" startValue="0" endValue="1" duration="1"/>
+    <item time="19" type="Alpha" target="n1_ied4" tween="true" startValue="0" endValue="1" duration="1"/>
+    <item time="19" type="Visible" target="n3_vqe4" value="false"/>
+    <item time="19" type="XY" target="n0_ied4" tween="true" startValue="0,23" endValue="0,0" duration="1"/>
+    <item time="19" type="XY" target="n1_ied4" tween="true" startValue="-1,-29" endValue="0,0" duration="1"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="XY" target="n3_vqe4" tween="true" startValue="519,-293" endValue="0,0" duration="9"/>
+    <item time="1" type="Visible" target="n3_vqe4" value="true"/>
+    <item time="9" type="XY" target="n3_vqe4" tween="true" startValue="0,0"/>
+  </transition>
+</component>

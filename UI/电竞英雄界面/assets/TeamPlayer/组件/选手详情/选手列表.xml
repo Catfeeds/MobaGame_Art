@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="701,655" overflow="hidden" opaque="false">
+  <controller name="c1" pages="0,位置,1,品质" selected="0"/>
+  <controller name="c2" pages="4,全部,0,S,1,A,2,B,3,C" selected="0"/>
+  <controller name="c3" pages="5,全部,0,上路,1,中路,2,下路,3,辅助,4,打野" selected="0"/>
+  <displayList>
+    <image id="n348_h6yh" name="n348" src="h6yh1b" xy="-42,1" size="681,46" group="n363_h6yh"/>
+    <image id="n357_h6yh" name="n357" src="qip323" pkg="sgwvgm5z" xy="63,47" size="5,607" group="n363_h6yh"/>
+    <group id="n363_h6yh" name="n363" xy="-42,1" size="680,654" collapsed="true"/>
+    <text id="n349_h6yh" name="n349" xy="194,4" size="212,44" font="微软雅黑" fontSize="30" color="#ffffff" ubb="true" bold="true" text="拥有选手：999"/>
+    <list id="n352_h6yh" name="n352" xy="71,49" size="656,607" layout="flow_hz" overflow="scroll" lineGap="2" colGap="6" defaultItem="ui://sgwvgm5zied46x">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n354_h6yh" name="n354" src="d3x61" pkg="sgwvgm5z" xy="7,613" size="43,33" aspect="true">
+      <Button title=" " icon="ui://sgwvgm5zvy9j5f"/>
+    </component>
+    <image id="n355_h6yh" name="n355" src="vy9j14" xy="53,604" size="1,47" rotation="90"/>
+    <graph id="n356_h6yh" name="n356" xy="58,553" size="108,102" group="n361_h6yh" type="rect" lineColor="#ff0d397f" fillColor="#ff090f1a"/>
+    <component id="n358_h6yh" name="n358" src="d3x61" pkg="sgwvgm5z" xy="59,554" size="106,49" group="n361_h6yh">
+      <Button title="位置"/>
+    </component>
+    <image id="n359_h6yh" name="n359" src="vy9j14" xy="152,604" size="1,77" group="n361_h6yh" rotation="90"/>
+    <component id="n360_h6yh" name="n360" src="d3x61" pkg="sgwvgm5z" xy="59,605" size="106,49" group="n361_h6yh">
+      <Button title="品质"/>
+    </component>
+    <group id="n361_h6yh" name="n361" xy="58,553" size="109,128" visible="false" advanced="true"/>
+    <image id="n362_h6yh" name="n362" src="h6yh1n" xy="13,60" group="n373_h6yh"/>
+    <image id="n364_h6yh" name="n364" src="vy9j14" xy="53,130" size="1,47" group="n373_h6yh" rotation="90"/>
+    <image id="n365_h6yh" name="n365" src="qip321" pkg="sgwvgm5z" xy="9,225" size="41,41" group="n373_h6yh" aspect="true"/>
+    <image id="n366_h6yh" name="n366" src="qip31x" pkg="sgwvgm5z" xy="9,301" size="41,41" group="n373_h6yh" aspect="true"/>
+    <image id="n367_h6yh" name="n367" src="qip31y" pkg="sgwvgm5z" xy="9,377" size="41,41" group="n373_h6yh" aspect="true"/>
+    <image id="n368_h6yh" name="n368" src="qip31z" pkg="sgwvgm5z" xy="9,454" size="41,41" group="n373_h6yh" aspect="true"/>
+    <text id="n389_ruoh" name="n389" xy="3,134" size="51,70" group="n373_h6yh" font="微软雅黑" fontSize="25" color="#ffffff" align="center" vAlign="middle" leading="-6" autoSize="none" text="全&#xA;部"/>
+    <component id="n369_h6yh" name="n369" src="h6yh6j" pkg="sgwvgm5z" xy="56,207" size="76,55" group="n373_h6yh" rotation="90">
+      <Button title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c2" page="0"/>
+    </component>
+    <component id="n370_h6yh" name="n370" src="h6yh6j" pkg="sgwvgm5z" xy="56,283" size="76,55" group="n373_h6yh" rotation="90">
+      <Button title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c2" page="1"/>
+    </component>
+    <component id="n371_h6yh" name="n371" src="h6yh6j" pkg="sgwvgm5z" xy="56,359" size="76,55" group="n373_h6yh" rotation="90">
+      <Button title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c2" page="2"/>
+    </component>
+    <component id="n372_h6yh" name="n372" src="h6yh6j" pkg="sgwvgm5z" xy="56,435" size="76,55" group="n373_h6yh" rotation="90">
+      <Button title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c2" page="3"/>
+    </component>
+    <component id="n388_ruoh" name="n388" src="h6yh6j" pkg="sgwvgm5z" xy="56,131" size="76,55" group="n373_h6yh" rotation="90">
+      <Button checked="true" title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c2" page="4"/>
+    </component>
+    <group id="n373_h6yh" name="n373" xy="3,60" size="129,435" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <image id="n375_h6yh" name="n375" src="h6yh1o" xy="13,63" group="n386_h6yh"/>
+    <image id="n374_h6yh" name="n374" src="vy9j14" xy="51,134" size="1,47" group="n386_h6yh" rotation="90"/>
+    <image id="n377_h6yh" name="n377" src="lnrz1h" pkg="sgwvgm5z" xy="6,206" size="43,44" group="n386_h6yh" aspect="true"/>
+    <image id="n378_h6yh" name="n378" src="lnrz1f" pkg="sgwvgm5z" xy="6,268" size="43,48" group="n386_h6yh" aspect="true"/>
+    <image id="n379_h6yh" name="n379" src="lnrz1g" pkg="sgwvgm5z" xy="6,398" size="43,42" group="n386_h6yh" aspect="true"/>
+    <image id="n380_h6yh" name="n380" src="lnrz1e" pkg="sgwvgm5z" xy="9,461" size="37,45" group="n386_h6yh" aspect="true"/>
+    <image id="n381_h6yh" name="n381" src="lnrz1d" pkg="sgwvgm5z" xy="8,337" size="38,38" group="n386_h6yh" aspect="true"/>
+    <text id="n390_ruoh" name="n390" xy="2,128" size="53,78" group="n386_h6yh" font="微软雅黑" fontSize="24" color="#ffffff" align="center" vAlign="middle" leading="-5" autoSize="none" text="全&#xA;部"/>
+    <component id="n376_h6yh" name="n376" src="h6yh6j" pkg="sgwvgm5z" xy="55,198" size="63,55" group="n386_h6yh" rotation="90">
+      <Button title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c3" page="1"/>
+    </component>
+    <component id="n382_h6yh" name="n382" src="h6yh6j" pkg="sgwvgm5z" xy="55,261" size="63,55" group="n386_h6yh" rotation="90">
+      <Button title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c3" page="0"/>
+    </component>
+    <component id="n383_h6yh" name="n383" src="h6yh6j" pkg="sgwvgm5z" xy="55,325" size="63,55" group="n386_h6yh" rotation="90">
+      <Button title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c3" page="4"/>
+    </component>
+    <component id="n384_h6yh" name="n384" src="h6yh6j" pkg="sgwvgm5z" xy="55,389" size="63,55" group="n386_h6yh" rotation="90">
+      <Button title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c3" page="2"/>
+    </component>
+    <component id="n385_h6yh" name="n385" src="h6yh6j" pkg="sgwvgm5z" xy="55,453" size="63,55" group="n386_h6yh" rotation="90">
+      <Button title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c3" page="3"/>
+    </component>
+    <component id="n392_ruoh" name="n392" src="h6yh6j" pkg="sgwvgm5z" xy="55,135" size="63,55" group="n386_h6yh" rotation="90">
+      <Button checked="true" title=" " selectedIcon="ui://sgwvgm5zjx5k4x" controller="c3" page="5"/>
+    </component>
+    <group id="n386_h6yh" name="n386" xy="2,63" size="116,445" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+  </displayList>
+</component>

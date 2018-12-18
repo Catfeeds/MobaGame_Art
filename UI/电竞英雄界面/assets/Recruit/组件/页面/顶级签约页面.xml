@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1006,590" opaque="false">
+  <displayList>
+    <image id="n13_jzbo" name="n13" src="jzboe" xy="0,0" size="1006,251"/>
+    <image id="n86_f6zi" name="n86" src="f6zi14" xy="-6,266" size="508,335" group="n89_f6zi"/>
+    <image id="n87_f6zi" name="n87" src="f6zi13" xy="-5,364" group="n89_f6zi"/>
+    <image id="n88_f6zi" name="n88" src="f6zi13" xy="486,364" group="n89_f6zi"/>
+    <image id="n17_jzbo" name="n17" src="jzboi" xy="122,331" group="n89_f6zi"/>
+    <text id="n47_jzbo" name="n47" xy="140,278" size="210,41" group="n89_f6zi" font="微软雅黑" fontSize="31" color="#ffffff" align="center" autoSize="none" bold="true" text="招募一次"/>
+    <component id="n90_f6zi" name="n90" src="f6zi18" xy="104,504" group="n89_f6zi">
+      <Button title="免费"/>
+    </component>
+    <group id="n89_f6zi" name="n89" xy="-6,266" size="508,335" collapsed="true"/>
+    <image id="n91_f6zi" name="n91" src="f6zi14" xy="506,265" size="508,335" group="n94_f6zi"/>
+    <image id="n92_f6zi" name="n92" src="f6zi13" xy="506,363" group="n94_f6zi"/>
+    <image id="n93_f6zi" name="n93" src="f6zi13" xy="998,363" group="n94_f6zi"/>
+    <image id="n18_jzbo" name="n18" src="jzboj" xy="623,326" group="n94_f6zi"/>
+    <image id="n46_jzbo" name="n46" src="jzboh" xy="511,273" group="n94_f6zi"/>
+    <text id="n48_jzbo" name="n48" xy="654,279" size="210,41" group="n94_f6zi" font="微软雅黑" fontSize="31" color="#ffffff" align="center" autoSize="none" bold="true" text="招募十次"/>
+    <text id="n49_jzbo" name="n49" xy="512,310" size="61,41" group="n94_f6zi" rotation="-45" font="微软雅黑" fontSize="28" color="#ffffff" bold="true" text="九折"/>
+    <component id="n95_f6zi" name="n95" src="f6zi18" xy="623,503" group="n94_f6zi"/>
+    <group id="n94_f6zi" name="n94" xy="506,265" size="508,335" collapsed="true"/>
+    <text id="n96_f6zi" name="n96" xy="133,86" size="42,37" font="微软雅黑" fontSize="25" color="#feea66" align="center" vAlign="middle" autoSize="none" bold="true" text="10"/>
+  </displayList>
+</component>

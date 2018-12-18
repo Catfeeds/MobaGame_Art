@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" overflow="hidden" opaque="false" designImage="ui://41vqeinnh6yh1r" designImageAlpha="0">
+  <controller name="c1" pages="0,选手信息,1,选手技能,2,选手外设,3,选手装备" selected="2"/>
+  <displayList>
+    <image id="n186_vy9j" name="n186" src="vy9j1" xy="0,69" size="1646,681" aspect="true"/>
+    <component id="n189_vy9j" name="n189" src="vy9j17" xy="689,71"/>
+    <component id="n303_vy9j" name="n303" src="d3x61" pkg="sgwvgm5z" xy="1236,336" size="100,146">
+      <Button title=" " icon="ui://41vqeinnvy9j12"/>
+    </component>
+    <component id="n448_ruoh" name="n448" src="d3x61" pkg="sgwvgm5z" xy="0,-100" size="149,67">
+      <Button title=" "/>
+    </component>
+    <component id="n348_h6yh" name="n348" src="h6yh1q" xy="2,97" size="729,655"/>
+    <component id="n342_vy9j" name="n342" src="d3x61" pkg="sgwvgm5z" xy="629,1000" size="65,77" group="n347_vy9j" grayed="true">
+      <Button title=" " icon="ui://41vqeinnvy9ja"/>
+    </component>
+    <component id="n343_vy9j" name="n343" src="d3x61" pkg="sgwvgm5z" xy="629,1094" size="65,85" group="n347_vy9j" grayed="true">
+      <Button title=" " icon="ui://41vqeinnvy9jb"/>
+    </component>
+    <component id="n344_vy9j" name="n344" src="d3x61" pkg="sgwvgm5z" xy="622,1196" size="72,90" group="n347_vy9j" grayed="true">
+      <Button title=" " icon="ui://41vqeinnvy9jd"/>
+    </component>
+    <component id="n345_vy9j" name="n345" src="d3x61" pkg="sgwvgm5z" xy="629,1299" size="65,81" group="n347_vy9j" grayed="true">
+      <Button title=" " icon="ui://41vqeinnvy9jg"/>
+    </component>
+    <group id="n347_vy9j" name="n347" xy="622,1000" size="72,380" advanced="true" collapsed="true"/>
+    <image id="n366_h6yh" name="n366" src="h6yh21" xy="41,1017" group="n375_h6yh" scale="1,-1"/>
+    <image id="n367_h6yh" name="n367" src="vy9j14" xy="112,1020" size="2,112" group="n375_h6yh" rotation="90"/>
+    <image id="n373_h6yh" name="n373" src="h6yh22" xy="0,1544" group="n375_h6yh"/>
+    <image id="n369_h6yh" name="n369" src="h6yh21" xy="41,1663" group="n375_h6yh"/>
+    <image id="n370_h6yh" name="n370" src="qip323" pkg="sgwvgm5z" xy="111,1000" size="5,680" group="n375_h6yh"/>
+    <list id="n374_h6yh" name="n374" xy="5,1024" size="102,632" group="n375_h6yh" overflow="scroll" lineGap="5" defaultItem="ui://41vqeinnh6yh20">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n375_h6yh" name="n375" xy="0,1000" size="116,681" advanced="true"/>
+    <graph id="n382_h6yh" name="n382" xy="1280,1000" size="4,680" group="n383_h6yh" type="rect" lineColor="#ff275286" fillColor="#ff275285"/>
+    <component id="n378_h6yh" name="n378" src="h6yh2g" xy="1238,1017" group="n383_h6yh">
+      <Button controller="c1" page="0"/>
+    </component>
+    <component id="n379_h6yh" name="n379" src="h6yh2g" xy="1237,1116" group="n383_h6yh">
+      <Button title="选手技能" controller="c1" page="1"/>
+    </component>
+    <component id="n380_h6yh" name="n380" src="h6yh2g" xy="1238,1209" group="n383_h6yh">
+      <Button checked="true" title="选手外设" controller="c1" page="2"/>
+    </component>
+    <component id="n381_h6yh" name="n381" src="h6yh2g" xy="1238,1302" group="n383_h6yh">
+      <Button title="英雄装备" controller="c1" page="3"/>
+    </component>
+    <group id="n383_h6yh" name="n383" xy="1237,1000" size="92,680" advanced="true"/>
+    <image id="n376_h6yh" name="n376" src="h6yh25" xy="700,1000" size="527,679" group="n447_h6yh"/>
+    <component id="n377_h6yh" name="n377" src="h6yh26" xy="700,1000" group="n447_h6yh">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n407_h6yh" name="n407" src="h6yh2q" xy="700,1000" group="n447_h6yh">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n430_h6yh" name="n430" src="h6yh31" xy="700,1000" group="n447_h6yh">
+      <gearDisplay controller="c1" pages="2"/>
+    </component>
+    <component id="n445_h6yh" name="n445" src="h6yh3f" xy="700,1000" group="n447_h6yh">
+      <gearDisplay controller="c1" pages="3"/>
+    </component>
+    <group id="n447_h6yh" name="n447" xy="700,1000" size="527,679" advanced="true"/>
+    <component id="n449_ruoh" name="n449" src="h6yh3m" xy="0,0" group="n450_ruoh" hideByEditor="true" visible="false"/>
+    <component id="n451_ruoh" name="n451" src="h6yh3x" xy="0,0" group="n450_ruoh" hideByEditor="true" visible="false"/>
+    <component id="n452_ruoh" name="n452" src="ruoh4l" xy="0,0" group="n450_ruoh" hideByEditor="true" visible="false"/>
+    <component id="n453_6z19" name="n453" src="h6yh3q" xy="0,0" group="n450_ruoh" hideByEditor="true" visible="false"/>
+    <group id="n450_ruoh" name="n450" xy="0,0" size="1334,750" locked="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n383_h6yh" tween="true" startValue="1237,1000" endValue="1237,69" duration="12"/>
+    <item time="0" type="XY" target="n348_h6yh" tween="true" startValue="2,97" endValue="-800,97" duration="12"/>
+    <item time="0" type="XY" target="n189_vy9j" tween="true" startValue="689,71" endValue="78,71" duration="12"/>
+    <item time="0" type="XY" target="n303_vy9j" tween="true" startValue="1236,336" endValue="1500,336" duration="12"/>
+    <item time="0" type="XY" target="n448_ruoh" tween="true" startValue="-0.66,-100" endValue="0,0" duration="2"/>
+    <item time="0" type="XY" target="n186_vy9j" tween="true" startValue="0,69" endValue="-312,69" duration="12"/>
+    <item time="0" type="XY" target="n447_h6yh" tween="true" startValue="700,1000" endValue="700,71" duration="12"/>
+    <item time="0" type="XY" target="n375_h6yh" tween="true" startValue="0,1000" endValue="0,69" duration="12"/>
+    <item time="0" type="XY" target="n347_vy9j" tween="true" startValue="622,1000" endValue="622,359" duration="12"/>
+  </transition>
+</component>

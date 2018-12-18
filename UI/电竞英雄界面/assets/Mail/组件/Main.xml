@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://5nwpbiz5qip38">
+  <displayList>
+    <graph id="n11_qip3" name="n11" xy="0,69" size="1334,681" alpha="0.5" type="rect" lineColor="#ff21415f" fillColor="#ff21415f"/>
+    <image id="n13_qip3" name="n13" src="qip323" pkg="sgwvgm5z" xy="212,69" size="5,681"/>
+    <image id="n14_qip3" name="n14" src="qip32n" pkg="sgwvgm5z" xy="711,134" group="n16_qip3"/>
+    <text id="n15_qip3" name="n15" xy="659,385" size="285,56" group="n16_qip3" font="微软雅黑" fontSize="40" color="#546b7d" align="center" vAlign="middle" leading="0" bold="true" text="您还没有邮件！"/>
+    <group id="n16_qip3" name="n16" xy="659,134" size="285,307" visible="false" advanced="true" collapsed="true"/>
+    <component id="n12_qip3" name="n12" src="d3x68" pkg="sgwvgm5z" xy="5,113">
+      <Button checked="true" title="系统邮件" page="0"/>
+    </component>
+    <list id="n3_oof6" name="n3" xy="245,101" size="1054,502" hideByEditor="true" overflow="scroll" lineGap="22" defaultItem="ui://5nwpbiz5oof61">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_oof6" name="n5" src="d3x61" pkg="sgwvgm5z" xy="1116,664" size="194,69">
+      <Button title="一键读取" icon="ui://sgwvgm5zoof6g"/>
+    </component>
+    <component id="n6_oof6" name="n6" src="d3x61" pkg="sgwvgm5z" xy="934,676" size="160,57">
+      <Button title="删除已读" icon="ui://sgwvgm5zoof6h"/>
+    </component>
+    <graph id="n9_oof6" name="n9" xy="0,0" size="1334,750" group="n10_oof6" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <component id="n8_oof6" name="n8" src="oof62" xy="283,115" size="768,534" group="n10_oof6"/>
+    <group id="n10_oof6" name="n10" xy="0,0" size="1334,750" hideByEditor="true" visible="false" advanced="true" collapsed="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="70,70" mask="n1_qip3">
+  <displayList>
+    <loader id="n0_qip3" name="n0" xy="0,0" size="70,70" url="ui://5ewfozh6qip35" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <graph id="n1_qip3" name="n1" xy="0,0" size="70,70" type="eclipse" lineSize="0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+  </displayList>
+</component>

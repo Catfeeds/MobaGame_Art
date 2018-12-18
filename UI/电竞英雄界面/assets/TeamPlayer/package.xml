@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="41vqeinn" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="wb4k0" name="Main.xml" path="/组件/" exported="true"/>
+    <image id="vy9j1" name="背景2.jpg.png" path="/资源/通用/"/>
+    <image id="vy9j3" name="角色底部.png" path="/资源/通用/"/>
+    <component id="vy9j6" name="角色球队Logo.xml" path="/组件/选手详情/"/>
+    <image id="vy9j7" name="小剑.png" path="/资源/"/>
+    <component id="vy9j8" name="球队Logo.xml" path="/组件/选手详情/"/>
+    <image id="vy9j9" name="战队图标 (3).png" path="/资源/"/>
+    <image id="vy9ja" name="评论.png" path="/资源/按钮/"/>
+    <image id="vy9jb" name="锁定 .png" path="/资源/按钮/"/>
+    <image id="vy9jc" name="锁定开 .png" path="/资源/按钮/"/>
+    <image id="vy9jd" name="谈判.png" path="/资源/按钮/"/>
+    <image id="vy9jg" name="走势.png" path="/资源/按钮/"/>
+    <image id="vy9jk" name="技能等级底部.png" path="/资源/"/>
+    <image id="vy9jm" name="技能.png" path="/资源/按钮/"/>
+    <image id="vy9jn" name="天赋.png" path="/资源/按钮/"/>
+    <image id="vy9jo" name="英雄.png" path="/资源/按钮/"/>
+    <image id="vy9jq" name="绿.png" path="/资源/"/>
+    <image id="vy9jr" name="10810.png" path="/资源/"/>
+    <image id="vy9jt" name="S.png" path="/资源/"/>
+    <image id="vy9jv" name="1007.png" path="/资源/"/>
+    <image id="vy9jw" name="位置B 打野.png" path="/资源/"/>
+    <image id="vy9j12" name="详细.png" path="/资源/按钮/"/>
+    <image id="vy9j14" name="分割线.png" path="/资源/通用/"/>
+    <component id="vy9j17" name="选手详情页面.xml" path="/组件/选手详情/"/>
+    <image id="h6yh18" name="选手列表 1.jpg" path="/资源/"/>
+    <image id="h6yh19" name="选手名称 框架.png" path="/资源/通用/"/>
+    <image id="h6yh1b" name="标题栏.png" path="/资源/通用/"/>
+    <image id="h6yh1d" name="选手列表 卡牌 金 256.png" path="/资源/"/>
+    <image id="h6yh1g" name="已上阵 2.png" path="/资源/通用/"/>
+    <image id="h6yh1h" name="六点六.png" path="/资源/"/>
+    <image id="h6yh1j" name="选手列表 卡牌 金 2.png" path="/资源/"/>
+    <image id="h6yh1k" name="选手列表 卡牌 高亮.png" path="/资源/通用/" scale="9grid" scale9grid="12,12,10,9"/>
+    <image id="h6yh1n" name="品 质.png" path="/资源/通用/"/>
+    <image id="h6yh1o" name="位 置.png" path="/资源/通用/"/>
+    <image id="h6yh1p" name="选手列表 3.jpg" path="/资源/"/>
+    <component id="h6yh1q" name="选手列表.xml" path="/组件/选手详情/"/>
+    <image id="h6yh1r" name="选手信息 1.jpg" path="/资源/"/>
+    <image id="h6yh1w" name="head_2.png" path="/资源/选手品质/" exported="true"/>
+    <image id="h6yh1x" name="head_1.png" path="/资源/选手品质/" exported="true"/>
+    <image id="h6yh1y" name="head_3.png" path="/资源/选手品质/" exported="true"/>
+    <image id="h6yh1z" name="head_4.png" path="/资源/选手品质/" exported="true"/>
+    <component id="h6yh20" name="选手头像列表组件.xml" path="/组件/选手头像/"/>
+    <image id="h6yh21" name="三角.png" path="/资源/通用/"/>
+    <image id="h6yh22" name="选手列表头像底部.png" path="/资源/通用/"/>
+    <image id="h6yh23" name="选手列表 1.1.jpg" path="/资源/"/>
+    <image id="h6yh24" name="选手列表 1.5.jpg" path="/资源/"/>
+    <image id="h6yh25" name="选手信息 底部.png" path="/资源/通用/" scale="9grid" scale9grid="20,85,80,151"/>
+    <component id="h6yh26" name="选手信息页面.xml" path="/组件/功能模块/选手信息/"/>
+    <image id="h6yh27" name="方块按钮.png" path="/资源/通用/"/>
+    <image id="h6yh28" name="感叹号.png" path="/资源/通用/"/>
+    <image id="h6yh29" name="属性ui蓝底 2 .png" path="/资源/通用/"/>
+    <component id="h6yh2a" name="有底框属性列表.xml" path="/组件/功能模块/"/>
+    <image id="h6yh2b" name="105.jpg" path="/资源/"/>
+    <image id="h6yh2c" name="选手信息 蓝色半透明底部.png" path="/资源/通用/"/>
+    <image id="h6yh2d" name="选手信息 英雄头像框架 2.png" path="/资源/通用/"/>
+    <image id="h6yh2e" name="右侧栏未选中.png" path="/资源/通用/"/>
+    <image id="h6yh2f" name="右侧栏选中.png" path="/资源/通用/"/>
+    <component id="h6yh2g" name="右边标签页.xml" path="/组件/功能模块/"/>
+    <image id="h6yh2h" name="选手信息 2.jpg" path="/资源/"/>
+    <image id="h6yh2i" name="skill_4.png" path="/资源/技能品质/" exported="true"/>
+    <image id="h6yh2j" name="skill_2.png" path="/资源/技能品质/" exported="true"/>
+    <image id="h6yh2k" name="skill_1.png" path="/资源/技能品质/" exported="true"/>
+    <image id="h6yh2l" name="skill_3.png" path="/资源/技能品质/" exported="true"/>
+    <image id="h6yh2m" name="升级.png" path="/资源/通用/"/>
+    <component id="h6yh2n" name="技能按钮.xml" path="/组件/功能模块/选手技能/"/>
+    <image id="h6yh2o" name="选手信息 蓝色半透明标题栏.png" path="/资源/通用/"/>
+    <component id="h6yh2p" name="技能名字小按钮.xml" path="/组件/功能模块/选手技能/"/>
+    <component id="h6yh2q" name="选手技能页面.xml" path="/组件/功能模块/选手技能/"/>
+    <image id="h6yh2r" name="选手信息 3.jpg" path="/资源/"/>
+    <image id="h6yh2s" name="纹饰.png" path="/资源/通用/"/>
+    <image id="h6yh2t" name="外设 按钮 .png" path="/资源/按钮/"/>
+    <image id="h6yh2u" name="外设框架 键盘.png" path="/资源/通用/"/>
+    <image id="h6yh2v" name="外设框架 鼠标.png" path="/资源/通用/"/>
+    <image id="h6yh2w" name="外设框架 显示器.png" path="/资源/通用/"/>
+    <image id="h6yh2x" name="外设框架 主机.png" path="/资源/通用/"/>
+    <image id="h6yh2y" name="键盘 A级 1.png" path="/资源/"/>
+    <image id="h6yh2z" name="物品框架 红.png" path="/资源/"/>
+    <component id="h6yh30" name="外设和英雄列表.xml" path="/组件/功能模块/"/>
+    <component id="h6yh31" name="选手外设页面.xml" path="/组件/功能模块/选手外设/"/>
+    <image id="h6yh33" name="选手信息 4.jpg" path="/资源/"/>
+    <image id="h6yh34" name="英雄池装备 (1).png" path="/资源/通用/"/>
+    <image id="h6yh35" name="英雄池装备 (2).png" path="/资源/通用/"/>
+    <image id="h6yh36" name="英雄池装备 (3).png" path="/资源/通用/"/>
+    <image id="h6yh37" name="英雄池装备 (4).png" path="/资源/通用/"/>
+    <image id="h6yh38" name="英雄池装备 (5).png" path="/资源/通用/"/>
+    <image id="h6yh39" name="英雄池装备 (6).png" path="/资源/通用/"/>
+    <image id="h6yh3b" name="英雄池 外框架.png" path="/资源/通用/"/>
+    <component id="h6yh3c" name="英雄头像组件.xml" path="/组件/功能模块/选手英雄/"/>
+    <image id="h6yh3d" name="英雄池 内框架.png" path="/资源/通用/"/>
+    <component id="h6yh3e" name="英雄头像.xml" path="/组件/功能模块/选手英雄/"/>
+    <component id="h6yh3f" name="选手英雄页面.xml" path="/组件/功能模块/选手英雄/"/>
+    <image id="h6yh3g" name="选手信息 5.jpg" path="/资源/"/>
+    <image id="h6yh3h" name="选手信息 技能栏空白.png" path="/资源/按钮/"/>
+    <component id="h6yh3m" name="技能弹框.xml" path="/组件/功能模块/选手技能/"/>
+    <image id="h6yh3n" name="选手信息 技能弹窗.jpg" path="/资源/"/>
+    <component id="h6yh3o" name="技能名字大按钮.xml" path="/组件/功能模块/选手技能/"/>
+    <image id="h6yh3p" name="符号 提示.png" path="/资源/通用/"/>
+    <component id="h6yh3q" name="外设弹框.xml" path="/组件/功能模块/选手外设/"/>
+    <image id="h6yh3r" name="选手信息 外设弹窗.jpg" path="/资源/"/>
+    <component id="h6yh3s" name="无底框属性列表.xml" path="/组件/功能模块/"/>
+    <image id="h6yh3t" name="属性ui蓝底 .png" path="/资源/通用/"/>
+    <image id="h6yh3v" name="选手信息 英雄池弹窗.jpg" path="/资源/"/>
+    <component id="h6yh3x" name="英雄装备弹框.xml" path="/组件/功能模块/英雄装备/"/>
+    <image id="h6yh3y" name="选手信息 英雄池装备弹窗.jpg" path="/资源/"/>
+    <component id="h6yh3z" name="装备属性列表.xml" path="/组件/功能模块/英雄装备/装备属性/"/>
+    <image id="h6yh40" name="技能框架 选中.png" path="/资源/通用/"/>
+    <component id="h6yh43" name="自定义装备列表.xml" path="/组件/功能模块/英雄装备/自定义装备/"/>
+    <image id="h6yh44" name="英雄池 装备选择状态.png" path="/资源/通用/" exported="true" scale9grid="22,22,44,44"/>
+    <component id="h6yh45" name="装备按钮.xml" path="/组件/功能模块/英雄装备/"/>
+    <component id="h6yh46" name="装备头像.xml" path="/组件/功能模块/英雄装备/"/>
+    <image id="h6yh47" name="选手信息 英雄池装备推荐弹窗 2.jpg" path="/资源/"/>
+    <component id="h6yh49" name="推荐装备组件.xml" path="/组件/功能模块/英雄装备/推荐装备/"/>
+    <component id="h6yh4a" name="推荐装备按钮.xml" path="/组件/功能模块/英雄装备/推荐装备/"/>
+    <component id="ruoh4b" name="常规属性列表.xml" path="/组件/功能模块/"/>
+    <image id="ruoh4c" name="attr_7.png" path="/资源/属性/" exported="true"/>
+    <image id="ruoh4d" name="attr_6.png" path="/资源/属性/" exported="true"/>
+    <image id="ruoh4e" name="attr_3.png" path="/资源/属性/" exported="true"/>
+    <image id="ruoh4f" name="attr_8.png" path="/资源/属性/" exported="true"/>
+    <image id="ruoh4g" name="attr_5.png" path="/资源/属性/" exported="true"/>
+    <image id="ruoh4h" name="attr_4.png" path="/资源/属性/" exported="true"/>
+    <image id="ruoh4i" name="attr_2.png" path="/资源/属性/" exported="true"/>
+    <image id="ruoh4j" name="attr_1.png" path="/资源/属性/" exported="true"/>
+    <component id="ruoh4l" name="选手英雄弹框.xml" path="/组件/功能模块/选手英雄/"/>
+    <component id="ruoh4m" name="无低框常规属性列表.xml" path="/组件/功能模块/"/>
+    <component id="6z194n" name="外设列表.xml" path="/组件/功能模块/选手外设/"/>
+    <image id="diw74o" name="已装备.png" path="/资源/通用/"/>
+  </resources>
+  <publish name="TeamPlayer" path="E:\Client\trunk\Assets\StreamingFairyAssets\TeamPlayer" excluded="vy9jv,h6yh2b,vy9jr,vy9jt,vy9jk,h6yh2y,h6yh1h,vy9jq,vy9jw,h6yh2z,vy9j7,h6yh18,h6yh23,h6yh24,h6yh1p,h6yh1j,h6yh1d,h6yh1r,h6yh2h,h6yh2r,h6yh33,h6yh3g,vy9j9,h6yh3n,h6yh3r,h6yh3v,h6yh3y,h6yh47"/>
+</packageDescription>

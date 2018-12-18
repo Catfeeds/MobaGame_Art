@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4byggrcv" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="iex90" name="Main.xml" path="/组件/" exported="true"/>
+    <image id="iex91" name="750p 通用界面.jpg" path="/资源/"/>
+    <image id="iex92" name="红.png" path="/资源/"/>
+    <image id="iex93" name="紫.png" path="/资源/"/>
+    <image id="iex94" name="金.png" path="/资源/"/>
+    <image id="iex95" name="蓝.png" path="/资源/"/>
+    <image id="iex96" name="绿.png" path="/资源/"/>
+    <component id="iex99" name="TaskRow.xml" path="/组件/"/>
+    <component id="pygea" name="active_progressBar.xml" path="/组件/"/>
+    <component id="pygeb" name="Award_Item.xml" path="/组件/"/>
+    <image id="pygec" name="红 b.png" path="/资源/"/>
+    <image id="pyged" name="金 b.png" path="/资源/"/>
+    <image id="pygee" name="蓝 b.png" path="/资源/"/>
+    <image id="pygeg" name="紫 b.png" path="/资源/"/>
+    <image id="pygeh" name="绿 b.png" path="/资源/"/>
+  </resources>
+  <publish name="Task" path="E:\Client\trunk\Assets\StreamingFairyAssets\Task" excluded="iex91"/>
+</packageDescription>

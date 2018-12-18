@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="320,35">
+  <displayList>
+    <text id="n1_t1d4" name="n1" xy="4,0" size="105,37" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n2_t1d4" name="n2" xy="209,0" size="110,37" font="微软雅黑" fontSize="25" color="#a6fea8" align="right" vAlign="middle" autoSize="none" bold="true" text=""/>
+  </displayList>
+</component>

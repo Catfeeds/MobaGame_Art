@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="199,89">
+  <displayList>
+    <image id="n0_qip3" name="n0" src="qip3c" xy="0,0" group="n17_qip3"/>
+    <loader id="n2_qip3" name="n2" xy="42,6" size="20,20" group="n17_qip3" url="ui://sgwvgm5zlnrz1f" fill="scaleFree"/>
+    <loader id="n26_khes" name="n26" xy="42,63" size="25,25" group="n17_qip3" aspect="true" fill="scaleFree"/>
+    <loader id="n27_khes" name="n27" xy="68,63" size="25,25" group="n17_qip3" aspect="true" fill="scaleFree"/>
+    <loader id="n28_khes" name="n28" xy="94,63" size="25,25" group="n17_qip3" aspect="true" fill="scaleFree"/>
+    <loader id="n29_khes" name="n29" xy="120,63" size="25,25" group="n17_qip3" aspect="true" fill="scaleFree"/>
+    <loader id="n30_khes" name="n30" xy="146,63" size="25,25" group="n17_qip3" aspect="true" fill="scaleFree"/>
+    <loader id="n31_khes" name="n31" xy="172,63" size="25,25" group="n17_qip3" aspect="true" fill="scaleFree"/>
+    <text id="n3_qip3" name="n3" xy="62,3" size="84,26" group="n17_qip3" font="微软雅黑" fontSize="16" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="none" bold="true" text="名字四字"/>
+    <text id="n4_qip3" name="n4" xy="37,28" size="89,26" group="n17_qip3" font="微软雅黑" fontSize="16" color="#c9c9c9" align="center" vAlign="middle" leading="0" autoSize="none" bold="true" text="0/0/0"/>
+    <group id="n17_qip3" name="n17" xy="0,0" size="199,89"/>
+    <loader id="n19_f4u2" name="n19" xy="171,30" pivot="0.5,0.5" anchor="true" size="43,43" group="n32_khes" aspect="true" url="ui://5ewfozh6f4u22a" fill="scaleFree"/>
+    <text id="n24_c8zd" name="n24" xy="150,17" size="41,31" group="n32_khes" visible="false" font="微软雅黑" fontSize="20" color="#ffffff" align="center" autoSize="none" bold="true" text="10S"/>
+    <group id="n32_khes" name="n32" xy="150,17" size="64,56"/>
+  </displayList>
+</component>

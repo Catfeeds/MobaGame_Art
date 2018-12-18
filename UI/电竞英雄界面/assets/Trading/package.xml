@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tienhxpu" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="xbdx0" name="下拉条 弹框 底部.png" path="/资源/" scale="9grid" scale9grid="5,5,24,24"/>
+    <image id="xbdx1" name="信息条 选中状态.png" path="/资源/"/>
+    <image id="xbdx2" name="信息条底部.png" path="/资源/" scale="9grid" scale9grid="5,5,24,24"/>
+    <image id="xbdx3" name="选手版面.png" path="/资源/"/>
+    <image id="xbdx4" name="背景总.jpg" path="/资源/"/>
+    <image id="xbdx5" name="标题按钮.png" path="/资源/"/>
+    <image id="xbdx6" name="标题栏.png" path="/资源/" scale="9grid" scale9grid="5,5,16,43"/>
+    <image id="xbdx7" name="出售界面  头像底部.png" path="/资源/" scale="9grid" scale9grid="5,5,24,24"/>
+    <image id="xbdx8" name="分割线.png" path="/资源/"/>
+    <image id="xbdx9" name="分页按钮 2.png" path="/资源/" scale="9grid" scale9grid="5,5,150,47"/>
+    <image id="xbdxa" name="分页按钮.png" path="/资源/" scale="9grid" scale9grid="8,8,164,48"/>
+    <image id="xbdxb" name="购买界面  箭头1.png" path="/资源/"/>
+    <image id="xbdxc" name="购买界面  箭头2.png" path="/资源/"/>
+    <image id="xbdxd" name="购买界面  信息条箭头.png" path="/资源/"/>
+    <image id="xbdxe" name="视图切换按钮 选中.png" path="/资源/"/>
+    <image id="xbdxh" name="搜索按钮.png" path="/资源/"/>
+    <image id="xbdxi" name="文字箭头.png" path="/资源/"/>
+    <component id="xbdxj" name="Main.xml" path="/组件/" exported="true"/>
+    <image id="xbdxk" name="交易界面.jpg" path="/资源/排除资源/"/>
+    <component id="xbdxl" name="标签页按钮.xml" path="/组件/按钮/"/>
+    <component id="xbdxr" name="标签下拉按钮.xml" path="/组件/按钮/下拉按钮/"/>
+    <image id="xbdxs" name="交易界面2.jpg" path="/资源/排除资源/"/>
+    <component id="xbdxu" name="品质下拉按钮.xml" path="/组件/按钮/下拉按钮/"/>
+    <component id="xbdxv" name="文字下拉按钮.xml" path="/组件/按钮/下拉按钮/"/>
+    <component id="xbdxw" name="位置下拉按钮.xml" path="/组件/按钮/下拉按钮/"/>
+    <component id="xbdxx" name="选手详情.xml" path="/组件/选手/"/>
+    <image id="xbdxy" name="1007.png" path="/资源/排除资源/"/>
+    <image id="xbdxz" name="战队图标 (3).png" path="/资源/排除资源/"/>
+    <image id="xbdx11" name="战队图标 (5).png" path="/资源/排除资源/"/>
+    <component id="xbdx12" name="Logo.xml" path="/组件/选手/"/>
+    <component id="xbdx13" name="购买页面.xml" path="/组件/"/>
+    <image id="xbdx14" name="出售界面.jpg" path="/资源/排除资源/"/>
+    <component id="xbdx15" name="选手列表.xml" path="/组件/出售/"/>
+    <component id="xbdx16" name="选手头像列表.xml" path="/组件/出售/"/>
+    <image id="xbdx17" name="出售界面2.jpg" path="/资源/排除资源/"/>
+    <image id="xbdx18" name="出售界面3.jpg" path="/资源/排除资源/"/>
+    <component id="xbdx19" name="出售选手排序.xml" path="/组件/出售/"/>
+    <image id="xbdx1a" name="出售界面 弹窗.jpg" path="/资源/排除资源/"/>
+    <component id="xbdx1b" name="出售页面.xml" path="/组件/"/>
+    <component id="xbdx1c" name="出售弹窗页面.xml" path="/组件/"/>
+    <image id="xbdx1d" name="出售界面 弹窗2.jpg" path="/资源/排除资源/"/>
+    <image id="xbdx1e" name="n98.png" path="/资源/"/>
+  </resources>
+  <publish name="Trading" path="E:\X1Client\Assets\StreamingFairyAssets\Trading" maxAtlasSize="1024" excluded="xbdxy,xbdx14,xbdx1a,xbdx1d,xbdx17,xbdx18,xbdxk,xbdxs,xbdxz,xbdx11">
+    <atlas name="默认" index="0"/>
+  </publish>
+</packageDescription>

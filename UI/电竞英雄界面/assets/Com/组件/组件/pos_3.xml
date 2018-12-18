@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="89,89">
+  <displayList>
+    <image id="n1_lnrz" name="n1" src="lnrz1i" xy="0,0"/>
+    <image id="n2_lnrz" name="n2" src="lnrz1g" xy="22,22"/>
+  </displayList>
+</component>

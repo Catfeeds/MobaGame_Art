@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false" designImage="ui://4arh5aieqip3k">
+  <controller name="c1" pages="0,全部,1,品质,2,位置" selected="0"/>
+  <displayList>
+    <graph id="n38_f6zi" name="n38" xy="0,517" size="1334,233" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n37_f6zi" name="n37" src="f6zi62" pkg="sgwvgm5z" xy="0,515" size="1334,5"/>
+    <list id="n34_qip3" name="n4" xy="142,525" size="1187,230" layout="flow_vt" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://4arh5aieqip38">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <graph id="n35_f6zi" name="n35" xy="0,0" size="1334,750" alpha="0.6" type="rect" fillColor="#ff000000">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </graph>
+    <component id="n18_qip3" name="n0" src="qip3l" xy="0,351">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n27_qip3" name="n1" src="qip3m" xy="0,364">
+      <gearDisplay controller="c1" pages="2"/>
+    </component>
+    <component id="n16_qip3" name="n2" src="qip3f" xy="11,535"/>
+    <component id="n17_qip3" name="n3" src="qip3f" xy="11,641">
+      <Button title="位置"/>
+    </component>
+  </displayList>
+</component>

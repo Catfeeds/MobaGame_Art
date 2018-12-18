@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="340,22" extention="ProgressBar">
+  <displayList>
+    <image id="n4_iod4" name="n1" src="qip32o" fileName="资源/无需设置导出资源/滑动/经验条2 A.png" xy="0,-1" size="341,24"/>
+    <image id="n6_iod4" name="bar" src="iod44b" fileName="资源/无需设置导出资源/滑动/经验条B.png" xy="0,0" size="296,22"/>
+    <text id="n3" name="title" xy="0,-2" size="340,31" font="微软雅黑" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="50/100">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

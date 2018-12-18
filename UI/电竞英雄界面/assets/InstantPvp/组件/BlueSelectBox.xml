@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="305,133" designImageLayer="1">
+  <displayList>
+    <image id="n0_qyfw" name="n1" src="eej7m" xy="0,0" hideByEditor="true"/>
+    <image id="n1_qyfw" name="n2" src="qyfw75" pkg="sgwvgm5z" xy="4,7" size="110,110"/>
+    <loader id="n2_qyfw" name="n3" xy="8,14" size="100,100"/>
+    <text id="n3_qyfw" name="n4" xy="122,4" size="134,39" font="微软雅黑" fontSize="30" color="#d0deef" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <component id="n4_qyfw" name="n5" src="d3x61" pkg="sgwvgm5z" xy="242,97" size="58,31">
+      <Button title="装备" titleFontSize="20" icon="ui://sgwvgm5zxbdx6d"/>
+    </component>
+    <loader id="n8_qvis" name="n6" xy="261,0" size="41,41" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n9_qvis" name="n7" xy="120,49" size="68,68" align="center" vAlign="middle" fill="scale"/>
+    <text id="n10_qvis" name="n8" xy="192,44" size="109,37" font="微软雅黑" fontSize="25" color="#7e96b8" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+  </displayList>
+</component>

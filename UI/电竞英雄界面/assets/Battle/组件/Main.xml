@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://5ewfozh6xbdx2r" designImageAlpha="20">
+  <displayList>
+    <image id="n0_d3x6" name="n0" src="qip3n" xy="0,0" size="1334,750" group="n14_qip3"/>
+    <text id="n5_qip3" name="n5" xy="605,0" size="123,37" group="n14_qip3" font="微软雅黑" fontSize="25" color="#cbcccc" align="center" vAlign="middle" leading="8" letterSpacing="3" autoSize="none" bold="true" text="00:00"/>
+    <text id="n4_qip3" name="n4" xy="636,33" size="65,44" group="n14_qip3" font="微软雅黑" fontSize="30" color="#cbcccc" align="center" vAlign="middle" leading="8" letterSpacing="3" autoSize="none" bold="true" text="VS"/>
+    <text id="n60_c8zd" name="n60" xy="1163,639" size="123,43" group="n14_qip3" visible="false" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="10S"/>
+    <component id="n15_qip3" name="n15" src="d3x61" pkg="sgwvgm5z" xy="1228,4" size="103,50" group="n14_qip3">
+      <Button title=" " icon="ui://5ewfozh6qip39"/>
+    </component>
+    <component id="n68_khes" name="n68" src="d3x61" pkg="sgwvgm5z" xy="3,4" size="103,50" group="n14_qip3">
+      <Button title=" " icon="ui://5ewfozh6khes2l"/>
+    </component>
+    <component id="n18_qip3" name="n18" src="d3x61" pkg="sgwvgm5z" xy="1134,680" size="184,65" group="n14_qip3">
+      <Button title="战术" icon="ui://5ewfozh6qip3a"/>
+    </component>
+    <group id="n14_qip3" name="n14" xy="0,0" size="1334,750"/>
+    <text id="n2_qip3" name="n2" xy="530,8" size="120,84" group="n12_qip3" font="微软雅黑" fontSize="60" color="#61acc8" align="center" vAlign="middle" autoSize="none" bold="true" text="0"/>
+    <text id="n6_qip3" name="n6" xy="324,14" size="36,36" group="n12_qip3" font="微软雅黑" fontSize="25" color="#cbcccc" align="center" vAlign="middle" leading="8" letterSpacing="3" autoSize="none" text="0"/>
+    <text id="n9_qip3" name="n9" xy="128,11" size="168,31" group="n12_qip3" font="微软雅黑" fontSize="20" color="#60a8c4" align="center" vAlign="middle" leading="0" autoSize="none" text="角色名六个字"/>
+    <text id="n10_qip3" name="n10" xy="384,11" size="83,36" group="n12_qip3" font="微软雅黑" fontSize="25" color="#60a9c6" align="center" vAlign="middle" leading="0" autoSize="none" text="0"/>
+    <group id="n12_qip3" name="n12" xy="128,8" size="522,84" collapsed="true"/>
+    <text id="n3_qip3" name="n3" xy="686,8" size="120,84" group="n13_qip3" font="微软雅黑" fontSize="60" color="#cc6b79" align="center" vAlign="middle" autoSize="none" bold="true" text="0"/>
+    <text id="n7_qip3" name="n7" xy="978,14" size="36,36" group="n13_qip3" font="微软雅黑" fontSize="25" color="#cbcccc" align="center" vAlign="middle" leading="8" letterSpacing="3" autoSize="none" text="0"/>
+    <text id="n8_qip3" name="n8" xy="1036,11" size="168,31" group="n13_qip3" font="微软雅黑" fontSize="20" color="#c36979" align="center" vAlign="middle" leading="0" autoSize="none" text="国王队"/>
+    <text id="n11_qip3" name="n11" xy="868,11" size="83,36" group="n13_qip3" font="微软雅黑" fontSize="25" color="#c7697a" align="center" vAlign="middle" leading="0" autoSize="none" text="0"/>
+    <group id="n13_qip3" name="n13" xy="686,8" size="518,84" collapsed="true"/>
+    <component id="n20_qip3" name="n20" src="qip32m" pkg="sgwvgm5z" xy="305,714" size="787,22" group="n22_qip3">
+      <ProgressBar max="100"/>
+    </component>
+    <text id="n21_qip3" name="n21" xy="232,704" size="55,37" group="n22_qip3" font="微软雅黑" fontSize="25" color="#cccccc" align="center" vAlign="middle" leading="0" bold="true" text="士气"/>
+    <group id="n22_qip3" name="n22" xy="232,704" size="860,37" collapsed="true"/>
+    <component id="n24_qip3" name="n24" src="qip3b" xy="-255,78" group="n33_qip3"/>
+    <component id="n25_qip3" name="n25" src="qip3b" xy="-255,195" group="n33_qip3"/>
+    <component id="n26_qip3" name="n26" src="qip3b" xy="-255,312" group="n33_qip3"/>
+    <component id="n27_qip3" name="n27" src="qip3b" xy="-255,429" group="n33_qip3"/>
+    <component id="n28_qip3" name="n28" src="qip3b" xy="-255,546" group="n33_qip3"/>
+    <group id="n33_qip3" name="n33" xy="-255,78" size="199,557" advanced="true" collapsed="true" layout="vt" lineGap="28"/>
+    <component id="n61_khes" name="n61" src="khes2j" xy="2,65" group="n67_khes"/>
+    <component id="n62_khes" name="n62" src="khes2j" xy="3,184" group="n67_khes"/>
+    <component id="n63_khes" name="n63" src="khes2j" xy="4,303" group="n67_khes"/>
+    <component id="n64_khes" name="n64" src="khes2j" xy="5,422" group="n67_khes"/>
+    <component id="n65_khes" name="n65" src="khes2j" xy="6,541" group="n67_khes"/>
+    <group id="n67_khes" name="n67" xy="2,65" size="123,586" collapsed="true"/>
+    <component id="n70_khes" name="n70" src="khes2n" xy="176,82" size="85,85" group="n75_xbdx" aspect="true" visible="false"/>
+    <component id="n71_khes" name="n71" src="khes2n" xy="176,198" size="85,85" group="n75_xbdx" aspect="true" visible="false"/>
+    <component id="n72_khes" name="n72" src="khes2n" xy="176,315" size="85,85" group="n75_xbdx" aspect="true" visible="false"/>
+    <component id="n73_khes" name="n73" src="khes2n" xy="176,433" size="85,85" group="n75_xbdx" aspect="true" visible="false"/>
+    <component id="n74_khes" name="n74" src="khes2n" xy="176,549" size="85,85" group="n75_xbdx" aspect="true" visible="false"/>
+    <group id="n75_xbdx" name="n75" xy="176,82" size="85,552" advanced="true" collapsed="true"/>
+    <component id="n32_qip3" name="n32" src="qip37" xy="998,210" pivot="0.5,1" anchor="true" size="68,89" group="n47_qip3" aspect="true"/>
+    <component id="n43_qip3" name="n43" src="qip37" xy="998,210" pivot="0.5,1" anchor="true" size="68,89" group="n47_qip3" aspect="true"/>
+    <component id="n44_qip3" name="n44" src="qip37" xy="998,210" pivot="0.5,1" anchor="true" size="68,89" group="n47_qip3" aspect="true"/>
+    <component id="n45_qip3" name="n45" src="qip37" xy="998,210" pivot="0.5,1" anchor="true" size="68,89" group="n47_qip3" aspect="true"/>
+    <component id="n46_qip3" name="n46" src="qip37" xy="998,210" pivot="0.5,1" anchor="true" size="68,89" group="n47_qip3" aspect="true"/>
+    <group id="n47_qip3" name="n47" xy="998,210" size="68,89" collapsed="true"/>
+    <component id="n29_qip3" name="n29" src="qip34" xy="145,660" pivot="0.5,1" anchor="true" size="68,89" group="n36_qip3" aspect="true"/>
+    <component id="n30_qip3" name="n30" src="qip34" xy="145,660" pivot="0.5,1" anchor="true" size="68,89" group="n36_qip3" aspect="true"/>
+    <component id="n31_qip3" name="n31" src="qip34" xy="145,660" pivot="0.5,1" anchor="true" size="68,89" group="n36_qip3" aspect="true"/>
+    <component id="n34_qip3" name="n34" src="qip34" xy="145,660" pivot="0.5,1" anchor="true" size="68,89" group="n36_qip3" aspect="true"/>
+    <component id="n35_qip3" name="n35" src="qip34" xy="145,660" pivot="0.5,1" anchor="true" size="68,89" group="n36_qip3" aspect="true"/>
+    <group id="n36_qip3" name="n36" xy="145,660" size="68,89" collapsed="true"/>
+    <component id="n58_pirx" name="n58" src="pirx1v" xy="256,176" touchable="false"/>
+    <component id="n83_o6mf" name="n83" src="ied42u" xy="1066,177" group="n84_ied4" touchable="false"/>
+    <component id="n82_o6mf" name="n82" src="ied42u" xy="1044,187" group="n84_ied4" touchable="false"/>
+    <component id="n81_o6mf" name="n81" src="ied42u" xy="1024,200" group="n84_ied4" touchable="false"/>
+    <component id="n80_o6mf" name="n80" src="ied42u" xy="1000,211" group="n84_ied4" touchable="false"/>
+    <component id="n78_ied4" name="n78" src="ied42u" xy="982,223" group="n84_ied4" touchable="false"/>
+    <component id="n79_o6mf" name="n79" src="ied42v" xy="885,206" group="n84_ied4"/>
+    <component id="n85_ied4" name="n85" src="t53i34" xy="1040,340" group="n84_ied4"/>
+    <group id="n84_ied4" name="n84" xy="885,177" size="339,345" collapsed="true"/>
+    <component id="n53_pirx" name="n53" src="pirxr" xy="0,0" hideByEditor="true" visible="false"/>
+    <component id="n55_pirx" name="n55" src="pirx15" xy="0,0" hideByEditor="true" visible="false"/>
+    <component id="n48_qip3" name="n48" src="qip3d" xy="0,0" hideByEditor="true" visible="false"/>
+    <component id="n59_gwor" name="n59" src="gwor1x" xy="0,0" hideByEditor="true" visible="false"/>
+    <component id="n86_t53i" name="n86" src="t53i35" xy="460,292" touchable="false"/>
+  </displayList>
+  <transition name="t1">
+    <item time="0" type="XY" target="n75_xbdx" tween="true" startValue="176,82" endValue="329,82" duration="12"/>
+    <item time="0" type="XY" target="n33_qip3" tween="true" startValue="-250,78" endValue="85,78" duration="12"/>
+  </transition>
+</component>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="527,679">
+  <displayList>
+    <image id="n379_h6yh" name="n379" src="h6yh1b" xy="46,30" group="n386_h6yh"/>
+    <text id="n380_h6yh" name="n380" xy="232,31" size="65,41" group="n386_h6yh" font="微软雅黑" fontSize="28" color="#ffffff" letterSpacing="2" autoSize="none" bold="true" text="身价"/>
+    <text id="n383_h6yh" name="n383" xy="52,80" size="314,47" group="n386_h6yh" scale="1.2,1.2" font="ui://sgwvgm5zenbg5j" fontSize="28" color="#ffffff" align="center" vAlign="middle" letterSpacing="2" autoSize="none" bold="true" text="99999万"/>
+    <component id="n381_h6yh" name="n381" src="d3x61" pkg="sgwvgm5z" xy="442,85" size="44,44" group="n388_h6yh">
+      <Button title=" " icon="ui://41vqeinnh6yh27"/>
+    </component>
+    <image id="n382_h6yh" name="n382" src="h6yh28" xy="454,87" group="n388_h6yh"/>
+    <group id="n388_h6yh" name="n388" xy="442,85" size="44,44" group="n386_h6yh" collapsed="true"/>
+    <group id="n386_h6yh" name="n386" xy="46,30" size="440,99"/>
+    <image id="n384_h6yh" name="n384" src="h6yh1b" xy="46,153" group="n387_h6yh"/>
+    <text id="n385_h6yh" name="n385" xy="192,154" size="142,41" group="n387_h6yh" font="微软雅黑" fontSize="28" color="#ffffff" align="center" letterSpacing="2" autoSize="none" bold="true" text="选手属性"/>
+    <list id="n395_h6yh" name="n395" xy="47,203" size="442,352" group="n387_h6yh" touchable="false" overflow="scroll" lineGap="2" defaultItem="ui://41vqeinnh6yh2a">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n387_h6yh" name="n387" xy="46,153" size="443,403"/>
+    <image id="n402_h6yh" name="n402" src="h6yh2c" xy="34,563" size="461,109" group="n405_ruoh"/>
+    <image id="n403_h6yh" name="n403" src="h6yh2d" xy="142,569" group="n405_ruoh"/>
+    <component id="n396_h6yh" name="n396" src="d3x6e" pkg="sgwvgm5z" xy="151,607" size="27,27" group="n405_ruoh" aspect="true"/>
+    <component id="n397_h6yh" name="n397" src="d3x6e" pkg="sgwvgm5z" xy="179,607" size="27,27" group="n405_ruoh" aspect="true"/>
+    <component id="n398_h6yh" name="n398" src="d3x6e" pkg="sgwvgm5z" xy="206,607" size="27,27" group="n405_ruoh" aspect="true"/>
+    <component id="n399_h6yh" name="n399" src="d3x6e" pkg="sgwvgm5z" xy="234,607" size="27,27" group="n405_ruoh" aspect="true"/>
+    <component id="n400_h6yh" name="n400" src="d3x6e" pkg="sgwvgm5z" xy="262,607" size="27,27" group="n405_ruoh" aspect="true"/>
+    <component id="n401_h6yh" name="n401" src="xtyk53" pkg="sgwvgm5z" xy="53,570" size="87,87" group="n405_ruoh" aspect="true">
+      <Button icon="ui://41vqeinnh6yh2b"/>
+    </component>
+    <text id="n404_h6yh" name="n404" xy="153,568" size="180,37" group="n405_ruoh" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="公孙离"/>
+    <group id="n405_ruoh" name="n405" xy="34,563" size="461,109" visible="false" advanced="true"/>
+  </displayList>
+</component>

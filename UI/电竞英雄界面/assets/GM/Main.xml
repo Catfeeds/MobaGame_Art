@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n5_d3x6" name="n5" xy="0,0" size="1334,750" type="rect" fillColor="#ffcccccc"/>
+    <graph id="n0_d3x6" name="n0" xy="0,650" size="984,100" type="rect" fillColor="#ff666666"/>
+    <text id="n1_d3x6" name="n1" xy="12,652" size="961,97" input="true" font="微软雅黑" fontSize="60" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" text=""/>
+    <list id="n3_d3x6" name="n3" xy="11,9" size="1310,629" layout="flow_hz" overflow="scroll" lineGap="10" colGap="10" defaultItem="ui://5r2t6w3sd3x62">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_d3x6" name="n4" src="d3x61" xy="994,650">
+      <Button title="发送"/>
+    </component>
+  </displayList>
+</component>

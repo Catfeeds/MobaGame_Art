@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="132,132" mask="n1_xbdx">
+  <displayList>
+    <loader id="n0_xbdx" name="n0" xy="0,0" size="132,132" url="ui://tienhxpuxbdxz" fill="scaleFree"/>
+    <graph id="n1_xbdx" name="n1" xy="0,11" size="106,120" type="rect" lineColor="#ffffffff"/>
+  </displayList>
+</component>

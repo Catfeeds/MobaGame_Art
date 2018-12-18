@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n52_ephy" name="mask" xy="0,0" size="1334,750" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n40_ephy" name="n40" src="ephyt" xy="585,190"/>
+    <text id="n51_ephy" name="n51" xy="835,196" size="125,44" font="微软雅黑" fontSize="30" color="#ffffff" bold="true" text="战术调整"/>
+    <list id="n53_f6zi" name="n53" xy="629,261" size="539,366" layout="flow_hz" overflow="scroll" lineGap="35" colGap="71" lineItemCount="2" defaultItem="ui://4arh5aieephyv">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

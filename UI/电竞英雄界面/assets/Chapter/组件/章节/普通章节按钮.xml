@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,210" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n13_hngs" name="n13" src="hngsw" xy="-3,-10" size="185,215" hideByEditor="true" visible="false"/>
+    <loader id="n10_lnrz" name="n10" xy="0,0" size="180,210" url="ui://522her13lnrzd" autoSize="true"/>
+    <component id="n12_qip3" name="n12" src="qip3l" xy="32,8" size="113,123" aspect="true"/>
+    <component id="n6_d3x6" name="n6" src="d3x6e" pkg="sgwvgm5z" xy="48,150" size="24,24" group="n9_d3x6"/>
+    <component id="n7_d3x6" name="n8" src="d3x6e" pkg="sgwvgm5z" xy="73,157" size="32,32" group="n9_d3x6"/>
+    <component id="n8_d3x6" name="n7" src="d3x6e" pkg="sgwvgm5z" xy="105,150" size="24,24" group="n9_d3x6"/>
+    <group id="n9_d3x6" name="n9" xy="48,150" size="81,39" collapsed="true"/>
+  </displayList>
+  <Button/>
+</component>

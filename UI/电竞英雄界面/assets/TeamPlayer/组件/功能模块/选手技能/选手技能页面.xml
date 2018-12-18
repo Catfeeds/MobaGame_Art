@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="527,679">
+  <displayList>
+    <image id="n384_h6yh" name="n384" src="h6yh1b" xy="47,22"/>
+    <image id="n386_h6yh" name="n386" src="h6yh1b" xy="47,426"/>
+    <image id="n388_h6yh" name="n388" src="h6yh2o" xy="20,68" size="489,30"/>
+    <image id="n400_h6yh" name="n400" src="h6yh2c" xy="20,98" size="489,138"/>
+    <image id="n401_h6yh" name="n401" src="h6yh2c" xy="20,278" size="489,138"/>
+    <image id="n397_h6yh" name="n397" src="h6yh2o" xy="20,248" size="489,30"/>
+    <image id="n403_h6yh" name="n403" src="h6yh2c" xy="19,474" size="489,197"/>
+    <text id="n390_h6yh" name="n390" xy="172,100" size="180,44" group="n405_h6yh" font="微软雅黑" fontSize="30" color="#f9ee6a" autoSize="none" bold="true" strokeColor="#a2662f" strokeSize="4" text="狂轰滥炸"/>
+    <text id="n391_h6yh" name="n391" xy="174,138" size="319,97" group="n405_h6yh" font="微软雅黑" fontSize="17" color="#21609a" autoSize="none" bold="true" text="选手凝聚精神，短暂爆发出惊人战力，使其走位"/>
+    <component id="n395_h6yh" name="n395" src="h6yh2n" xy="37,105" group="n405_h6yh"/>
+    <image id="n396_h6yh" name="n396" src="h6yh2m" xy="130,188" group="n405_h6yh"/>
+    <group id="n405_h6yh" name="n405" xy="37,100" size="456,135" visible="false" advanced="true"/>
+    <component id="n407_h6yh" name="n407" src="d3x61" pkg="sgwvgm5z" xy="36,107" size="125,125" group="n409_h6yh">
+      <Button title=" " icon="ui://41vqeinnh6yh3h"/>
+    </component>
+    <text id="n408_h6yh" name="n408" xy="193,145" size="173,41" group="n409_h6yh" font="微软雅黑" fontSize="28" color="#ffffff" bold="true" text="点击配置技能"/>
+    <group id="n409_h6yh" name="n409" xy="36,107" size="330,125" advanced="true"/>
+    <text id="n385_h6yh" name="n385" xy="232,22" size="65,44" font="微软雅黑" fontSize="30" color="#ffffff" bold="true" text="技能"/>
+    <text id="n387_h6yh" name="n387" xy="202,426" size="125,44" font="微软雅黑" fontSize="30" color="#ffffff" bold="true" text="持有技能"/>
+    <text id="n389_h6yh" name="n389" xy="150,67" size="225,31" font="微软雅黑" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="主动技能"/>
+    <text id="n398_h6yh" name="n398" xy="150,247" size="225,31" font="微软雅黑" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="主动技能"/>
+    <text id="n402_h6yh" name="n402" xy="88,296" size="362,97" font="微软雅黑" fontSize="60" color="#cccccc" align="center" vAlign="middle" autoSize="none" bold="true" text="暂未开放"/>
+    <list id="n404_h6yh" name="n404" xy="40,476" size="453,194" layout="flow_hz" overflow="scroll" lineGap="11" colGap="15" defaultItem="ui://41vqeinnh6yh2p">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

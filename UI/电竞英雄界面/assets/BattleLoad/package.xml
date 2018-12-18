@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4mkm6och" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ple50" name="750p 对战加载界面.jpg" path="/资源参考/"/>
+    <image id="ple51" name="背景总.jpg" path="/资源/"/>
+    <image id="ple52" name="卡牌背景 红.png" path="/资源/"/>
+    <image id="ple53" name="卡牌背景 蓝.png" path="/资源/"/>
+    <image id="ple54" name="卡牌名字 红.png" path="/资源/"/>
+    <image id="ple55" name="卡牌名字 蓝.png" path="/资源/"/>
+    <component id="ple56" name="Main.xml" path="/组件/" exported="true"/>
+    <component id="dkzc7" name="CardItemBlue.xml" path="/组件/"/>
+    <image id="dkzc8" name="1002.png" path="/资源参考/"/>
+    <image id="dkzc9" name="1001.png" path="/资源参考/"/>
+    <image id="dkzca" name="1421.jpg" path="/资源参考/"/>
+    <component id="dkzcb" name="CardItemRed.xml" path="/组件/"/>
+    <component id="6z19c" name="MaskHero.xml" path="/组件/"/>
+    <component id="6z19d" name="HeroAvatarBlue.xml" path="/组件/"/>
+    <component id="6z19e" name="HeroAvatarRed.xml" path="/组件/"/>
+  </resources>
+  <publish name="BattleLoad" path="E:\Client\trunk\Assets\StreamingFairyAssets\BattleLoad" excluded="dkzc9,dkzc8,dkzca,ple50"/>
+</packageDescription>

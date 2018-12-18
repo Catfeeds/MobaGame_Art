@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="45,51">
+  <displayList>
+    <image id="n2_t53i" name="n2" src="t53i3c" xy="0,0" size="45,40"/>
+    <image id="n4_86ov" name="n4" src="t53i3c" xy="5,20"/>
+  </displayList>
+</component>

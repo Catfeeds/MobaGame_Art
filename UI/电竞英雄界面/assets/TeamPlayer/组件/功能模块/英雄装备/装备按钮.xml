@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="87,87">
+  <displayList>
+    <image id="n77_h6yh" name="n77" src="h6yh44" xy="0,0" visible="false"/>
+    <component id="n78_h6yh" name="n78" src="h6yh46" xy="2,2" size="84,84" aspect="true"/>
+  </displayList>
+</component>

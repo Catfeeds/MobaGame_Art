@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="284,84" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="jzbod" xy="0,0">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2" name="n2" src="jzboc" xy="0,0">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3" name="title" xy="132,25" size="107,36" font="微软雅黑" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="100">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <loader id="n4" name="icon" xy="89,26" size="30,30" aspect="true" url="ui://sgwvgm5zppxq2r" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button/>
+</component>
